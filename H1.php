@@ -17,16 +17,14 @@
     <title> Muia Mwanzia & Co. Advocates </title>
 </head>
 <body>
-
 <button onclick="topFunction()" id="Scroll-button" title="Go to top">Top</button>
-
 
 <!--                Header sections starts here-->
 <section class="Header1">
-    <hr class="closure">
+<!--    <hr class="closure">-->
 
     <nav>
-        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="100"></a>
+        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
@@ -65,17 +63,21 @@
                                                 <h2>Commercial & Corporate Law</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                                <a class="Learn-News" href="Practise_A.php"> read more </a>
+
                                             </div>
                                         <div class="practise-col">
                                             <h2>Civil & Criminal Litigation</h2>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
-                                            </div>
+                                            <a class="Learn-News" href="Practise_A.php"> read more </a>
+                                        </div>
                                             <div class="practise-col">
                                                 <h2>Conveyancing & Arbitration</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                                                     <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                     <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                                <a class="Learn-News" href="Practise_A.php"> read more </a>
                                             </div>
                                     </div>
         </section>

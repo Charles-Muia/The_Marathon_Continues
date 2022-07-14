@@ -44,22 +44,40 @@
             justify-content: space-between;
             align-items: center;
             /*background-color: transparent;*/
-            /*background: rgba(226, 0, 0, 0.1);*/
+            background: rgba(0,0,0,0.3);
             /*position: fixed;*/
             /*width: 85%;*/
             right: 0;
-            /*top: 50%;*/
-            margin-top: 0.1em;
+            top: 50%;
+            /*margin-top: 0.1em;*/
         }
+
+
+        /*@media (max-width: 800px) {*/
+        /*    nav {*/
+        /*        !*width: 90%;*!*/
+        /*        height: 3%;*/
+        /*        margin-top: 3%;*/
+        /*    }*/
+        /*    nav img{*/
+        /*        height: 50px;*/
+        /*    }*/
+
+        /*    .closure{*/
+        /*        display: none;*/
+        /*    }*/
+        /*}*/
 
         nav img {
             flex: 3;
             text-align: right;
+            padding-left: 0px;
+            padding-right: 0;
         }
 
         .logo ul li {
             list-style: none;
-            font-family: "Microsoft JhengHei UI Light";
+            /*font-family: "Microsoft JhengHei UI Light";*/
             text-decoration: none;
             font-weight: 850;
             font-size: 30px;
@@ -71,23 +89,25 @@
             color: white;
             font-size: 20px;
             display: inline-block;
+            width: auto;
 
         }
 
         .nav-links ul li {
             list-style: none;
-            font-family: "Microsoft JhengHei UI Light";
+            /*font-family: "Microsoft JhengHei UI Light";*/
             font-weight: 800;
             font-size: 17px;
             text-transform: uppercase;
             position: relative;
             display: inline-block;
-            padding: 5px 14px;
+            padding: 5px 10px;
         }
 
         .nav-links ul li a {
             text-decoration: none;
             color: whitesmoke;
+            padding: 10px;
 
         }
 
@@ -645,7 +665,7 @@
 
 /*--------------------About Us CSS starts here--------------------------*/
                 .About-Header1 {
-                    min-height: 75vh;
+                    min-height: 70vh;
                     width: 100%;
                     background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/taisiia-shestopal-Ho20JoDSz3I-unsplash.jpg");
                     background-position: center;
@@ -656,8 +676,9 @@
                 }
 
                 .About-Header1 h1 {
-                    margin-top: 65px;
+                    margin-top: 75px;
                 }
+
 
                 .About-Sec{
                     width: 90%;
@@ -897,7 +918,7 @@
 /*--------------------Practise-Areas CSS starts here--------------------------*/
 
         .Practise-Header1 {
-            min-height: 75vh;
+            min-height: 70vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.1)), url("Pics/giammarco-OPzWvgL-upY-unsplash.jpg");
             background-position: center;
@@ -908,8 +929,9 @@
         }
 
         .Practise-Header1 h1 {
-            margin-top: 65px;
+            margin-top: 75px;
         }
+
 
 
         .p-n-section {

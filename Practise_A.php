@@ -16,11 +16,15 @@
     <title> Muia Mwanzia & Co. Advocates </title>
 </head>
 <body>
+<button onclick="topFunction()" id="Scroll-button" title="Go to top">Top</button>
+
 
 <!--                Header sections starts here-->
 <section class="Practise-Header1">
+<!--    <hr class="closure">-->
+
     <nav>
-        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="100"></a>
+        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
                 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
@@ -259,6 +263,31 @@
         $("#line-progress").css("width", "100%");
         $(".analysis").addClass("active").siblings().removeClass("active");
     });
+</script>
+
+<!--------------JS for Scroll-button----------------->
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("Scroll-button");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+
 </script>
 
 </body>
