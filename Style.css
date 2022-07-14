@@ -1,0 +1,986 @@
+        *  {
+            margin: 0;
+            padding: 0;
+            font-family: 'Advent Pro', sans-serif;
+        }
+
+        /*--------------------Scroll to top button CSS starts here--------------------------*/
+            #Scroll-button {
+                font-size: 15px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: 500;
+                z-index: 99;
+                outline: none;
+                border: none;
+                display: none;
+                position: fixed;
+                bottom: 25px;
+                right: 10px;
+                background-color: darkblue;
+                color: whitesmoke;
+                cursor: pointer;
+                padding: 15px;
+                border-radius: 2px;
+            }
+
+            #Scroll-button:hover {
+                background-color: black;
+            }
+
+
+
+        .Header1 {
+            min-height: 100vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("Pics/clarisse-meyer-jKU2NneZAbI-unsplash.jpg");
+            background-position: center;
+            background-size: cover;
+            position: relative;
+        }
+
+        nav {
+            display: flex;
+            padding: 2% 7%;
+            justify-content: space-between;
+            align-items: center;
+            /*background-color: transparent;*/
+            /*background: rgba(226, 0, 0, 0.1);*/
+            /*position: fixed;*/
+            /*width: 85%;*/
+            right: 0;
+            /*top: 50%;*/
+            margin-top: 0.1em;
+        }
+
+        nav img {
+            flex: 3;
+            text-align: right;
+        }
+
+        .logo ul li {
+            list-style: none;
+            font-family: "Microsoft JhengHei UI Light";
+            text-decoration: none;
+            font-weight: 850;
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+
+        .logo ul li a {
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            display: inline-block;
+
+        }
+
+        .nav-links ul li {
+            list-style: none;
+            font-family: "Microsoft JhengHei UI Light";
+            font-weight: 800;
+            font-size: 17px;
+            text-transform: uppercase;
+            position: relative;
+            display: inline-block;
+            padding: 5px 14px;
+        }
+
+        .nav-links ul li a {
+            text-decoration: none;
+            color: whitesmoke;
+
+        }
+
+        .nav-links ul li::after {
+            content: '';
+            width: 0;
+            height: 3px;
+            display: block;
+            margin: auto;
+            background: blue;
+            transition: 0.7s;
+        }
+
+        .nav-links ul li:hover::after {
+            width: 100%;
+        }
+
+        span {
+            font-size: 13px;
+            text-align: center;
+            font-family: "Microsoft JhengHei UI Light";
+            display: flex;
+        }
+        .text {
+            width: 100%;
+            color: white;
+            position: absolute;
+            top: 55%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            text-align: center;
+        }
+
+        .text h1 {
+            font-size: 70px;
+        }
+
+        .text p{
+            margin: 10px 0 30px;
+            font-size: 24px;
+            color: white;
+            padding-top: 30px;
+        }
+
+        .text a {
+            text-decoration: none;
+            color: whitesmoke;
+            margin-top: 30px;
+            text-transform: uppercase;
+        }
+
+        .Learn {
+            border: 2px solid blue;
+            display: inline-block;
+            background: transparent;
+            padding: 10px 40px;
+            cursor: pointer;
+            position: relative;
+            font-size: 20px;
+            text-transform: capitalize;
+        }
+
+        .Learn-News {
+            text-decoration: none;
+            text-transform: uppercase;
+            text-shadow: antiquewhite;
+            font-weight: 700;
+            position: relative;
+            line-height: 50px;
+            border-radius: 5px;
+            border: 0 solid blue;
+            background-color: navajowhite;
+            padding: 5px 15px 5px;
+            margin: auto;
+        }
+
+        .Learn-News:hover {
+            box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+            border: 0 solid transparent;
+            color: black;
+
+        }
+
+        .Learn:hover {
+            border: 2px solid ghostwhite;
+            color: blue;
+        }
+
+        nav .fa {
+            display: none;
+        }
+
+@media (max-width: 800px) {
+    .text h1 {
+        font-size: 35px;
+    }
+
+    .nav-links ul li {
+        display: block;
+    }
+
+    .nav-links {
+        position: absolute;
+        background: midnightblue;
+        height: 100vh;
+        width: 250px;
+        top: 0;
+        right: -250px;
+        text-align: left;
+        z-index: 3;
+        transition: 2s;
+    }
+    nav .fa {
+        display: block;
+        color: #fff;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .nav-links ul {
+        padding: 35px;
+    }
+
+    .logo ul li a {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .logo ul li span {
+        font-size: 10px;
+        display: inline-block;
+    }
+}
+
+        /*----------Practise section CSS Starts Here----------*/
+        .Practise {
+            width: 95%;
+            margin: auto;
+            text-align: center;
+            padding-top: 35px;
+        }
+        h1 {
+            font-size: 55px;
+            font-weight: 700;
+        }
+        p {
+            padding-top: 15px;
+            font-size: 18px ;
+            line-height: 25px;
+        }
+
+        .row {
+            margin-top: 4%;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /*.title {*/
+        /*    border: 2px solid blue;*/
+        /*    display: inline-block;*/
+        /*    background: transparent;*/
+        /*    padding: 10px 40px;*/
+        /*    cursor: pointer;*/
+        /*    position: relative;*/
+        /*    font-size: 70px;*/
+        /*    text-transform: capitalize;*/
+        /*}*/
+
+        /*.Learn:hover {*/
+        /*    border: 2px solid ghostwhite;*/
+        /*}*/
+
+        .practise-col {
+            flex-basis: 31%;
+            box-sizing: border-box;
+            background-color: antiquewhite;
+            border-radius: 5px;
+            margin-bottom: 4%;
+            padding: 22px 11px;
+            transition: 0.5s;
+        }
+        .practise-col:hover {
+            background-color: dodgerblue;
+            box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+        }
+
+        .Practise-2 {
+            width: 95%;
+            margin: auto;
+            text-align: center;
+            padding-top: 0;
+        }
+
+        h2 {
+            text-align: center;
+            font-weight: 700;
+            max-resolution: 5px 0;
+        }
+        @media (max-width: 800px){
+            .row {
+                flex-direction: column;
+            }
+        }
+
+        /*----------Commitment section CSS Starts Here----------*/
+        .Commitment {
+            width: 90%;
+            margin: auto;
+            text-align: center;
+}
+    .commitment-col {
+        flex-basis: 32%;
+        margin-bottom: 25px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 5px;
+}
+    .commitment-col:hover {
+        box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+    }
+
+    .commitment-col img {
+        width: 100%;
+        height: 100%;
+        border-radius: 5px;
+        display: block;
+    }
+
+   .commitment-layer {
+       background: transparent;
+       height: 100%;
+       width: 100%;
+       position: absolute;
+       top: 0;
+       left: 0;
+       transition: 0.5s;
+   }
+
+    .commitment-layer:hover {
+        background: rgba(226, 0, 0, 0.1);
+    }
+
+    .commitment-layer h3 {
+        width: 100%;
+        font-weight: 500;
+        color: black;
+        font-size: 30px;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        position: absolute;
+        opacity: 0;
+        transition: 0.9s;
+        text-transform: uppercase;
+        font-family: "Adobe Gothic Std B";
+        background-color: antiquewhite;
+    }
+    .commitment-layer:hover h3 {
+        bottom: 50%;
+        Opacity: 1;
+    }
+
+/*----------News section CSS Starts Here----------*/
+        .nws {
+            width: 90%;
+            margin: auto;
+            text-align: center;
+            padding-top: 10px;
+        }
+
+        .nws-col {
+            flex-basis: 30%;
+            margin-bottom: 5%;
+            text-align: center;
+            border-radius: 10px;
+            }
+
+        .nws-col img {
+            width: 100%;
+            border-radius: 5px;
+            }
+
+        .nws-col img:hover {
+        box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+        }
+
+        .nws-col p {
+        padding: 0;
+        }
+
+        .nws-col h3 {
+            margin-top: 14px;
+            margin-bottom: 13px;
+            text-align: center;
+        }
+
+
+/*----------Client-testimonials section CSS Starts Here----------*/
+        .Client-testimonials {
+            width: 95%;
+            margin: auto;
+            padding-top: 10px;
+            text-align: center;
+        }
+
+        .test-col {
+            flex-basis: 45%;
+            margin-bottom: 5%;
+            border-radius: 10px;
+            background-color: antiquewhite;
+            text-align: left;
+            padding: 25px;
+            display: flex;
+            cursor: pointer;
+    }
+
+        .test-col:hover {
+            background-color: dodgerblue;
+            box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+    }
+
+        .test-col img {
+            height: 50px;
+            margin-right: 30px;
+            margin-left: 16px;
+            border-radius: 60%;
+        }
+
+        .test-col p {
+            padding: 0px;
+            }
+
+        .test-col h3 {
+            margin-top: 10px;
+            text-align: left;
+            margin-left: 5px;
+        }
+
+        .test-col :hover h3 {
+           color: antiquewhite;
+        }
+
+        .test-col .fa {
+            color: midnightblue;
+            margin-left: 5px;
+        }
+
+        .test-col :hover .fa {
+            color: antiquewhite;
+            margin-left: 5px;
+        }
+
+        @media (max-width: 750px){
+            .test-col img {
+                margin-right: 15px;
+                margin-left: 0px;
+            }
+        }
+
+/*----------Con section CSS Starts Here----------*/
+        .Con {
+            margin: 60px auto;
+            width: 95%;
+            background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("Pics/Research.jpg");
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            padding: 100px 0;
+            border-radius: 10px;
+        }
+
+        .Con h1 {
+            color: whitesmoke;
+            margin-bottom: 50px;
+            padding: 0px;
+        }
+
+        .Con a {
+            text-decoration: none;
+            color: whitesmoke;
+            margin-top: 30px;
+            text-transform: uppercase;
+        }
+
+
+        @media (max-width: 800px) {
+            .Con h1{
+                font-size: 25px;
+                padding: 0.5%;
+            }
+        }
+
+/*----------Footer section CSS Starts Here----------*/
+            .Footer {
+                text-align: center;
+                width: 100%;
+                font-family: 'Advent Pro', sans-serif;
+                padding: 5px 0;
+            }
+
+            .Footer h4 {
+                margin-top: 0;
+                margin-bottom: 20px;
+                font-weight: 0;
+                text-align: center;
+                font-size: 20px;
+                /*letter-spacing: 1px;*/
+                padding: 10px;
+                /*font-variant: all-petite-caps;*/
+
+            }
+
+            .Footer h4 .fa {
+                font-size: 60px;
+                margin-top: 50px;
+                margin-bottom: 0;
+                color: blue;
+            }
+
+            .Footer p {
+                margin-top: 10px;
+                margin-bottom: 30px;
+                /*font-weight: 0;*/
+            }
+
+            .Footer-Con {
+                margin-top: 20px;
+                margin-bottom: 25px;
+                /*background-color: blue;*/
+                padding: 15px 10px;
+                color: black;
+                line-height: 35px;
+                font-size: 30px;
+                /*border-right: 3px solid whitesmoke;*/
+                /*letter-spacing: 1px;*/
+            }
+
+            .Footer-Con:hover {
+                box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
+            }
+
+            .Social {
+            margin-bottom: 35px;
+                margin-top: 10px;
+            }
+
+            .Social .fa {
+                color: blue;
+                cursor: pointer;
+                margin: 0 30px ; /*creates space in-between*/
+                padding: 10px 0;
+                font-size: 25px;
+                background-color: transparent;
+                width: 50px;
+                height: 50px;
+                left: 0;
+                right: 0;
+                border: 1px solid black;
+                box-sizing: border-box;
+                border-radius: 50%;
+            }
+
+            .Social .fa:hover {
+
+            }
+
+            .Social2 {
+                color: blue;
+                text-decoration: none;
+                /*cursor: pointer;*/
+                margin: 10px 0 30px 0; /*creates space in-between*/
+                padding: 2px 0 15px 0;
+                font-size: 18px;
+                /*font-weight: 400;*/
+                line-height: 20px;
+                display: inline-block;
+                width: 100%;
+
+            }
+
+            .Social2 .fa {
+                margin: 0 25px;
+                font-size: 20px;
+                line-height: 35px;
+                left: 0;
+                right: 0;
+            }
+
+
+            .Soc {
+                font-size: 20px;
+                font-family: 'Advent Pro', sans-serif;
+                font-weight: 650;
+                color: black;
+                text-align: center;
+                display: block;
+            }
+
+            .Credits {
+                font-size: 15px;
+                margin: 0;
+                padding: 0;
+            }
+
+            .Cre {
+                text-decoration: none;
+                color: black;
+                padding: 0;
+                font-weight: 650;
+                }
+
+        @media (max-width: 800px) {
+            .Footer-Con{
+                display: none;
+            }
+
+            .Footer h4 {
+                font-size: 17px;
+            }
+
+            .Social2 .fa {
+                display: block;
+                padding-top: 20px;
+            }
+        }
+
+            .closure {
+                border: 1px solid blue;
+                line-height: 50px;
+            }
+
+        .dot {
+            height: 13px;
+            width: 13px;
+            background-color: darkblue;
+            border-radius: 50%;
+            display: inline-block;
+            line-height: 50%;
+            margin: 0 40px;
+        }
+
+        .dot2 {
+            height: 7px;
+            width: 7px;
+            background-color: darkblue;
+            border-radius: 50%;
+            display: inline-block;
+            text-align: center;
+        }
+
+        /*.row2 {*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*--------------------About Us CSS starts here--------------------------*/
+                .About-Header1 {
+                    min-height: 75vh;
+                    width: 100%;
+                    background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/taisiia-shestopal-Ho20JoDSz3I-unsplash.jpg");
+                    background-position: center;
+                    background-size: cover;
+                    position: relative;
+                    text-align: center;
+                    color: white;
+                }
+
+                .About-Header1 h1 {
+                    margin-top: 65px;
+                }
+
+                .About-Sec{
+                    width: 90%;
+                    margin: auto;
+                    padding-top: 20px;
+                    padding-bottom: 0;
+                }
+
+                .about-col {
+                    flex: 50%;
+                    padding: 30px 4px;
+                }
+
+                .about-col img {
+                    width: 100%;
+                }
+
+                .about-col h1 {
+                    padding-top: 0;
+                }
+                .about-col p {
+                    padding: 16px 0 30px;
+                }
+
+/*--------------------Our Timeline Journey CSS --------------------------------*/
+
+                timeline-sec{
+                    width: 90%;
+                    margin: auto;
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                }
+
+                 .timeline-col {
+                     flex: 50%;
+                     /*padding-bottom: 60px;*/
+                 }
+
+                .timeline-col h1 {
+                    text-align: center;
+                    /*padding-bottom: 60px;*/
+                }
+
+                .timeline-col p {
+                    text-align: center;
+                    /*padding-top: 60px;*/
+                }
+
+
+/*--------------------- Journey CSS ------------------------*/
+
+        section {
+            text-align: center;
+        }
+            .title h1 {
+                color:#333;
+                font-weight:700;
+                margin-top:125px;
+                text-transform:uppercase;
+                letter-spacing:4px;
+                line-height:23px;
+            }
+
+
+
+        /* --- Start progress bar --- */
+
+        .process-wrapper {
+            margin:auto;
+            max-width:1080px;
+            padding-bottom: 70px;
+        }
+
+        #progress-bar-container {
+            position:relative;
+            width:90%;
+            margin:auto;
+            height:100px;
+            margin-top:65px;
+        }
+
+        #progress-bar-container ul {
+            padding:0;
+            margin:0;
+            padding-top:15px;
+            z-index:9999;
+            position:absolute;
+            width:100%;
+            margin-top:-40px
+        }
+
+        #progress-bar-container li:before {
+            content:" ";
+            display:block;
+            margin:auto;
+            width:30px;
+            height:30px;
+            border-radius:50%;
+            border:solid 2px black;
+            transition:all ease 0.3s;
+
+        }
+        #progress-bar-container li.active:before, #progress-bar-container li:hover:before {
+            border:solid 2px #fff;
+
+            background: linear-gradient(to right, #0000FFFF 100%,#fff 50%);
+        }
+
+        #progress-bar-container li {
+            list-style:none;
+            float:left;
+            width:20%;
+            text-align:center;
+            color:#aaa;
+            text-transform:uppercase;
+            font-size:11px;
+            cursor:pointer;
+            font-weight:700;
+            transition:all ease 0.2s;
+            vertical-align:bottom;
+            height:60px;
+            position:relative;
+        }
+
+        #progress-bar-container li .step-inner {
+            position:absolute;
+            width:100%;
+            bottom:0;
+            font-size: 14px;
+        }
+
+        #progress-bar-container li.active, #progress-bar-container li:hover {
+            color:#444;
+        }
+
+        #progress-bar-container li:after {
+            content:" ";
+            display:block;
+            width:6px;
+            height:6px;
+            background:blue;
+            margin:auto;
+            border:solid 7px #fff;
+            border-radius:10%;
+            margin-top:40px;
+            box-shadow:0 2px 13px -1px rgba(0,0,0,0.3);
+            transition:all ease 0.2s;
+
+        }
+
+        #progress-bar-container li:hover:after {
+            background:blue;
+        }
+
+        #progress-bar-container li.active:after {
+            background:blue;
+        }
+
+        #progress-bar-container #line {
+            width:80%;
+            margin:auto;
+            background: #eee;
+            height:6px;
+            position:absolute;
+            left:10%;
+            top:57px;
+            z-index:1;
+            border-radius:50px;
+            transition:all ease 0.9s;
+        }
+
+        #progress-bar-container #line-progress {
+            content:" ";
+            width:3%;
+            height:100%;
+            background: #207893;
+            background: linear-gradient(to right, black 50%,darkblue 100%);
+            position:absolute;
+            z-index:2;
+            border-radius:50px;
+            transition:all ease 0.9s;
+        }
+
+        #progress-content-section {
+            width:90%;
+            margin: auto;
+            /*background-image: linear-gradient();*/
+            /*background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/taisiia-shestopal-Ho20JoDSz3I-unsplash.jpg");*/
+            background-size: cover;
+            border-radius: 4px;
+            border: 2px solid #444;
+        }
+
+        #progress-content-section .section-content {
+            padding:30px 40px;
+            text-align:center;
+        }
+
+        #progress-content-section .section-content h2 {
+            font-size:17px;
+            text-transform:uppercase;
+            color:#333;
+            letter-spacing:1px;
+        }
+
+        #progress-content-section .section-content p {
+            font-size:16px;
+            line-height:1.8em;
+            color:black;
+        }
+
+        #progress-content-section .section-content {
+            display:none;
+            animation: FadeInUp 700ms ease 1;
+            animation-fill-mode:forwards;
+            transform:translateY(15px);
+            opacity:0;
+        }
+
+        #progress-content-section .section-content.active {
+            display:block;
+        }
+
+        @keyframes FadeInUp {
+            0% {
+                transform:translateY(15px);
+                opacity:0;
+            }
+
+            100% {
+                transform:translateY(0px);
+                opacity:1;
+            }
+        }
+
+
+/*--------------------Practise-Areas CSS starts here--------------------------*/
+
+        .Practise-Header1 {
+            min-height: 75vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.1)), url("Pics/giammarco-OPzWvgL-upY-unsplash.jpg");
+            background-position: center;
+            background-size: cover;
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+        .Practise-Header1 h1 {
+            margin-top: 65px;
+        }
+
+
+        .p-n-section {
+            box-sizing: border-box;
+            /*text-align: center;*/
+            /*top: 0;*/
+            /*left: 50%;*/
+            padding: 0;
+            /*width: 80%;*/
+            /*align-items: center;*/
+            margin-bottom: 30px;
+            /*margin-left: 20px;*/
+        }
+
+        /* Float four columns side by side */
+        .p-numbers-col {
+            top: 50%;
+            left: 50%;
+            width: 20%;
+            padding: 0 5px;
+            display: inline-block;
+            margin-bottom: 30px;
+
+        }
+
+        .row-3 {margin: 0 -10px;}
+
+        /* Clear floats after the columns */
+        .row-3:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Responsive columns */
+        @media screen and (max-width: 800px) {
+            .p-numbers-col {
+                width: 100%;
+                display: inline-block;
+                margin-bottom: 10px;
+                padding: 0.5%;
+            }
+        }
+
+        /* Style the counter cards */
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            padding: 16px;
+            text-align: center;
+            background-color: transparent;
+            color: darkblue;
+            border-radius: 5px;
+
+        }
+
+        .p-numbers-col .fa {
+            font-size: 50px;
+
+        }
+        h5 {
+            font-size: 30px;
+            text-align: center;
+            margin-top: 5px;
+        }
+
+        .p-numbers-col p {
+            font-size: 16px;
+            margin-top: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 700;
+
+        }
+
+
