@@ -27,8 +27,6 @@
                 background-color: black;
             }
 
-
-
         .Header1 {
             min-height: 100vh;
             width: 100%;
@@ -44,11 +42,10 @@
             justify-content: space-between;
             align-items: center;
             /*background-color: transparent;*/
-            background: rgba(0,0,0,0.3);
-            /*position: fixed;*/
+            background: rgba(0,0,0,0.2);
             /*width: 85%;*/
             right: 0;
-            top: 50%;
+            /*top: 50%;*/
             /*margin-top: 0.1em;*/
         }
 
@@ -108,8 +105,7 @@
             text-decoration: none;
             color: whitesmoke;
             font-size: 15px;
-            font-family:'Catamaran', sans-serif;
-
+            /*font-family:'Catamaran', sans-serif;*/
         }
 
         .nav-links ul li::after {
@@ -194,7 +190,7 @@
 
         .Learn:hover {
             border: 2px solid ghostwhite;
-            color: blue;
+            color: white;
         }
 
         nav .fa {
@@ -208,12 +204,13 @@
 
     .nav-links ul li {
         display: block;
+        padding: 10px;
     }
 
     .nav-links {
         position: absolute;
         background: midnightblue;
-        height: 100vh;
+        height: 60vh;
         width: 250px;
         top: 0;
         right: -250px;
@@ -221,12 +218,31 @@
         z-index: 3;
         transition: 2s;
     }
+
+    .nav-links ul li::after {
+        content: '';
+        width: 0;
+        height: 3px;
+        display: block;
+        margin: auto;
+        background: black;
+        transition: 0.7s;
+        position: absolute;
+    }
+
+    .nav-links ul li:hover::after {
+        width: 60%;
+        /*position: absolute;*/
+    }
+
+
     nav .fa {
         display: block;
         color: #fff;
         font-size: 20px;
         cursor: pointer;
     }
+
 
     .nav-links ul {
         padding: 35px;
@@ -597,14 +613,14 @@
                 right: 0;
             }
 
-
             .Soc {
                 font-size: 20px;
-                font-family: 'Advent Pro', sans-serif;
+                font-family: 'Advent Pro', sans-serif; /*contacts, email, location street font*/
                 font-weight: 650;
                 color: black;
                 text-align: center;
                 display: block;
+                padding: 5px 20px;
             }
 
             .Credits {
@@ -933,18 +949,16 @@
             margin-top: 75px;
         }
 
-
-
         .p-n-section {
             box-sizing: border-box;
-            /*text-align: center;*/
-            /*top: 0;*/
+            text-align: center;
+            top: 0;
             /*left: 50%;*/
             padding: 0;
-            /*width: 80%;*/
-            /*align-items: center;*/
+            width: 98%;
+            align-items: center;
             margin-bottom: 30px;
-            /*margin-left: 20px;*/
+            /*margin-left: 30px;*/
         }
 
         /* Float four columns side by side */
@@ -975,6 +989,9 @@
                 margin-bottom: 10px;
                 padding: 0.5%;
             }
+            .p-n-section {
+                width:100%;
+            }
         }
 
         /* Style the counter cards */
@@ -985,7 +1002,6 @@
             background-color: transparent;
             color: darkblue;
             border-radius: 5px;
-
         }
 
         .p-numbers-col .fa {
@@ -1007,3 +1023,4 @@
         }
 
 
+        /*------------------------FAQs Section starts here-----------------------------*/

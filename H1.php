@@ -230,7 +230,7 @@
                                 <div class="Social">
                                     <a href="https://www.facebook.com/MuiaMwanziaAndCo.Advocates"><i class= "fa fa-facebook"></i></a>
                                         <i class= "fa fa-twitter"></i>
-                                        <i class= "fa fa-linkedin"></i>
+                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>
                                         <i class= "fa fa-youtube"></i>
                                         <i class= "fa fa-instagram"></i>
                                 </div>
