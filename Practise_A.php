@@ -143,7 +143,47 @@
 
 <!--FAQ's section starts here-->
 
-<section>
+<section class="faqs">
+                    <div class="container-fluid">
+                        <h1> FAQs</h1>
+                             <div class="accordion">
+                                     <div class="icons"></div>
+                                  <h3>What is a ruling?</h3>
+                                </div>
+                                    <div class="panel">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
+                                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                            </div>
+
+                        <div class="accordion">
+                            <div class="icons"></div>
+                            <h3>What is a judgment?</h3>
+                        </div>
+                        <div class="panel">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
+                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                        </div>
+                        <div class="accordion">
+                            <div class="icons"></div>
+                            <h3>What is a judgment?</h3>
+                        </div>
+                        <div class="panel">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
+                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                        </div>
+                        <div class="accordion">
+                            <div class="icons"></div>
+                            <h3>What is a judgment?</h3>
+                        </div>
+                        <div class="panel">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
+                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                        </div>
+                    </div>
 
 </section>
 
@@ -247,7 +287,25 @@
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     }
-
 </script>
+
+<!--------------JS for FAQS section----------------->
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+    var len = acc.length
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+            }
+        });
+    }
+</script>
+
 </body>
 </html>
