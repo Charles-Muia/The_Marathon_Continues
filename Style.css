@@ -1134,5 +1134,12 @@
         }
 
         .find-us iframe {
-            width: 80%;
+            width: 85%;
+            padding-top: 30px;
+            margin-bottom: 0;
+        }
+
+        .find-us-sec {
+            width: 75%;
+            margin: auto;
         }
