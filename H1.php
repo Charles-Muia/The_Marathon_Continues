@@ -235,7 +235,7 @@
                                         <i class= "fa fa-instagram"></i>
                                 </div>
                         <p class="Credits"> Website Designed by <br> <a class="Cre" href="">Techware Scope Solutions</a>
-                            <br> &copy 2022. </p>
+                            <br> &copy 2022 Muia Mwanzia & Co. Advocates. </p>
                         <hr class="closure">
                     </section>
 
