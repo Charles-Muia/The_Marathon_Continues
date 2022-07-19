@@ -990,7 +990,10 @@
                 padding: 0.5%;
             }
             .p-n-section {
-                width:100%;
+                width: 80%;
+                margin: auto;
+                box-sizing: border-box;
+                padding-bottom: 40px;
             }
         }
 
@@ -1002,6 +1005,8 @@
             background-color: transparent;
             color: darkblue;
             border-radius: 5px;
+            box-sizing: border-box;
+
         }
 
         .p-numbers-col .fa {
@@ -1145,20 +1150,20 @@
         }
 
         .contact-col {
-            flex-basis: 35%;
+            flex-basis: 50%;
             margin-bottom: 40px;
         }
 
         .contact-col div {
             display: flex;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 50px;
         }
 
         .contact-col div .bi {
             font-size: 30px;
             color: blue;
-            margin: 0 35px;
+            margin: 0 30px;
         }
 
         .contact-col div h3 {
@@ -1171,8 +1176,17 @@
         @media screen and (max-width: 800px) {
             .contact-col div {
                 width: 100%;
-                margin-bottom: 15px;
+                margin-bottom: 25px;
                 padding: 0;
                 flex-direction: column;
             }
+        }
+
+        .contact-col input, .contact-col textarea {
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 12px;
+            border: 1px solid blue;
+            box-sizing: border-box;
+
         }

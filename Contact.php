@@ -98,7 +98,19 @@
                             </span>
                         </div>
                     </div>
-                    <div class="contact-col"></div>
+                    <div class="contact-col">
+                        <form action="">
+                            <input type="text" placeholder="Enter Your Name" required>
+                            <input type="email" placeholder="Enter Your Email Address" required>
+                            <input type="email" placeholder="Subject / Title" required>
+                            <textarea rows="10" placeholder="Type Your Message Here" required></textarea>
+                            <button type="submit" class="Learn-btn"> Send Message </button>
+
+
+                        </form>
+                        
+                        
+                    </div>
                 </div>
 </section>
 
