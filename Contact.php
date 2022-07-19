@@ -102,7 +102,7 @@
                         <form action="">
                             <input type="text" placeholder="Enter Your Name" required>
                             <input type="email" placeholder="Enter Your Email Address" required>
-                            <input type="email" placeholder="Subject / Title" required>
+                            <input type="text" placeholder="Subject / Title" required>
                             <textarea rows="10" placeholder="Type Your Message Here" required></textarea>
                             <button type="submit" class="Learn-btn"> Send Message </button>
 
