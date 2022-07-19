@@ -1188,5 +1188,16 @@
             margin-bottom: 12px;
             border: 1px solid blue;
             box-sizing: border-box;
+            resize: none;
+        }
 
+        .Learn-btn {
+            border: 1px solid blue;
+            padding: 5px;
+            width: 40%;
+            background: #333;
+            color: white;
+            font-weight: 550;
+            text-transform: uppercase;
+            cursor: pointer;
         }
