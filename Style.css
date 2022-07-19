@@ -1134,8 +1134,45 @@
         }
 
         .find-us iframe {
-            width: 85%;
-            padding-top: 15px;
+            width: 90%;
+            padding-top: 10px;
             margin-bottom: 0;
         }
 
+        .contact-us {
+            width: 80%;
+            margin: auto;
+        }
+
+        .contact-col {
+            flex-basis: 35%;
+            margin-bottom: 40px;
+        }
+
+        .contact-col div {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .contact-col div .bi {
+            font-size: 30px;
+            color: blue;
+            margin: 0 35px;
+        }
+
+        .contact-col div h3 {
+            font-size: 18px;
+            margin-bottom: 0;
+            font-weight: 550;
+        }
+
+        /* Responsive columns */
+        @media screen and (max-width: 800px) {
+            .contact-col div {
+                width: 100%;
+                margin-bottom: 15px;
+                padding: 0;
+                flex-direction: column;
+            }
+        }

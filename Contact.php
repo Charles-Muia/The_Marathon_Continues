@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <title> Muia Mwanzia & Co. Advocates </title>
 </head>
 <body>
@@ -58,13 +59,47 @@
                     width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </section>
 
-<section>
-
-
-
-
-
-
+<section class="contact-us">
+                <div class="row">
+                    <div class="contact-col">
+                        <div>
+                            <i class="bi bi-building"></i>
+                            <span>
+                                <h3> Edfri Green House, 2nd floor </h3>
+<!--                                <p> Meru County </p>-->
+                            </span>
+                        </div>
+                        <div>
+                            <i class="bi bi-geo-alt-fill"></i>
+                            <span>
+                                <h3> Ghana Street, Meru County </h3>
+<!--                                <p> Meru County </p>-->
+                            </span>
+                        </div>
+                        <div>
+                            <i class="bi bi-envelope"></i>
+                            <span>
+                                <h3> muiamwanziaandcoadvocates@gmail.com </h3>
+<!--                                <p> Meru County </p>-->
+                            </span>
+                        </div>
+                        <div>
+                            <i class="bi bi-telephone-fill"></i>
+                            <span>
+                                <h3> +254 733 333 333 </h3>
+<!--                                <p> Meru  County </p>-->
+                            </span>
+                        </div>
+                        <div>
+                            <i class="bi bi-calendar-check-fill"></i>
+                            <span>
+                                <h3> Mon - Fri  08:00 - 05:00PM </h3>
+<!--                                <p> Meru County </p>-->
+                            </span>
+                        </div>
+                    </div>
+                    <div class="contact-col"></div>
+                </div>
 </section>
 
 
