@@ -1157,13 +1157,13 @@
         .contact-col div {
             display: flex;
             align-items: center;
-            margin-bottom: 50px;
+            margin-bottom: 45px;
         }
 
         .contact-col div .bi {
             font-size: 30px;
             color: blue;
-            margin: 0 30px;
+            margin: 0 20px;
         }
 
         .contact-col div h3 {
@@ -1184,7 +1184,7 @@
 
         .contact-col input, .contact-col textarea {
             width: 100%;
-            padding: 15px;
+            padding: 12px;
             margin-bottom: 12px;
             border: 1px solid blue;
             box-sizing: border-box;

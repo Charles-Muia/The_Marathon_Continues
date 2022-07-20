@@ -93,7 +93,7 @@
                         <div>
                             <i class="bi bi-calendar-check-fill"></i>
                             <span>
-                                <h3> Mon - Fri  08:00 - 05:00PM </h3>
+                                <h3> Mon - Fri  08:00AM - 05:00PM </h3>
 <!--                                <p> Meru County </p>-->
                             </span>
                         </div>
