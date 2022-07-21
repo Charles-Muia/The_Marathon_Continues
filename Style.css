@@ -1201,3 +1201,21 @@
             text-transform: uppercase;
             cursor: pointer;
         }
+
+/*------------------News Page Css Starts Here------------------------------*/
+        .News-Header {
+            min-height: 70vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/annie-spratt-hWJsOnaWTqs-unsplash.jpg");
+            background-position: center;
+            background-size: cover;
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+        .News-Header h1 {
+            margin-top: 75px;
+        }
+
+

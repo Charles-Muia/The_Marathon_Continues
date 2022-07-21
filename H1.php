@@ -149,9 +149,9 @@
                                     </div>
                                 </div>
                             </div>
-
-<!--                Client Testimonials starts here-->
             </section>
+<!--                Client Testimonials starts here-->
+
                     <section class="Client-testimonials">
                                 <h1> What Our Clients Say </h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti error illum libero obcaecati, omnis reiciendis repellat sequi. Animi aut blanditiis consequatur
