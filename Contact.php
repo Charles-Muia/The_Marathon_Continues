@@ -100,10 +100,10 @@
                     </div>
                     <div class="contact-col">
                         <form action="Form.php" method="post">
-                            <input type="text" name="name" placeholder="Enter Your Name" required>
-                            <input type="email" name="email" placeholder="Enter Your Email Address" required>
-                            <input type="text" name="subject" placeholder="Subject / Title" required>
-                            <textarea rows="10" name="message" placeholder="Type Your Message Here" required></textarea>
+                            <input type="text" name="name" placeholder="Enter Your Name:" required>
+                            <input type="email" name="email" placeholder="Enter Your Email Address:" required>
+                            <input type="text" name="subject" placeholder="Subject / Title:" required>
+                            <textarea rows="10" name="message" placeholder="Type Your Message Here:" required></textarea>
                             <button type="submit" class="Learn-btn"> Send Message </button>
                             <button type="reset" class="Learn-btn"> Clear Form </button>
 
