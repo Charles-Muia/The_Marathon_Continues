@@ -143,10 +143,16 @@
         }
 
         .text p{
-            margin: 10px 0 30px;
+            margin: 10px 5px 30px;
             font-size: 24px;
             color: white;
             padding-top: 30px;
+        }
+
+        @media (max-width: 800px) {
+            .text p {
+                margin: 10px 5px 30px;
+            }
         }
 
         .text a {
@@ -1220,3 +1226,18 @@
         }
 
 
+/*------------------OUR TEAM Page Css Starts Here------------------------------*/
+        .Our-Header {
+            min-height: 70vh;
+            width: 100%;
+            background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/Our_Team.jpg");
+            background-position: center;
+            background-size: cover;
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+        .Our-Header h1 {
+            margin-top: 75px;
+        }

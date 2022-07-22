@@ -57,7 +57,7 @@
 <!--                        News sections starts here-->
 <section>
     <div class="nws">
-        <h1>News</h1>
+        <h1> News & Related Articles </h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
             <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
             Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
