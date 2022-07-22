@@ -159,7 +159,8 @@
                                     <div class="row">
                                         <div class="test-col">
                                             <img src="Pics/DOG.jpg" alt="">
-                                            <div >
+                                            <div>
+                                                <i class="bi bi-quote"></i>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,
                                                 </p>
                                                     <h3>DOG</h3>
@@ -181,6 +182,7 @@
                                         <div class="test-col">
                                             <img src="Pics/Prince-C.jpg" alt="">
                                             <div>
+                                                <i class="bi bi-quote"></i>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,
                                                     <br>illo imp.</p>
                                                 <h3>Prince Charles</h3>
