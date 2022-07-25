@@ -64,7 +64,7 @@
 
         <div class="row">
             <div class="nws-col">
-                <img src="Pics/US-Supreme.jpg" alt="" width="250">
+                <img src="Pics/US-Supreme.jpg" alt="" width="150">
                 <h3> Corridors of Justice </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
                     <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
@@ -81,8 +81,8 @@
             </div>
 
             <div class="nws-col">
-                <img src="Pics/Judges.jpg" alt="" width="200">
-                <h3> Appointment <br> of New Court of Appeal Judges </h3>
+                <img src="Pics/Judges.jpg" alt="" width="150">
+                <h3> Appointment: <br>New Court of Appeal Judges </h3>
                 <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges;
                     <br> <i class="bi bi-dot"></i> Lawyer Gachoka Paul Mwaniki and High Court Judges <i class="bi bi-dot"></i> Achode Lydia Awino, <i class="bi bi-dot"></i> Ochieng Frederick Andago, <i class="bi bi-dot"></i> Mativo John Mutinga, <i class="bi bi-dot"></i> Ngenye Grace Wangui, <i class="bi bi-dot"></i> Kimaru Luka Kiprotich <i class="bi bi-dot"></i> & <i class="bi bi-dot"></i>  Aroni Abida Ali  at State  House, Nairobi.</p>
                 <a class="Learn-News" href="News.php"> read more </a>

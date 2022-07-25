@@ -701,9 +701,14 @@
                 }
 
                 .About-Header1 h1 {
-                    margin-top: 75px;
+                    margin-top: 85px;
                 }
 
+                @media (max-width: 800px) {
+                    .About-Header1 h1 {
+                        margin-top: 95px;
+                    }
+                }
 
                 .About-Sec{
                     width: 90%;
@@ -954,7 +959,7 @@
         }
 
         .Practise-Header1 h1 {
-            margin-top: 75px;
+            margin-top: 85px;
         }
 
         .p-n-section {
@@ -1136,7 +1141,7 @@
         }
 
         .Contact-Header1 h1 {
-            margin-top: 75px;
+            margin-top: 85px;
         }
 
         .find-us {
@@ -1228,7 +1233,7 @@
         }
 
         .News-Header h1 {
-            margin-top: 75px;
+            margin-top: 85px;
         }
 
 
@@ -1245,5 +1250,5 @@
         }
 
         .Our-Header h1 {
-            margin-top: 75px;
+            margin-top: 85px;
         }

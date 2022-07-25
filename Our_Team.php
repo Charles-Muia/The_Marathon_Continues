@@ -75,7 +75,7 @@
             <h1> Audrey Mbijiwe </h1>
             <h2> Advocate of the High Court of Kenya </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+                <br>libero magni mollitia quod reiciendis <br> repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
     </div>
 </section>
