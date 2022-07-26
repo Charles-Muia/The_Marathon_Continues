@@ -93,7 +93,7 @@
                         <div>
                             <i class="bi bi-calendar-check-fill"></i>
                             <span>
-                                <h3> Mon - Fri  08:00AM - 05:00PM </h3>
+                                <h3>Mon - Fri  08:00AM - 05:00PM <br> Closed Sun & Public Holidays </h3>
 <!--                                <p> Meru County </p>-->
                             </span>
                         </div>
@@ -146,7 +146,7 @@
         <i class= "fa fa-instagram"></i>
     </div>
 
-    <p class="Credits"> &copy 2022. Muia Mwanzia & Co. Advocates - All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+    <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
         </p>
 
     <hr class="closure">

@@ -54,11 +54,14 @@
 <!--                Practise sections starts here-->
 <section class="Practise">
     <h1>Lawfirm's Practise Areas</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam
-        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>
+    <p> Since being established in 2007, Muia Mwanzia & Co. Advocates offers legal counsel and client representation with unmatched legal experience in these areas of practise.
+        <br> Over the years, we have gained experience and valuable lessons on our quest for justice on behalf of our clients. <br>
+        To date, we continue to grow as a firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
+<!--        <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
+<!--        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>-->
     <div class="row">
         <div class="practise-col">
-            <h2>Commercial & Corporate Law</h2>
+            <h2>Commercial Law</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
@@ -80,22 +83,27 @@
 
 <section class="Practise-2">
 <!--    <h1>Lawfirm's Practise Areas</h1>-->
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam
-        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>
+    <p>Our expertise and thorough legal representation in these practise areas has made us the law firm of choice. <br>
+        The firm's able team is always dedicated to ensure that justice is delivered in accordance with the laws of Kenya under the Constitution.
+        <br>
+        It is the commitment to the rule of law that guarantees a fair and equitable world.
+         </p>
 
     <div class="row">
         <div class="practise-col">
-            <h2> Family Law </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+            <h2> Family Law & Succession </h2>
+            <p>The family is the natural and fundamental unit of society, the necessary basis of social order.
+                <br> In line with the Constitution of Kenya (2010),
+                we focus and represent clients on matters involving family relationships
+                including but not limited to child adoption, divorce, institution of marriage and child custody.</p>
         </div>
         <div class="practise-col">
-            <h2> Civil & Criminal Litigation </h2>
+            <h2> Corporate Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
         <div class="practise-col">
-            <h2> Conveyancing & Arbitration </h2>
+            <h2> Intellectual Property Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                 <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
@@ -215,7 +223,7 @@
         <i class= "fa fa-youtube"></i>
         <i class= "fa fa-instagram"></i>
     </div>
-    <p class="Credits"> &copy 2022. Muia Mwanzia & Co. Advocates - All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+    <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
     </p>
     <hr class="closure">
 </section>
