@@ -38,7 +38,7 @@
         <div class="nav-links" id="navlink">
             <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="Index.php">Home</a></li>
+                <li><a href="H1.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
                 <li><a href="Practise_A.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
@@ -54,9 +54,9 @@
 <!--                Practise sections starts here-->
 <section class="Practise">
     <h1>Lawfirm's Practise Areas</h1>
-    <p> Since being established in 2007, Muia Mwanzia & Co. Advocates offers legal counsel and client representation with unmatched legal experience in these areas of practise.
+    <p> Since 2007, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
         <br> Over the years, we have gained experience and valuable lessons on our quest for justice on behalf of our clients. <br>
-        To date, we continue to grow as a firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
+        To date, we continue to grow as a law firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
 <!--        <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
 <!--        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>-->
     <div class="row">

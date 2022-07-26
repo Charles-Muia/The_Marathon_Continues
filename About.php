@@ -38,7 +38,7 @@
         <div class="nav-links" id="navlink">
             <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="Index.php">Home</a></li>
+                <li><a href="H1.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
                 <li><a href="Practise_A.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
