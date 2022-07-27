@@ -84,9 +84,9 @@
 <section class="the-team">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 prof">
+            <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <img class="img-pic" src="Pics/Team_2.jpg" alt="" height="350">
                     <ul>
                             <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                             <a href="#"><li><i class="bi bi-twitter"></i></li></a>
@@ -97,9 +97,9 @@
 <!--                            <h3> XYZ </h3>-->
 <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
             </div>
-            <div class="col-md-4 prof">
+            <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
@@ -110,9 +110,9 @@
                 <!--                            <h3> XYZ </h3>-->
                 <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
             </div>
-            <div class="col-md-4 prof">
+            <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
@@ -123,9 +123,9 @@
                 <!--                            <h3> XYZ </h3>-->
                 <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
             </div>
-            <div class="col-md-4 prof">
+            <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>

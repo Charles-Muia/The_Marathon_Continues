@@ -1258,10 +1258,11 @@
         }
 
         .the-team {
-            margin: 80px 0;
+            margin: 75px 0;
+
         }
 
-        .the-team:before {
+        .the-team:before{
             background: blue;
             content: '';
             height: 4px;
@@ -1269,10 +1270,22 @@
             margin: 10px auto;
             display: block;
         }
+
+        .the-team:after{
+            background: blue;
+            content: '';
+            height: 4px;
+            width: 160px;
+            margin: 75px auto;
+            display: block;
+        }
+
         .prof {
             margin-top: 30px;
-            width: 70%;
+            width: 100%;
         }
+
+
 
         .prof .img-box {
             display: block;
@@ -1290,12 +1303,30 @@
 
         .img-box ul {
             margin: 0;
-            padding: 20px;
+            padding: 10px;
             position: absolute;
             z-index: 1;
-            bottom: 0;
+            bottom: 15px;
             display: block;
             left: 50%;
             transform: translateX(-50%);
-            opacity: 0;
+            opacity: 1;
+        }
+
+        .img-box ul li {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #ffffff;
+            border-radius: 20px;
+            margin: 2px;
+            padding: 8px;
+            display: inline-block;
+        }
+
+        .img-box a {
+            color: whitesmoke;
+        }
+
+        .img-pic {
+            border-radius: 10px;
         }
