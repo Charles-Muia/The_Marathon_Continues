@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <title> Muia Mwanzia & Co. Advocates </title>
 </head>
 <body>
@@ -76,6 +77,65 @@
             <h2> Advocate of the High Court of Kenya </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                 <br>libero magni mollitia quod reiciendis <br> repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+        </div>
+    </div>
+</section>
+
+<section class="the-team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <ul>
+                            <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                            <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                            <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+<!--                            <h3> Employee 1 </h3>-->
+<!--                            <h3> XYZ </h3>-->
+<!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+            <div class="col-md-4 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+                <!--                            <h3> Employee 1 </h3>-->
+                <!--                            <h3> XYZ </h3>-->
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+            <div class="col-md-4 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+                <!--                            <h3> Employee 1 </h3>-->
+                <!--                            <h3> XYZ </h3>-->
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+            <div class="col-md-4 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="320">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+                <!--                            <h3> Employee 1 </h3>-->
+                <!--                            <h3> XYZ </h3>-->
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
         </div>
     </div>
 </section>
