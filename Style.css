@@ -267,7 +267,7 @@
 
         /*----------Practise section CSS Starts Here----------*/
         .Practise {
-            width: 95%;
+            width: 90%;
             margin: auto;
             text-align: center;
             padding-top: 35px;
@@ -304,7 +304,7 @@
         /*}*/
 
         .practise-col {
-            flex-basis: 31%;
+            flex-basis: 32.5%;
             box-sizing: border-box;
             background-color: antiquewhite;
             border-radius: 5px;
@@ -320,7 +320,7 @@
         }
 
         .Practise-2 {
-            width: 95%;
+            width: 90%;
             margin: auto;
             text-align: center;
             padding-top: 0;
@@ -400,27 +400,31 @@
             width: 90%;
             margin: auto;
             text-align: center;
-            padding-top: 10px;
+            padding-top: 40px;
         }
 
         .nws-col {
-            flex-basis: 30%;
+            flex-basis: 31%;
             margin-bottom: 5%;
             text-align: center;
             border-radius: 10px;
-            }
+            border: 1px solid #eeeeee;
+            padding-top: 10px;
+        }
 
         .nws-col img {
-            width: 100%;
-            border-radius: 5px;
-            }
+            width: 90%;
+            border-radius: 10px;
+            border: 5px solid #eeeeee;
+        }
 
         .nws-col img:hover {
         box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
         }
 
         .nws-col p {
-        padding: 0;
+        padding: 10px;
+        text-align: justify;
         }
 
         .nws-col h3 {
@@ -432,7 +436,7 @@
 
 /*----------Client-testimonials section CSS Starts Here----------*/
         .Client-testimonials {
-            width: 95%;
+            width: 90%;
             margin: auto;
             padding-top: 10px;
             text-align: center;

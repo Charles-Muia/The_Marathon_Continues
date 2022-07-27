@@ -83,7 +83,7 @@
 
 <section class="Practise-2">
 <!--    <h1>Lawfirm's Practise Areas</h1>-->
-    <p>Our expertise and thorough legal representation in these practise areas has made us the law firm of choice. <br>
+    <p>Our expertise and thorough knowledge in these legal practise areas has made us the law firm of choice in representing clients. <br>
         The firm's able team is always dedicated to ensure that justice is delivered in accordance with the laws of Kenya under the Constitution.
         <br>
         It is the commitment to the rule of law that guarantees a fair and equitable world.
