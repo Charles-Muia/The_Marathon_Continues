@@ -1311,7 +1311,7 @@
             padding: 10px;
             position: absolute;
             /*z-index: 0;*/
-            bottom: 15px;
+            bottom: 10px;
             display: block;
             left: 50%;
             transform: translateX(-50%);
@@ -1330,8 +1330,13 @@
         }
 
         .img-box a {
-            color: whitesmoke;
+            color: dimgrey;
         }
+
+        .img-box a :hover {
+            color: antiquewhite;
+        }
+
 
         .img-pic {
             border-radius: 10px;

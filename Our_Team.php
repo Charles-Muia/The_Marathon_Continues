@@ -112,7 +112,7 @@
             </div>
             <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
+                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="320">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
+                    <img class="img-pic" src="Pics/Test_1.jpg" alt="" width="250">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
