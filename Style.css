@@ -720,7 +720,7 @@
                 }
 
                 .About-Sec{
-                    width: 90%;
+                    width: 80%;
                     margin: auto;
                     padding-top: 20px;
                     padding-bottom: 0;
@@ -1258,8 +1258,15 @@
         }
 
         .the-team {
-            margin: 75px 0;
+            margin: 75px 140px;
+        }
 
+        @media screen and (max-width: 800px) {
+            .the-team {
+                width: 100%;
+                margin: 0 auto;
+                box-sizing: border-box;
+            }
         }
 
         .the-team:before{
@@ -1267,7 +1274,7 @@
             content: '';
             height: 4px;
             width: 160px;
-            margin: 10px auto;
+            margin: 15px auto;
             display: block;
         }
 
@@ -1284,8 +1291,6 @@
             margin-top: 30px;
             width: 100%;
         }
-
-
 
         .prof .img-box {
             display: block;
@@ -1305,7 +1310,7 @@
             margin: 0;
             padding: 10px;
             position: absolute;
-            z-index: 1;
+            /*z-index: 0;*/
             bottom: 15px;
             display: block;
             left: 50%;
@@ -1318,9 +1323,10 @@
             height: 20px;
             border: 1px solid #ffffff;
             border-radius: 20px;
-            margin: 2px;
-            padding: 8px;
+            margin: 0;
+            padding: 5px;
             display: inline-block;
+            text-decoration: none;
         }
 
         .img-box a {
@@ -1329,4 +1335,5 @@
 
         .img-pic {
             border-radius: 10px;
+            border: 1px solid #aaaaaa;
         }
