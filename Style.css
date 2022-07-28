@@ -312,6 +312,7 @@
             padding: 22px 11px;
             transition: 0.5s;
         }
+
         .practise-col:hover {
             background-color: dodgerblue;
             box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
