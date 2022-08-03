@@ -62,7 +62,7 @@
                 <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
         <div class="about-col">
-            <img src="Pics/Team_1.jpg" alt="">
+            <img src="Pics/Muia_Mwanzia.png" alt="">
         </div>
     </div>
 </section>
