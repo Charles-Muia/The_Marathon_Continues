@@ -41,8 +41,8 @@
             padding: 2% 6%;
             justify-content: space-between;
             align-items: center;
-            /*background-color: transparent;*/
-            background: rgba(0,0,0,0.2);
+            background-color: transparent;
+            /*background: rgba(0,0,0,0.0);*/
             /*width: 85%;*/
             right: 0;
             /*top: 50%;*/
@@ -700,7 +700,7 @@
 
 /*--------------------About Us CSS starts here--------------------------*/
                 .About-Header1 {
-                    min-height: 70vh;
+                    min-height: 75vh;
                     width: 100%;
                     background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/taisiia-shestopal-Ho20JoDSz3I-unsplash.jpg");
                     background-position: center;
@@ -958,7 +958,7 @@
 /*--------------------Practise-Areas CSS starts here--------------------------*/
 
         .Practise-Header1 {
-            min-height: 70vh;
+            min-height: 75vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.1)), url("Pics/giammarco-OPzWvgL-upY-unsplash.jpg");
             background-position: center;
@@ -1135,7 +1135,7 @@
 
  /*-------------------Contact Us page CSS starts here--------------------------------------       */
         .Contact-Header1 {
-            min-height: 70vh;
+            min-height: 75vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/markus-winkler-q3QPw37J6Xs-unsplash.jpg");
             background-position: center;
@@ -1227,7 +1227,7 @@
 
 /*------------------News Page Css Starts Here------------------------------*/
         .News-Header {
-            min-height: 70vh;
+            min-height: 75vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/annie-spratt-hWJsOnaWTqs-unsplash.jpg");
             background-position: center;
@@ -1244,7 +1244,7 @@
 
 /*------------------OUR TEAM Page Css Starts Here------------------------------*/
         .Our-Header {
-            min-height: 70vh;
+            min-height: 75vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/Our_Team.jpg");
             background-position: center;
@@ -1331,11 +1331,11 @@
         }
 
         .img-box a {
-            color: ghostwhite;
+            color: white;
         }
 
         .img-box a :hover {
-            color: navajowhite;
+            color: orangered;
         }
 
 
