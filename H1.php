@@ -88,26 +88,29 @@
 <!--                        Commitment section starts here-->
                         <section class="Commitment">
                                 <h1>Our Commitment</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
-                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                                Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                            <p> The firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
+                                <br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya consistent with the requirements.  <br>
+                                Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
+                                <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
+                                <br> — for our clients, our communities, the Firm and ourselves — <br> within
+                                the law.</p>
                             <div class="row">
                                 <div class="commitment-col">
-                                    <img src="Pics/p-3.jpg" alt="" width="">
+                                    <img src="Pics/Professionalism2.jpg" alt="" width="">
                                     <div class="commitment-layer">
-                                            <h3>Professionalism</h3>
+                                            <h3> - Professionalism - </h3>
                                     </div>
                                 </div>
                             <div class="commitment-col">
                                 <img src="Pics/p-5.jpg" alt="">
                                 <div class="commitment-layer">
-                                    <h3>Security</h3>
+                                    <h3> - Best Interests - </h3>
                                 </div>
                             </div>
                                     <div class="commitment-col">
                                         <img src="Pics/p-4.jpg" alt="">
                                         <div class="commitment-layer">
-                                            <h3>Trust</h3>
+                                            <h3> - Trust - </h3>
                                         </div>
                                     </div>
                          </div>
