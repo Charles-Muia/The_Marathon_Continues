@@ -1331,11 +1331,11 @@
         }
 
         .img-box a {
-            color: dimgrey;
+            color: ghostwhite;
         }
 
         .img-box a :hover {
-            color: antiquewhite;
+            color: navajowhite;
         }
 
 

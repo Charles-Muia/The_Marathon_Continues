@@ -62,7 +62,7 @@
                 <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
         <div class="about-col">
-            <img src="Pics/Team_Photo.jpg" alt="">
+            <img src="Pics/Team_1.jpg" alt="">
         </div>
     </div>
 </section>
@@ -70,7 +70,7 @@
 <section class="About-Sec">
     <div class="row">
             <div class="about-col">
-                <img src="Pics/Team_Photo.jpg" alt="">
+                <img src="Pics/Audrey1.jpg" alt="" height="750">
             </div>
         <div class="about-col">
             <h1> Audrey Mbijiwe </h1>
@@ -112,7 +112,7 @@
             </div>
             <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="320">
+                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="250">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
@@ -125,7 +125,7 @@
             </div>
             <div class="col-md-3 prof">
                 <div class="img-box">
-                    <img class="img-pic" src="Pics/Test_1.jpg" alt="" width="250">
+                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="250">
                     <ul>
                         <a href="#"><li><i class="bi bi-facebook"></i></li></a>
                         <a href="#"><li><i class="bi bi-twitter"></i></li></a>
