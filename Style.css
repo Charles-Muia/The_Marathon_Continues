@@ -1344,5 +1344,10 @@
         }
 
         .Team_Pics {
-            clip-path: circle(40%);
+            clip-path: circle(42%);
+        }
+
+        .Bio {
+            text-align: left;
+            float: left;
         }

@@ -56,17 +56,26 @@
 <section class="About-Sec">
     <div class="row">
         <div class="about-col">
-            <h1> Muia Mwanzia </h1>
-            <h2> Advocate of the Hight Court of Kenya </h2>
-            <p> Muia Mwanzia founded Muia Mwanzia & Co. Advocates in 2009 after nearly 3 years practicing in one of the
-                most respected law firms in Meru County serving as a legal associate. <br> <br>
+            <h1>  </h1>
+            <h2>  </h2>
+            <p class="Bio">
+                A seasoned advocate of the high court with over 15 years of working experience and in depth understanding of the law since being admitted to the Bar in 2004.
+                Muia Mwanzia founded Muia Mwanzia & Co. Advocates, a law firm in 2009 after nearly 3 years of practice in one of the
+                most respected law firms in Meru County as a legal associate.
+                <br> <br>
                 Building on that experience and extensive expertise in litigation including civil and criminal law, Muia Mwanzia's
-                commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+                commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration makes him the best lawyer of his generation.
+                <br> <br>
+                Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General Meru Bar Association.
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
         <div class="about-col">
             <img class="Team_Pics" src="Pics/Muia_Mwanzia.png" alt="">
+            <h1> Muia Mwanzia </h1>
+            <h3>  LLB (Hons) [Moi], Dip [KSL] </h3>
+<!--            <h2> Advocate of the High Court of Kenya </h2>-->
         </div>
     </div>
 </section>
@@ -74,12 +83,14 @@
 <section class="About-Sec">
     <div class="row">
             <div class="about-col">
-                <img src="Pics/Audrey1.jpg" alt="" height="750">
+                <img class="Team_Pics" src="Pics/Audrey_Mbijiwe.jpg" alt="">
+                <h1> Audrey Mbijiwe </h1>
+                <h3>  LLB (Hons) [CUEA], Dip [KSL] </h3>
             </div>
         <div class="about-col">
-            <h1> Audrey Mbijiwe </h1>
-            <h2> Advocate of the High Court of Kenya </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+<!--            <h1> Audrey Mbijiwe </h1>-->
+<!--            <h2> Advocate of the High Court of Kenya </h2>-->
+            <p class="Bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                 <br>libero magni mollitia quod reiciendis <br> repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
     </div>
