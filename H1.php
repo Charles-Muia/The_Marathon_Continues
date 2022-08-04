@@ -50,15 +50,19 @@
     </nav>
             <div class="text">
                 <h1>Advocates of the High Court of Kenya</h1>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate, voluptatum.
-                    <br>Architecto eos maiores officiis pariatur quo tempore velit veniam voluptates.</p>
-                <a class="Learn" href="About.php">Learn More</a>
+                         <p>We offer legal representation and advice regarding procedures of the law. <br> <br>
+                             Our commitment is making your legal affairs aligned with your best interest. Legal matters can be tough, but so are we.
+                             <br>
+                             We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice with perspective and adaptability.
+<!--                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
+                    <br><br> — We embrace a modern mindset throughout our practice. — </p>
+                <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
 </section>
 
 <!--                    Practise section starts here-->
         <section class="Practise">
-            <h1>Practise Areas</h1>
+            <h1>  Practise Areas  </h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam
                         <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>
                                         <div class="row">
@@ -87,7 +91,7 @@
 
 <!--                        Commitment section starts here-->
                         <section class="Commitment">
-                                <h1>Our Commitment</h1>
+                                <h1>  Our Commitment  </h1>
                             <p> The firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
                                 <br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya consistent with the requirements.  <br>
                                 Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
@@ -119,7 +123,7 @@
 <!--                        News sections starts here-->
             <section>
                             <div class="nws">
-                                <h1>News</h1>
+                                <h1>  News  </h1>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                                     <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                     Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
@@ -156,7 +160,7 @@
 <!--                Client Testimonials starts here-->
 
                     <section class="Client-testimonials">
-                                <h1> What Our Clients Say </h1>
+                                <h1>  What Our Clients Say  </h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti error illum libero obcaecati, omnis reiciendis repellat sequi. Animi aut blanditiis consequatur
                             <br>corporis dicta distnctio dolor modi voluptatem. Doloribus, laudantium, nostrum.</p>
                                     <div class="row">
@@ -204,7 +208,7 @@
                         <h1> If you need Legal counsel, <br> advice or representation, look no further.</h1>
                         <hr>
                         <br>
-                        <a class="Learn" href="Contact.php">contact us</a>
+                        <a class="Learn" href="Contact.php"> — contact us — </a>
                     </section>
 
 <!--                Footer starts here-->
