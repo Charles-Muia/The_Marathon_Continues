@@ -1342,3 +1342,7 @@
             border-radius: 12px;
             border: 1px solid #aaaaaa;
         }
+
+        .Team_Pics {
+            clip-path: circle(40%);
+        }

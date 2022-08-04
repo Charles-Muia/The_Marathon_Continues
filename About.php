@@ -55,8 +55,8 @@
             <section class="About-Sec">
                     <div class="row">
                             <div class="about-col">
-                                    <h1> We measure our firm's success  based upon case closure rate, trial and legal practise. </h1>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                                    <h1> We measure our firm's success based upon case closure rate, trial and legal practise. </h1>
+                                            <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County established in 2009 by Muia Mwanzia. The firm Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                                                 <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
                             </div>
                         <div class="about-col">
@@ -74,7 +74,7 @@
                     <div class="process-wrapper">
                         <div id="progress-bar-container">
                             <ul>
-                                <li class="step step01 active"><div class="step-inner">HOME WORK</div></li>
+                                <li class="step step01 active"><div class="step-inner">2009</div></li>
                                 <li class="step step02"><div class="step-inner">RESPONSIVE PART</div></li>
                                 <li class="step step03"><div class="step-inner">Creative cREATIONS</div></li>
                                 <li class="step step04"><div class="step-inner">TESTIMONIALS PART</div></li>
@@ -88,8 +88,8 @@
 
                         <div id="progress-content-section">
                             <div class="section-content discovery active">
-                                <h2>HOME SECTION</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+                                <h2> FIRM ESTABLISHED </h2>
+                                <p>Muia Mwanzia & Co. Advocates was established in 2009. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content strategy">

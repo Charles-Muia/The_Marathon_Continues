@@ -50,7 +50,7 @@
     </nav>
             <div class="text">
                 <h1>Advocates of the High Court of Kenya</h1>
-                         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate, voluptatum.
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate, voluptatum.
                     <br>Architecto eos maiores officiis pariatur quo tempore velit veniam voluptates.</p>
                 <a class="Learn" href="About.php">Learn More</a>
             </div>

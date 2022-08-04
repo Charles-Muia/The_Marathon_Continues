@@ -58,11 +58,15 @@
         <div class="about-col">
             <h1> Muia Mwanzia </h1>
             <h2> Advocate of the Hight Court of Kenya </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+            <p> Muia Mwanzia founded Muia Mwanzia & Co. Advocates in 2009 after nearly 3 years practicing in one of the
+                most respected law firms in Meru County serving as a legal associate. <br> <br>
+                Building on that experience and extensive expertise in litigation including civil and criminal law, Muia Mwanzia's
+                commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                 <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
         </div>
         <div class="about-col">
-            <img src="Pics/Muia_Mwanzia.png" alt="">
+            <img class="Team_Pics" src="Pics/Muia_Mwanzia.png" alt="">
         </div>
     </div>
 </section>
