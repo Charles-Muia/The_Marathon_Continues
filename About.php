@@ -57,7 +57,8 @@
                             <div class="about-col">
                                     <h1> We measure our firm's success based upon case closure rate, trial and legal practise. </h1>
                                             <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County established in 2009 by Muia Mwanzia. The firm Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                                                <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+                                                <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                                            </p>
                             </div>
                         <div class="about-col">
                             <img src="Pics/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg" alt="">        

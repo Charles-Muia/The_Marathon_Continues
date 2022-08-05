@@ -428,6 +428,7 @@
         text-align: justify;
         }
 
+
         .nws-col h3 {
             margin-top: 14px;
             margin-bottom: 13px;
@@ -743,6 +744,7 @@
                 }
                 .about-col p {
                     padding: 16px 0 30px;
+                    text-align: justify;
                 }
 
 /*--------------------Our Timeline Journey CSS --------------------------------*/
