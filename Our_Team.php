@@ -66,7 +66,7 @@
                 Building on that experience and extensive expertise in litigation including civil and criminal law, Muia Mwanzia's
                 commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration makes him the best lawyer of his generation.
                 <br> <br>
-                Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General Meru Bar Association.
+                Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
                 <br><br>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
@@ -90,8 +90,18 @@
         <div class="about-col">
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
-            <p class="Bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                <br>libero magni mollitia quod reiciendis <br> repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+            <p class="Bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+            </p>
         </div>
     </div>
 </section>
@@ -108,9 +118,9 @@
                             <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
                     </ul>
                 </div>
-<!--                            <h3> Employee 1 </h3>-->
-<!--                            <h3> XYZ </h3>-->
-<!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+                            <h3> Maureen Kinya </h3>
+                            <h4> Personal Assistant </h4>
+<!--                            <p> Personal Assistant </p>-->
             </div>
             <div class="col-md-3 prof">
                 <div class="img-box">
@@ -134,8 +144,8 @@
                         <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
                     </ul>
                 </div>
-                <!--                            <h3> Employee 1 </h3>-->
-                <!--                            <h3> XYZ </h3>-->
+                                            <h3> Tom Mweuh </h3>
+                                            <h4> Registry </h4>
                 <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
             </div>
             <div class="col-md-3 prof">
@@ -147,8 +157,8 @@
                         <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
                     </ul>
                 </div>
-                <!--                            <h3> Employee 1 </h3>-->
-                <!--                            <h3> XYZ </h3>-->
+<!--                                            <h3> Charles Muia </h3>-->
+<!--                                            <h4> ICT & Digital </h4>-->
                 <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
             </div>
         </div>
@@ -187,7 +197,7 @@
         <i class= "fa fa-youtube"></i>
         <i class= "fa fa-instagram"></i>
     </div>
-    <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
     </p>
     <hr class="closure">
 </section>

@@ -54,7 +54,7 @@
 <!--                Practise sections starts here-->
 <section class="Practise">
     <h1>Lawfirm's Practise Areas</h1>
-    <p> Since 2007, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
+    <p> Since 2009, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
         <br> Over the years, we have gained experience and valuable lessons on our quest for justice on behalf of our clients. <br>
         To date, we continue to grow as a law firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
 <!--        <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
@@ -153,13 +153,13 @@
 
 <section class="faqs">
                     <div class="container-fluid">
-                        <h1> FAQs</h1>
+                        <h1> FAQs </h1>
                              <div class="accordion">
                                      <div class="icons"></div>
-                                  <h3>What is a ruling?</h3>
+                                  <h3>What is efiling?</h3>
                                 </div>
                                     <div class="panel">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                            <p>efiling is a system Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
                                                 Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
                                                 <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
                             </div>
@@ -223,7 +223,7 @@
         <i class= "fa fa-youtube"></i>
         <i class= "fa fa-instagram"></i>
     </div>
-    <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
     </p>
     <hr class="closure">
 </section>

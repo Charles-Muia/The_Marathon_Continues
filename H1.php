@@ -49,13 +49,12 @@
                             <i class="fa fa-bars" onclick="displayMenu()"></i>
     </nav>
             <div class="text">
-                <h1>  Advocates of the High Court of Kenya  </h1>
-                         <p>We offer legal representation and advice regarding procedures of the law. <br> <br>
-                             Our commitment is making your legal affairs aligned with your best interest. Legal matters can be tough, but so are we.
-                             <br>
-                             We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
-<!--                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
-                    <br><br>  We embrace a modern mindset throughout our practice with perspective and adaptability.  </p>
+                <h1> Advocates of the High Court of Kenya </h1>
+                         <p>We offer legal representation and advice regarding procedures of the law in the areas we practise. <br>
+<!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
+                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>
+                             <br> Our commitment is making your legal affairs aligned with your best interest.
+                         </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
 </section>
@@ -63,8 +62,11 @@
 <!--                    Practise section starts here-->
         <section class="Practise">
             <h1>  Practise Areas  </h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam
-                        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>
+                    <p> We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
+                        <br>
+                        <br> Our able team is competent and meticulous with a vast in-depth knowledge in the areas we practise.   <br>
+<!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
+                        </p>
                                         <div class="row">
                                             <div class="practise-col">
                                                 <h2>Commercial & Corporate Law</h2>
@@ -243,7 +245,7 @@
                                         <i class= "fa fa-youtube"></i>
                                         <i class= "fa fa-instagram"></i>
                                 </div>
-                        <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+                        <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
                         </p>
                         <hr class="closure">
                     </section>

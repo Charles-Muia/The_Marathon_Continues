@@ -28,7 +28,7 @@
             }
 
         .Header1 {
-            min-height: 100vh;
+            min-height: 95vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("Pics/clarisse-meyer-jKU2NneZAbI-unsplash.jpg");
             background-position: center;
@@ -38,7 +38,7 @@
 
         nav {
             display: flex;
-            padding: 2% 6%;
+            padding: 2% 7%;
             justify-content: space-between;
             align-items: center;
             background-color: transparent;
@@ -98,7 +98,7 @@
             text-transform: uppercase;
             position: relative;
             display: inline-block;
-            padding: 5px 30px;
+            padding: 5px 31px;
         }
 
         .nav-links ul li a {
@@ -637,10 +637,11 @@
             }
 
             .Credits {
-                font-size: 14px;
+                font-size: 15px;
                 margin: 0;
                 padding: 0;
-                letter-spacing: 1px;
+                letter-spacing: 0;
+                vertical-align: baseline;
             }
 
             .Cre {
@@ -653,6 +654,7 @@
         copy {
             font-size: 20px;
         }
+
 
         @media (max-width: 800px) {
             .Footer-Con{
@@ -700,7 +702,7 @@
 
 /*--------------------About Us CSS starts here--------------------------*/
                 .About-Header1 {
-                    min-height: 75vh;
+                    min-height: 70vh;
                     width: 100%;
                     background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/taisiia-shestopal-Ho20JoDSz3I-unsplash.jpg");
                     background-position: center;
@@ -958,7 +960,7 @@
 /*--------------------Practise-Areas CSS starts here--------------------------*/
 
         .Practise-Header1 {
-            min-height: 75vh;
+            min-height: 70vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.1)), url("Pics/giammarco-OPzWvgL-upY-unsplash.jpg");
             background-position: center;
@@ -1135,7 +1137,7 @@
 
  /*-------------------Contact Us page CSS starts here--------------------------------------       */
         .Contact-Header1 {
-            min-height: 75vh;
+            min-height: 70vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/markus-winkler-q3QPw37J6Xs-unsplash.jpg");
             background-position: center;
@@ -1227,7 +1229,7 @@
 
 /*------------------News Page Css Starts Here------------------------------*/
         .News-Header {
-            min-height: 75vh;
+            min-height: 70vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/annie-spratt-hWJsOnaWTqs-unsplash.jpg");
             background-position: center;
@@ -1244,7 +1246,7 @@
 
 /*------------------OUR TEAM Page Css Starts Here------------------------------*/
         .Our-Header {
-            min-height: 75vh;
+            min-height: 70vh;
             width: 100%;
             background-image: linear-gradient(rgba(4,9,30,0.9),rgba(4,9,30,0.5)), url("Pics/Our_Team.jpg");
             background-position: center;
@@ -1348,10 +1350,16 @@
         }
 
         .Bio {
-            text-align: left;
+            text-align: justify;
             float: left;
+            width: 700px;
+            /*shape-outside: circle(100%);*/
         }
 
-        — {
-            font-size: 10px;
+
+        @media screen and (max-width: 800px) {
+            .Bio {
+                width: 100%;
+                text-align: justify;
+            }
         }

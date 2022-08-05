@@ -146,7 +146,7 @@
         <i class= "fa fa-instagram"></i>
     </div>
 
-    <p class="Credits"> &copy Copyright 2007 - 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
         </p>
 
     <hr class="closure">
