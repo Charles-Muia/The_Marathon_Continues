@@ -49,13 +49,13 @@
                             <i class="fa fa-bars" onclick="displayMenu()"></i>
     </nav>
             <div class="text">
-                <h1>Advocates of the High Court of Kenya</h1>
+                <h1>  Advocates of the High Court of Kenya  </h1>
                          <p>We offer legal representation and advice regarding procedures of the law. <br> <br>
                              Our commitment is making your legal affairs aligned with your best interest. Legal matters can be tough, but so are we.
                              <br>
-                             We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice with perspective and adaptability.
+                             We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
 <!--                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
-                    <br><br> — We embrace a modern mindset throughout our practice. — </p>
+                    <br><br>  We embrace a modern mindset throughout our practice with perspective and adaptability.  </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
 </section>
@@ -93,7 +93,7 @@
                         <section class="Commitment">
                                 <h1>  Our Commitment  </h1>
                             <p> The firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
-                                <br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya consistent with the requirements.  <br>
+                                <br><br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya consistent with the requirements.  <br>
                                 Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
                                 <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
                                 <br> — for our clients, our communities, the Firm and ourselves — <br> within
@@ -214,7 +214,7 @@
 <!--                Footer starts here-->
                     <section class="Footer">
                         <h4> Muia Mwanzia & Co. Advocates <br>
-                        - Justice Be Our Shield & Defender - <br>
+                            — Justice Be Our Shield & Defender — <br>
 <!--                            <i class= "fa fa-gavel">  </i>-->
                         </h4>
 
@@ -225,7 +225,7 @@
 <!--                        </p>-->
 
                         <div class="Social2">
-                            <p class="Footer-Con"> - Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services - </p>
+                            <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>
                             <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 333 333 </span> </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

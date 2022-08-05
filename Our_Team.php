@@ -161,14 +161,14 @@
 <!--                Footer starts here-->
 <section class="Footer">
     <h4> Muia Mwanzia & Co. Advocates <br>
-        - Justice Be Our Shield & Defender - <br>
+        — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
         commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
     </p>
     <div class="Social2">
-        <p class="Footer-Con"> - Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services - </p>
+        <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>
         <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 333 333 </span> </i>
         <span class="dot2"> </span>
         <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
