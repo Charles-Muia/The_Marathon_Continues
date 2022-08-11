@@ -156,36 +156,37 @@
                         <h1> FAQs </h1>
                              <div class="accordion">
                                      <div class="icons"></div>
-                                  <h3>What is efiling?</h3>
+                                  <h3> What is efiling? </h3>
                                 </div>
                                     <div class="panel">
-                                            <p>efiling is a system Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
-                                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                                            <p>efiling is a system for courts enabling law firms, lawyers, and non lawyers to initiate and complete the process of filing cases online from their offices /remotely. </p>
                             </div>
 
                         <div class="accordion">
                             <div class="icons"></div>
-                            <h3>What is a judgment?</h3>
+                            <h3> What is a judgment? </h3>
                         </div>
+
                         <div class="panel">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                            <p> A judgment is the decision of the Court in a particular case usually read by a Judge. It includes a statement of the facts, an analysis of the relevant law, the application of the law to the facts. </p>
+                        </div>
+
+                        <div class="accordion">
+                            <div class="icons"></div>
+                            <h3> What is a judgment?  </h3>
+                        </div>
+
+                        <div class="panel">
+                            <p> The plaintiff is the person or party bringing a lawsuit to court.  <br>
                                 Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
                                 <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
                         </div>
+
                         <div class="accordion">
                             <div class="icons"></div>
-                            <h3>What is a judgment?</h3>
+                            <h3> What is a judgment? </h3>
                         </div>
-                        <div class="panel">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
-                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
-                        </div>
-                        <div class="accordion">
-                            <div class="icons"></div>
-                            <h3>What is a judgment?</h3>
-                        </div>
+
                         <div class="panel">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
                                 Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,

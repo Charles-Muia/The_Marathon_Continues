@@ -90,8 +90,8 @@
         <div class="about-col">
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
-            <p class="Bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+            <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law.
+                She is a member of the Law Society of Kenya. magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!

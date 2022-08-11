@@ -1,5 +1,5 @@
 <?php
-//code for the contact form
+//code for the contact form in the contact us page
 
 $name = $_POST ['name'];
 $email = $_POST ['email'];
@@ -11,10 +11,10 @@ $email_from = 'email domain name';
 
 $email_subject = 'Subject: ';
 
-$email_body =    "Sender's Name: $name. \n".
-                 "Sender's Email: $email .\n".
-                 "Sender's Subject: $subject .\n".
-                 "Sender's Message: $message . \n";
+$email_body =    "Sender's Name:  $name. \n".
+                 "Sender's Email:  $email .\n".
+                 "Sender's Subject:  $subject .\n".
+                 "Sender's Message:  $message . \n";
 
 $to = 'Charles.K.Muia@gmail.com';
 

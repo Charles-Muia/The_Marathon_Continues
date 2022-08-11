@@ -75,10 +75,10 @@
                     <div class="process-wrapper">
                         <div id="progress-bar-container">
                             <ul>
-                                <li class="step step01 active"><div class="step-inner">2009</div></li>
-                                <li class="step step02"><div class="step-inner">RESPONSIVE PART</div></li>
-                                <li class="step step03"><div class="step-inner">Creative cREATIONS</div></li>
-                                <li class="step step04"><div class="step-inner">TESTIMONIALS PART</div></li>
+                                <li class="step step01 active"><div class="step-inner"> 2007 </div></li>
+                                <li class="step step02"><div class="step-inner"> 2009 </div></li>
+                                <li class="step step03"><div class="step-inner"> 2011 </div></li>
+                                <li class="step step04"><div class="step-inner"> 2015 </div></li>
                                 <li class="step step05"><div class="step-inner">2022</div></li>
                             </ul>
 
@@ -89,27 +89,27 @@
 
                         <div id="progress-content-section">
                             <div class="section-content discovery active">
-                                <h2> FIRM ESTABLISHED </h2>
+                                <h2> ADMISSION TO THE BAR  </h2>
                                 <p>Muia Mwanzia & Co. Advocates was established in 2009. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content strategy">
-                                <h2>GALLERY SECTION</h2>
+                                <h2> FIRM ESTABLISHED </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content creative">
-                                <h2>Creative CREATIONS</h2>
+                                <h2> Creative CREATIONS </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content production">
-                                <h2>TESTIMONIALS NOW</h2>
+                                <h2> TESTIMONIALS NOW </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content analysis">
-                                <h2>2022</h2>
+                                <h2> 15 YEARS OF SERVICE </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
                         </div>
