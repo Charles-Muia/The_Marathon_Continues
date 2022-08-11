@@ -86,7 +86,7 @@
                         <div>
                             <i class="bi bi-telephone-fill"></i>
                             <span>
-                                <h3> +254 733 333 333 </h3>
+                                <h3> +254 733 678 889 </h3>
 <!--                                <p> Meru  County </p>-->
                             </span>
                         </div>
