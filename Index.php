@@ -27,20 +27,20 @@
 <!--    <hr class="closure">-->
 
     <nav>
-        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
-                                <li><a href="H1.php"> Muia Mwanzia & Co. Advocates <br>
+                                <li><a href="Index.php"> Muia Mwanzia & Co. Advocates <br>
                                         <span> - justice be our shield and defender - </span></a></li>
             </ul>
         </div>
                 <div class="nav-links" id="navlink">
                     <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
                     <ul>
-                        <li><a href="H1.php">Home</a></li>
+                        <li><a href="Index.php">Home</a></li>
                         <li><a href="About.php">About US</a></li>
-                        <li><a href="Practise_A.php">Practice Areas</a></li>
+                        <li><a href="Practise.php">Practice Areas</a></li>
                         <li><a href="News.php">News</a></li>
                         <li><a href="Our_Team.php">Our Team</a></li>
                         <li><a href="Contact.php">Contact Us</a></li>
@@ -73,7 +73,7 @@
                                                 <h2> Commercial & Corporate Law </h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
-                                                <a class="Learn-News" href="Practise_A.php"> read more </a>
+                                                <a class="Learn-News" href="Practise.php"> read more </a>
 
                                             </div>
                                         <div class="practise-col">
@@ -81,7 +81,7 @@
                                             <h2> Civil & Criminal Litigation </h2>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
-                                            <a class="Learn-News" href="Practise_A.php"> read more </a>
+                                            <a class="Learn-News" href="Practise.php"> read more </a>
                                         </div>
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
@@ -90,7 +90,7 @@
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                                                     <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                     <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
-                                                <a class="Learn-News" href="Practise_A.php"> read more </a>
+                                                <a class="Learn-News" href="Practise.php"> read more </a>
                                             </div>
                                     </div>
         </section>

@@ -28,20 +28,20 @@
     <!--    <hr class="closure">-->
 
     <nav>
-        <a href="H1.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
                 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
-                <li><a href="H1.php"> Muia Mwanzia & Co. Advocates <br>
+                <li><a href="Index.php"> Muia Mwanzia & Co. Advocates <br>
                         <span> - justice be our shield and defender - </span> </a></li>
             </ul>
         </div>
         <div class="nav-links" id="navlink">
             <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="H1.php">Home</a></li>
+                <li><a href="Index.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
-                <li><a href="Practise_A.php">Practice Areas</a></li>
+                <li><a href="Practise.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
                 <li><a href="Our_Team.php">Our Team</a></li>
                 <li><a href="Contact.php">Contact Us</a></li>
