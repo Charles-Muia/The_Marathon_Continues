@@ -105,7 +105,7 @@
                             <input type="text" name="subject" placeholder="Subject / Title:" required>
                             <textarea rows="10" name="message" placeholder="Type Your Message Here:" required></textarea>
                             <button type="submit" class="Learn-btn"> Send Message </button>
-                            <button type="reset" class="Learn-btn"> Clear Form </button>
+<!--                            <button type="reset" class="Learn-btn"> Clear Form </button>-->
 
 
                         </form>

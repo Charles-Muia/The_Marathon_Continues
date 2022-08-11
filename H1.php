@@ -52,7 +52,7 @@
                 <h1> Advocates of the High Court of Kenya </h1>
                          <p>We offer legal representation and advice regarding procedures of the law in the areas we practise. <br>
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
-                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>
+<!--                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>-->
                              <br> Our commitment is making your legal affairs aligned with your best interest.
                          </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
