@@ -69,19 +69,23 @@
                         </p>
                                         <div class="row">
                                             <div class="practise-col">
-                                                <h2>Commercial & Corporate Law</h2>
+                                                <i class="fa fa-handshake-o" id="pc"></i>
+                                                <h2> Commercial & Corporate Law </h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
                                                 <a class="Learn-News" href="Practise_A.php"> read more </a>
 
                                             </div>
                                         <div class="practise-col">
-                                            <h2>Civil & Criminal Litigation</h2>
+                                            <i class="fa fa-gavel" id="pc"></i>
+                                            <h2> Civil & Criminal Litigation </h2>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
                                             <a class="Learn-News" href="Practise_A.php"> read more </a>
                                         </div>
                                             <div class="practise-col">
+                                                <i class="fa fa-users" id="pc"></i>
+
                                                 <h2>Conveyancing & Arbitration</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                                                     <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.

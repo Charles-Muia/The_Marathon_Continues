@@ -1365,3 +1365,8 @@
                 text-align: justify;
             }
         }
+
+        #pc {
+            font-size: 75px;
+            margin-bottom: 12px;
+        }
