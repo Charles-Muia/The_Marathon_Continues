@@ -588,7 +588,7 @@
             .Social .fa {
                 color: blue;
                 cursor: pointer;
-                margin: 10px 30px ; /*creates space in-between*/
+                margin: 15px 30px ; /*creates space in-between*/
                 padding: 10px 0;
                 font-size: 25px;
                 background-color: transparent;

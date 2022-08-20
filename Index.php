@@ -27,7 +27,7 @@
 <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="Index.php"><img src="Pics/Logo2.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
