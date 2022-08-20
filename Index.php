@@ -248,7 +248,9 @@
                                     <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>
                                         <i class= "fa fa-youtube"></i>
                                         <i class= "fa fa-instagram"></i>
+                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>
                                 </div>
+
                         <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
                         </p>
                         <hr class="closure">

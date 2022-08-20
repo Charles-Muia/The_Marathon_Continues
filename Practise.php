@@ -159,7 +159,7 @@
                                   <h3> What is efiling? </h3>
                                 </div>
                                     <div class="panel">
-                                            <p>efiling is a system for courts enabling law firms, lawyers, and non lawyers to initiate and complete the process of filing cases online from their offices /remotely. </p>
+                                            <p>efiling is a system for courts enabling law firms, lawyers, and non lawyers to initiate and complete the process of filing cases online from their offices / remotely. </p>
                             </div>
 
                         <div class="accordion">
@@ -168,7 +168,7 @@
                         </div>
 
                         <div class="panel">
-                            <p> A judgment is the decision of the Court in a particular case usually read by a Judge. It includes a statement of the facts, an analysis of the relevant law, the application of the law to the facts. </p>
+                            <p> A judgment is the decision of the Court in a particular case usually read by a Judge. It includes a statement of the facts, an analysis of the relevant law and the application of the law to the facts. </p>
                         </div>
 
                         <div class="accordion">

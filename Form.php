@@ -1,5 +1,5 @@
 <?php
-//code for the contact form in the contact us page
+//code for the contact form in the contact us page section
 
 $name = $_POST ['name'];
 $email = $_POST ['email'];
