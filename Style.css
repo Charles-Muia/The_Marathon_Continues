@@ -560,7 +560,7 @@
 
             .Footer p {
                 margin-top: 10px;
-                margin-bottom: 30px;
+                margin-bottom: 35px;
                 /*font-weight: 0;*/
             }
 
@@ -588,7 +588,7 @@
             .Social .fa {
                 color: blue;
                 cursor: pointer;
-                margin: 15px 30px ; /*creates space in-between*/
+                margin: 10px 30px ; /*creates space in-between*/
                 padding: 10px 0;
                 font-size: 25px;
                 background-color: transparent;
@@ -616,7 +616,6 @@
                 line-height: 20px;
                 display: inline-block;
                 width: 100%;
-
             }
 
             .Social2 .fa {
@@ -634,7 +633,7 @@
                 color: black;
                 text-align: center;
                 display: block;
-                padding: 5px 20px;
+                padding: 5px 15px;
             }
 
             .Credits {
