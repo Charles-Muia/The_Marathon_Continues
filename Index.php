@@ -85,7 +85,6 @@
                                         </div>
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
-
                                                 <h2>Conveyancing & Arbitration</h2>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                                                     <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.

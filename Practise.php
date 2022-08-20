@@ -61,16 +61,19 @@
 <!--        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>-->
     <div class="row">
         <div class="practise-col">
+            <img src="Pics/Commercial_Icon2.png" alt="" width="110">
             <h2>Commercial Law</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
         <div class="practise-col">
+            <img src="Pics/Civil_Icon2.png" alt="" width="110">
             <h2>Civil & Criminal Litigation</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
         <div class="practise-col">
+            <img src="Pics/Abi_Icon.png" alt=""width="110">
             <h2>Conveyancing & Arbitration</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                 <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
@@ -91,6 +94,7 @@
 
     <div class="row">
         <div class="practise-col">
+            <img src="Pics/Family_Law3.png" alt="" width="110">
             <h2> Family Law & Succession </h2>
             <p>The family is the natural and fundamental unit of society, the necessary basis of social order.
                 <br> In line with the Constitution of Kenya (2010),
@@ -98,11 +102,13 @@
                 including but not limited to child adoption, divorce, institution of marriage and child custody.</p>
         </div>
         <div class="practise-col">
+            <img src="Pics/Commercial_Icon.png" alt="" width="110">
             <h2> Corporate Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
         <div class="practise-col">
+            <img src="Pics/Corporate_Law.png" alt="" width="110">
             <h2> Intellectual Property Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
                 <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
