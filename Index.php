@@ -80,8 +80,11 @@
                                             </div>
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
-                                            <h2> Civil & Criminal Litigation </h2>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
+                                            <h2> Civil Litigation & Criminal Law </h2>
+                                            <p> Our goal of civil litigation is to represent clients for any compensatory or punitive damages.
+                                                We facilitate dispute resolution, mediation, conciliation or negotiation
+                                                between parties.
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                                                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
                                             <a class="Learn-News" href="Practise.php"> read more </a>
                                         </div>
@@ -131,21 +134,20 @@
             <section>
                             <div class="nws">
                                 <h1>  News </h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
-                                    <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                <p> Stay up to date with trends, advancements and legal decisions that have the potential to affect your business, home or professional life.
+                                    <br> We sample local and international publications along the corridors of justice making global headlines. </p>
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <img src="Pics/US-Supreme.jpg" alt="">
+                                        <img src="Pics/Koome_SCOK.png" alt="" height="320">
                                         <h3> Corridors of Justice </h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
-                                            <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
+                                        <p>The Supreme Court of Kenya (SCOK) ready to hear Presidential Election Petition.
+                                            This is after the release of the Supreme Court Presidential Election Petitions timelines to guide the process as provided by the Constitution of Kenya, 2010.</p>
                                         <a class="Learn-News" href="News.php"> read more </a>
                                     </div>
 
                                     <div class="nws-col">
-                                        <img src="Pics/Advocate.jpg" alt="">
+                                        <img src="Pics/Advocate_Sec.jpg" alt="" height="320">
                                         <h3> Advocates Section </h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
                                             <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
@@ -154,9 +156,10 @@
                                     </div>
 
                                     <div class="nws-col">
-                                        <img src="Pics/US-Supreme.jpg" alt="">
+                                        <img src="Pics/US-Supreme.jpg" alt="" width="">
                                         <h3> International Scene </h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
+                                        <p> Ketanji Onyika Brown Jackson
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
                                             <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
                                         <a class="Learn-News" href="News.php"> read more </a>
 
@@ -168,8 +171,9 @@
 
                     <section class="Client-testimonials">
                                 <h1>  What Our Clients Say  </h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti error illum libero obcaecati, omnis reiciendis repellat sequi. Animi aut blanditiis consequatur
-                            <br>corporis dicta distnctio dolor modi voluptatem. Doloribus, laudantium, nostrum.</p>
+                        <p> We advance our client's overall personal, organizational, business and corporate goals by representing their interests in Court.
+                            <br> As a firm, we listen and value their feedback.
+                            <br> Our ability to provide unparalleled service to our clients facilitates growth in legal knowledge and skills. </p>
                                     <div class="row">
                                         <div class="test-col">
                                             <img src="Pics/DOG.jpg" alt="">
@@ -278,7 +282,7 @@
     window.onscroll = function() {scrollFunction()};
 
     function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
             mybutton.style.display = "block";
         } else {
             mybutton.style.display = "none";
