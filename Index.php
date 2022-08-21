@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" type="" href="Pics/Logo1.jpg">
+    <link rel="icon" type="" href="Pics/Logo2.jpg">
     <link rel="stylesheet" href="Style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -71,8 +71,10 @@
                                             <div class="practise-col">
                                                 <i class="fa fa-handshake-o" id="pc"></i>
                                                 <h2> Commercial & Corporate Law </h2>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                                <p> Our legal expertise and profound knowledge in both of these practise areas
+                                                    governs formation of companies, shareholder rights, mergers, and acquisitions.
+                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.
+                                                    </p>
                                                 <a class="Learn-News" href="Practise.php"> read more </a>
 
                                             </div>
@@ -98,7 +100,7 @@
                         <section class="Commitment">
                                 <h1>  Our Commitment  </h1>
                             <p> The firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
-                                <br><br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya consistent with the requirements.  <br>
+                                <br><br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
                                 <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
                                 <br> — for our clients, our communities, the Firm and ourselves — <br> within
