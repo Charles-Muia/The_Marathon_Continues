@@ -169,6 +169,7 @@
             padding: 10px 40px;
             cursor: pointer;
             position: relative;
+            text-align: left;
             font-size: 20px;
             text-transform: capitalize;
         }
@@ -311,6 +312,7 @@
             margin-bottom: 4%;
             padding: 22px 11px;
             transition: 0.5s;
+            cursor: pointer;
         }
 
         .practise-col p {
@@ -409,6 +411,7 @@
             margin: auto;
             text-align: center;
             padding-top: 40px;
+            cursor: pointer;
         }
 
         .nws-col {
@@ -418,7 +421,10 @@
             border-radius: 10px;
             border: 1px solid #eeeeee;
             padding-top: 10px;
+            padding-bottom: 15px;
+            cursor: pointer;
         }
+
 
         .nws-col img {
             width: 85%;
@@ -432,15 +438,24 @@
 
         .nws-col p {
         padding: 10px;
-        text-align: justify;
+        text-align: left;
         }
 
 
         .nws-col h3 {
             margin-top: 14px;
             margin-bottom: 13px;
-            text-align: center;
+            margin-left: 12px;
         }
+
+        /*.nws-col h4 {*/
+        /*    text-align: left;*/
+        /*    margin-left: 12px;*/
+        /*}*/
+
+        /*.nws-col .Learn-News {*/
+        /*    text-align: left;*/
+        /*}*/
 
 
 /*----------Client-testimonials section CSS Starts Here----------*/
@@ -992,6 +1007,7 @@
             align-items: center;
             margin-bottom: 30px;
             /*margin-left: 30px;*/
+            cursor: pointer;
         }
 
         /* Float four columns side by side */
@@ -1002,6 +1018,7 @@
             padding: 0 5px;
             display: inline-block;
             margin-bottom: 30px;
+            cursor: pointer;
 
         }
 
@@ -1232,7 +1249,6 @@
             text-transform: uppercase;
             cursor: pointer;
             border-radius: 12px;
-
         }
 
 /*------------------News Page Css Starts Here------------------------------*/
@@ -1375,4 +1391,8 @@
         #pc {
             font-size: 75px;
             margin-bottom: 12px;
+        }
+
+        #continue
+        {display: none;
         }

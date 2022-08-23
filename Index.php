@@ -157,10 +157,12 @@
 
                                     <div class="nws-col">
                                         <img src="Pics/US-Supreme.jpg" alt="" width="">
-                                        <h3> International Scene </h3>
-                                        <p> Ketanji Onyika Brown Jackson
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
-                                            <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
+                                        <h3> International Courts </h3>
+                                        <p> History made as Hon. Ketanji Onyika Brown Jackson became the first Black
+                                            woman and the first former federal public defender
+                                            to serve on the Supreme Court of the United States after being sworn in on June 30th, 2022.
+<!--                                            <br>Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?-->
+                                        </p>
                                         <a class="Learn-News" href="News.php"> read more </a>
 
                                     </div>

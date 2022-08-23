@@ -64,28 +64,42 @@
 
         <div class="row">
             <div class="nws-col">
-                <img src="Pics/US-Supreme.jpg" alt="" width="150">
-                <h3> Corridors of Justice </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
-                    <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
-                <a class="Learn-News" href="News.php"> read more </a>
+                <img src="Pics/SCOK_.png" alt="" height="320">
+                <h3 style="text-align: left"> Corridors of Justice </h3>
+                <h4 style="margin-left: 12px; text-align: left">Aug 22, 2022</h4>
+                <p>The Supreme Court receives 9 Presidential Election Petitions from the following:
+                    1. Raila Odinga & Martha Karua 2. David Ngari
+                    3. John Kamau 4. Khelef Khalifa
+                    5. Moses Kuria 6. Okiya Omtatah 7. Reuben Kigame 8. Youth Advocacy Africa 9. Juliah Chege. <br>
+<!--                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?-->
+<!--                    <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis-->
+                    This is after the Court released the Presidential Election Petitions
+                    timelines to guide the process as provided by the Constitution of Kenya, 2010.
+                </p>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="https://nation.africa/kenya/news/politics/supreme-court-admits-raila-odinga-s-petition-challenging-william-ruto-s-win-3922428"> read more </a>
             </div>
 
             <div class="nws-col">
-                <img src="Pics/Advocate.jpg" alt=""width="500">
-                <h3> Advocates Section </h3>
+                <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
+                <h3 style="text-align: left"> Advocates Section </h3>
+                <h4 style="margin-left: 12px; text-align: left">Aug 22, 2022</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
                     <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
-                <a class="Learn-News" href="News.php"> read more </a>
+<!--                <a class="Learn-News" href="News.php"> read more </a>-->
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
 
             </div>
 
             <div class="nws-col">
                 <img src="Pics/Judges.jpg" alt="" width="150">
-                <h3> Appointment: <br>New Court of Appeal Judges </h3>
-                <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges;
-                    <br> <i class="bi bi-dot"></i> Lawyer Gachoka Paul Mwaniki and High Court Judges <i class="bi bi-dot"></i> Achode Lydia Awino, <i class="bi bi-dot"></i> Ochieng Frederick Andago, <i class="bi bi-dot"></i> Mativo John Mutinga, <i class="bi bi-dot"></i> Ngenye Grace Wangui, <i class="bi bi-dot"></i> Kimaru Luka Kiprotich <i class="bi bi-dot"></i> & <i class="bi bi-dot"></i>  Aroni Abida Ali  at State  House, Nairobi.</p>
-                <a class="Learn-News" href="News.php"> read more </a>
+                <h3 style="text-align: left"> New Court of Appeal Judges </h3>
+                <h4 style="margin-left: 12px; text-align: left"> July 20, 2022</h4>
+                <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
+                    <br>
+                   Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
+<!--                <a class="Learn-News" href="News.php"> read more </a>-->
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
+
 
             </div>
         </div>
