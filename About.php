@@ -56,12 +56,27 @@
                     <div class="row">
                             <div class="about-col">
                                     <h1> We measure our firm's success based upon case closure rate, trial and legal practise. </h1>
-                                            <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County established in 2009 by Muia Mwanzia. The firm Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                                                <br>libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                                <br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County established in 2009 by Muia Mwanzia.
+                                    The firm Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                    <br> Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                                             </p>
+                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.</p>
                             </div>
                         <div class="about-col">
-                            <img src="Pics/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg" alt="">        
+                            <img src="Pics/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg" alt="">
+                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
+                                voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
+                                odit reiciendis rem temporibus vero.
+                            </p>
+                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                Architecto eius est eum excepturi explicabo in ipsam iste
+                                natus nihil odio perferendis perspiciatis praesentium quisquam,
+                                ratione rem saepe sequi unde, vitae! <br>
+                                <br>
+                                Our firm practise areas include:
+
+                            </p>
                         </div>
                     </div>
 

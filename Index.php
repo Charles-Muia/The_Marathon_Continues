@@ -107,7 +107,7 @@
 <!--                        Commitment section starts here-->
                         <section class="Commitment">
                                 <h1>  Our Commitment  </h1>
-                            <p> The firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
+                            <p> Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
                                 <br><br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
                                 <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
