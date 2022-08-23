@@ -122,11 +122,14 @@
         — Justice Be Our Shield & Defender — <br>
 <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
-                                commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
+                            <p> We offer a high level of service to our clients from all walks of life. <br>
+                                Our competitive rates spurs efficiency in our practise as Advocates of the High Court of Kenya. <br>
+                                We put the interests of our clients first. <br> This is a proven fact throughout our 15 years of practise. <br>
+<!--                                commodi consequatur corporis exercitationem, -->
+<!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>
     <div class="Social2">
-        <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>
+        <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
                             <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

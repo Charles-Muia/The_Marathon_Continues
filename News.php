@@ -58,9 +58,12 @@
 <section>
     <div class="nws">
         <h1> News & Related Articles </h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
-            <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-            Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+        <p>Stay up to date with trends, advancements and legal decisions that have the potential to affect your business, home or professional life.
+            <br>We sample local and international publications along the corridors of justice making global headlines.
+<!--            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,-->
+<!--            <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
+<!--            Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
+            .</p>
 
         <div class="row">
             <div class="nws-col">
@@ -82,9 +85,13 @@
             <div class="nws-col">
                 <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
                 <h3 style="text-align: left"> Advocates Section </h3>
-                <h4 style="margin-left: 12px; text-align: left">Aug 22, 2022</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
-                    <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
+                <h4 style="margin-left: 12px; text-align: left">Aug 18, 2022</h4>
+                <p> The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
+                    President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
+                    Law firms and advocates can now file cases via the E-filing <a href="https://efiling.court.go.ke">link</a> and
+                        the guidelines can be downloaded <a href="https://t.co/Xt73KJhEdo">here</a>
+
+                </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
                 <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
 
@@ -116,7 +123,7 @@
         commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
     </p>
     <div class="Social2">
-        <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>
+        <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
         <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
         <span class="dot2"> </span>
         <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

@@ -81,19 +81,24 @@
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
                                             <h2> Civil Litigation & Criminal Law </h2>
-                                            <p> Our goal of civil litigation is to represent clients for any compensatory or punitive damages.
-                                                We facilitate dispute resolution, mediation, conciliation or negotiation
-                                                between parties.
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                            <p> Our goal in civil litigation is to represent clients for any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
+                                                <br>
+                                                <br>
+                                                Our competitive rates makes us the firm of choice in case assessment and litigation strategies.
+<!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
+<!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
+                                            </p>
                                             <a class="Learn-News" href="Practise.php"> read more </a>
                                         </div>
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
                                                 <h2>Conveyancing & Arbitration</h2>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus,
-                                                    <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                                                    <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+                                                <p> Our firm believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core
+                                                    of ADR (Altenative Dispute Resolution) mechanisms that we employ.
+                                                    <br>Our team facilitates out-of-court settlements by means of Negotiation, Conciliation and Mediation.
+<!--                                                    fugit id nemo numquam odit perspiciatis quaerat.-->
+<!--                                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
+                                                    </p>
                                                 <a class="Learn-News" href="Practise.php"> read more </a>
                                             </div>
                                     </div>
@@ -149,8 +154,10 @@
                                     <div class="nws-col">
                                         <img src="Pics/Advocate_Sec.jpg" alt="" height="320">
                                         <h3> Advocates Section </h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?
-                                            <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.</p>
+                                        <p>The Chief Justice of the Republic of Kenya Hon. Justice Martha Koome launched the Judicial E-filing system
+                                            for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link.
+                                            <br>
+<!--                                            Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.--></p>
                                         <a class="Learn-News" href="News.php"> read more </a>
 
                                     </div>
@@ -238,15 +245,14 @@
                                                     <br>
                                                     <i class="fa fa-quote-right" aria-hidden="true"></i> </p>
 
-                                                    <h3>
-                                                        Dwight D. Eisenhower.  <br> — </h3>
+                                                    <h3> Dwight D. Eisenhower.  <br> — </h3>
 
 <!--                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>-->
 <!--                            commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
 <!--                            <br>-->
 
                         <div class="Social2">
-                            <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>
+                            <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
                             <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
