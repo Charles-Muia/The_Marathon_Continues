@@ -203,8 +203,7 @@
                                             <img src="Pics/Prince-C.jpg" alt="">
                                             <div>
                                                 <i class="bi bi-quote"></i>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,
-                                                    <br>illo imp.</p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,</p>
                                                 <h3>Prince Charles</h3>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -231,11 +230,20 @@
 <!--                            <i class= "fa fa-gavel">  </i>-->
                         </h4>
 
+                                                <p class="quote">
+                                                    <i class="fa fa-quote-left"></i>
+                                                    <br>
+                                                    The clearest way to show what the rule of law means to us in everyday life
+                                                    <br> is to recall what has happened when there is no rule of law.
+                                                    <br>
+                                                    <i class="fa fa-quote-right" aria-hidden="true"></i> </p>
 
-                        <!--                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>-->
+                                                    <h3>
+                                                        Dwight D. Eisenhower.  <br> — </h3>
+
+<!--                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>-->
 <!--                            commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
 <!--                            <br>-->
-<!--                        </p>-->
 
                         <div class="Social2">
                             <p class="Footer-Con"> — Advocates of The High Court of Kenya   <span class="dot"> </span>   Commissioner for Oaths   <span class="dot"> </span>   Legal Services — </p>

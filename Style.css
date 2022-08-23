@@ -99,6 +99,7 @@
             position: relative;
             display: inline-block;
             padding: 5px 31px;
+            /*background-color: darkblue;*/
         }
 
         .nav-links ul li a {
@@ -1393,6 +1394,12 @@
             margin-bottom: 12px;
         }
 
-        #continue
-        {display: none;
+        .quote {
+            font-size: 23px;
+            font-style: italic;
+            padding: 10px;
+            text-align: center;
+            line-height: 2;
+            position: relative;
+            margin: auto;
         }
