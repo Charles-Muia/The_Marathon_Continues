@@ -57,32 +57,36 @@
                             <div class="about-col">
                                     <h1> We measure our firm's success based upon case closure rate, trial and legal practise. </h1>
                                 <br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County established in 2009 by Muia Mwanzia.
+                                    <br><br>
                                     The firm delivers the highest level of service to clients in the areas we practise handling matters in Civil, Commercial & Criminal Litigation,
                                     Conveyancing, Commercial and Corporate Law, Consultancy, Arbitration, Intellectual Property Law, Patents Agents, Probate,
                                     Family Law, Labour and Immigration Law.<br>
                                     <br>
-                                    Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity. Our goal is
-                                    to provide fair handling, keeping each and every case in line with the standards set by the firm.
+                                    Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
+                                    <br> <br> Our goal is to provide fair handling, keeping each and every case in line with the standards set by the firm.
                                     <br>
 <!--                                    Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
-
                                     <br>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.</p>
+                                    Our team's exposure to the legal systems and qualifications has helped the firm find innovative and pragmatic solutions to client legal challenges.
+                                    <br> <br>
+                                    We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
+<!--                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.-->
+                                </p>
                             </div>
                         <div class="about-col">
-                            <img src="Pics/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg" alt="">
+                            <img src="Pics/Type_Writter.jpg" alt="">
                             <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
                                 voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
                                 odit reiciendis rem temporibus vero.
-                            </p>
-                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                <br><br>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Architecto eius est eum excepturi explicabo in ipsam iste
                                 natus nihil odio perferendis perspiciatis praesentium quisquam,
                                 ratione rem saepe sequi unde, vitae!
-
-
                             </p>
+                            <img src="Pics/Law_Icon.png" alt="" height="320">
+
                         </div>
                     </div>
 
