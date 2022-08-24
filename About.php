@@ -74,7 +74,7 @@
                                 </p>
                             </div>
                         <div class="about-col">
-                            <img src="Pics/Type_Writter.jpg" alt="">
+                            <img src="Pics/Gavel.jpg" alt="">
                             <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
                                 voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
@@ -85,6 +85,7 @@
                                 natus nihil odio perferendis perspiciatis praesentium quisquam,
                                 ratione rem saepe sequi unde, vitae!
                             </p>
+                            <br>
                             <img src="Pics/Law_Icon.png" alt="" height="320">
 
                         </div>
