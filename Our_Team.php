@@ -93,14 +93,23 @@
             <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law (KSL).
                 She is a member of the Law Society of Kenya. magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                Her practise takes a client-centered approach with an emphasis on professionalism, transparency and communication.
+                She always goes the extra mile to ensure our clients are informed, while fiercely litigating claims and representing them in Court.
+                She is highly motivated, competent and always up for a challenge.
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
+                Prior to joining the firm, Audrey experience in the legal practise has been consistent.
+                She has defended state and private entities at all levels from arbitration to the
+                Appellate Court to expedite our clients practical solutions to bring their cases to an efficient and timely resolution.
+<!--                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam-->
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                Through out her career, Audrey has on various occasions developed creative dispute resolution winning strategies.
+                As an Advocate of the High Court of Kenya, She delivers outstanding client service
+                while maintaining the highest possible level of integrity; dedicated to providing reliable and friendly legal practise without compromising the reputation or competence of the firm.
+                <br><br>
+<!--                consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam-->
+<!--                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
             </p>
         </div>
     </div>

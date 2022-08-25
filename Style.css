@@ -762,8 +762,8 @@
                 }
 
                 .about-col h1 {
-                    padding-top: 55px;
-                    margin-bottom: 20px;
+                    padding-top: 0px;
+                    margin-bottom: 10px;
                 }
                 .about-col p {
                     padding: 16px 0 30px;
@@ -1373,7 +1373,7 @@
         }
 
         .Team_Pics {
-            clip-path: circle(42%);
+            clip-path: circle(40%);
         }
 
         .Bio {
