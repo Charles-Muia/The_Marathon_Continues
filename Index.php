@@ -71,7 +71,7 @@
                                             <div class="practise-col">
                                                 <i class="fa fa-handshake-o" id="pc"></i>
                                                 <h2> Commercial & Corporate Law </h2>
-                                                <p> Our legal expertise and profound knowledge in both of these practise areas
+                                                <p> Our legal expertise in both of these practise areas
                                                     governs formation of companies, shareholder rights, mergers, and acquisitions.
                                                     We help our clients and business owners to operate businesses, corporates and organisations with in the law.
                                                     </p>
@@ -82,8 +82,6 @@
                                             <i class="fa fa-gavel" id="pc"></i>
                                             <h2> Civil Litigation & Criminal Law </h2>
                                             <p> Our goal in civil litigation is to represent clients for any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
-                                                <br>
-                                                <br>
                                                 Our competitive rates makes us the firm of choice in case assessment and litigation strategies.
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
@@ -95,7 +93,7 @@
                                                 <h2>Conveyancing & Arbitration</h2>
                                                 <p> Our firm believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core
                                                     of ADR (Altenative Dispute Resolution) mechanisms that we employ.
-                                                    <br>Our team facilitates out-of-court settlements by means of Negotiation, Conciliation and Mediation.
+                                                    Our team facilitates out-of-court settlements by means of Negotiation, Conciliation and Mediation.
 <!--                                                    fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
                                                     </p>
@@ -107,8 +105,10 @@
 <!--                        Commitment section starts here-->
                         <section class="Commitment">
                                 <h1>  Our Commitment  </h1>
-                            <p> Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.
-                                <br><br> We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
+                            <p>
+<!--                                Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.-->
+<!--                                <br><br> -->
+                                We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
                                 <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
                                 <br> — for our clients, our communities, the Firm and ourselves — <br> within
