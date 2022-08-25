@@ -105,8 +105,8 @@
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Through out her career, Audrey has on various occasions developed creative dispute resolution winning strategies.
-                As an Advocate of the High Court of Kenya, She delivers outstanding client service
-                while maintaining the highest possible level of integrity; dedicated to providing reliable and friendly legal practise without compromising the reputation or competence of the firm.
+                As an Advocate of the High Court of Kenya, She delivers outstanding legal practise
+                while maintaining the highest possible level of integrity; dedicated to providing reliable results without compromising the reputation or competence of the firm.
                 <br><br>
 <!--                consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam-->
 <!--                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
