@@ -50,10 +50,14 @@
     </nav>
             <div class="text">
                 <h1> Advocates of the High Court of Kenya </h1>
-                         <p>We offer legal representation and advice regarding procedures of the law in the areas we practise. <br>
+                <p>
+<!--                             We offer legal representation and advice regarding procedures of the law in the areas we practise. -->
+<!--                             <br>-->
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
 <!--                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>-->
-                             <br> Our commitment is making your legal affairs aligned with your best interest.
+<!--                             <br> Our commitment is making your legal affairs aligned with your best interest.-->
+                                  We take pride in offering personalised legal counsel to our adverse clientele. <br>
+                             <br> Our practise inspires us to offer efficient and cost effective legal solutions that meet our clients needs in a timely and competent manner.
                          </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
@@ -117,19 +121,21 @@
                                 <div class="commitment-col">
                                     <img src="Pics/Professionalism2.jpg" alt="" width="">
                                     <div class="commitment-layer">
-                                            <h3> - Professionalism - </h3>
+<!--                                            <h3> - Professionalism - </h3>-->
+                                                <h3> - Commitment - </h3>
+
                                     </div>
                                 </div>
                             <div class="commitment-col">
                                 <img src="Pics/p-5.jpg" alt="">
                                 <div class="commitment-layer">
-                                    <h3> - Best Interests - </h3>
+                                    <h3> - Efficiency - </h3>
                                 </div>
                             </div>
                                     <div class="commitment-col">
                                         <img src="Pics/p-4.jpg" alt="">
                                         <div class="commitment-layer">
-                                            <h3> - Trust - </h3>
+                                            <h3> - Integrity - </h3>
                                         </div>
                                     </div>
                          </div>
