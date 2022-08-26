@@ -57,8 +57,8 @@
 <!--                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>-->
 <!--                             <br> Our commitment is making your legal affairs aligned with your best interest.-->
                                   We take pride in offering personalised legal counsel to our adverse clientele. <br>
-                             <br> Our practise inspires us to offer efficient and cost effective legal solutions that meet our clients needs in a timely and competent manner.
-                         </p>
+                             <br> Our practise inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
+                </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
 </section>
