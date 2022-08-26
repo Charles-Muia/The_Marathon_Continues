@@ -182,7 +182,7 @@
                                 <h1>  What Our Clients Say  </h1>
                         <p> We advance our client's overall personal, organizational, business and corporate goals by representing their interests in Court.
                             <br> As a firm, we listen and value their feedback.
-                            <br> Our ability to provide unparalleled service to our clients facilitates growth in our legal knowledge and skills. </p>
+                            <br> Our ability to provide unparalleled service to our clients facilitates growth in our legal knowledge and practise skills. </p>
                                     <div class="row">
                                         <div class="test-col">
                                             <img src="Pics/DOG.jpg" alt="">
