@@ -59,7 +59,7 @@
                                 <br><br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
-                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of service to our clients in the areas we practise including but not limited to:
+                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of legal services to our clients in the areas we practise including but not limited to:
                                     <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practise.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
@@ -79,18 +79,20 @@
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Incorporation and registration of entities <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Companies, Trusts, SACCO, NGO Society, Partnership, Business Names and Firms.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Creation of legal charge and further charge <i class="fa fa-long-arrow-right" aria-hidden="true"></i> mortgages, debentures, guarantees, indemnities including all other legal documents required to secure credit facilities by any financial institutions.
                                     <br><br>
-<!--                                    <img src="Pics/Law_Icon.png" alt="" height="320">-->
                                 </p>
                             </div>
                         <div class="about-col">
                             <img src="Pics/Gavel.jpg" alt="">
                             <p>
-
+                                <i class="fa fa-hand-o-right"></i> Consultancy Services:
+                                <br><i class="fa fa-angle-right" aria-hidden="true"></i> We proffer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
 
                                 <br><br>
                                 We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
-                                <!--                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.-->
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                In the conduct of our work we are constantly practising to ensure our clients get the best possible
+                                service by adhering to the firm's core principles of <u>Efficiency</u>, <u>Commitment</u> and <u> Integrity</u>.
+                                <br><br>
+                                In this respect, we take pride in offering personalised services to our adverse clientele both individual and corporate entities.
                                 Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
                                 voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
                                 odit reiciendis rem temporibus vero.
@@ -105,10 +107,14 @@
                                 ratione rem saepe sequi unde, vitae!
                                 <br><br>
                                 Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
+                                <br>
+<!--                                <img src="Pics/Law_Icon.png" alt="" height="320">-->
                             </p>
                         </div>
                     </div>
-            </section>
+                <hr>
+            </section><br>
+
 
 <!--                Journey / Timeline sections starts here-->
 
