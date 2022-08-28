@@ -60,7 +60,7 @@
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
                                     The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of service to our clients in the areas we practise including but not limited to:
-                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practise.
+                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practise.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Environmental and Land law.
@@ -69,8 +69,15 @@
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Tort law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Immigration law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Family law.
+                                    <br><br>
 
-<!--                                    Conveyancing, Commercial and Corporate Law, Consultancy, Arbitration, Intellectual Property Law, Probate,-->
+                                    <i class="fa fa-hand-o-right"></i> Conveyancing:
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Drawing sale agreements for movable and immovable properties and assets.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Transfer and transmission of property.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Drawing general lease and tenancy agreements.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Registration of trademarks, patents, copyrights to protect intellectual property.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Incorporation and registration of entities <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Companies, Trusts, SACCO, NGO Society, Partnership, Business Names and Firms.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Creation of legal charge and further charge <i class="fa fa-long-arrow-right" aria-hidden="true"></i> mortgages, debentures, guarantees, indemnities including all other legal documents required to secure credit facilities by any financial institutions.
                                     <br><br>
 <!--                                    <img src="Pics/Law_Icon.png" alt="" height="320">-->
                                 </p>
@@ -78,9 +85,7 @@
                         <div class="about-col">
                             <img src="Pics/Gavel.jpg" alt="">
                             <p>
-                                <i class="fa fa-hand-o-right"></i> Conveyancing <br>
-                                <i class="fa fa-check-square-o" aria-hidden="true"> </i> Drawing sale agreements <br>
-                                <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Drawing
+
 
                                 <br><br>
                                 We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
