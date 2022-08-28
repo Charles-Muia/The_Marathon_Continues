@@ -56,42 +56,53 @@
                     <div class="row">
                             <div class="about-col">
                                     <h1> We measure our firm's success <br> based on case closure rate, trial <br> and legal practise. </h1>
-                                <br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
-                                    The firm was established on 28th August 2008 by Muia Mwanzia and issued with a Certificate of Registration No. 525476.
+                                <br><br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
+                                    The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
-                                    delivers the highest level of service to clients in the areas we practise handling matters in Civil, Commercial & Criminal Litigation,
-                                    Conveyancing, Commercial and Corporate Law, Consultancy, Arbitration, Intellectual Property Law, Probate,
-                                    Family Law, Labour and Immigration Law.<br>
-                                    <br>
-                                    Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
-                                    <br> <br> Our goal is to provide fair handling, keeping each and every case in line with the standards set by the firm.
-                                    <br>
-<!--                                    Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
-                                    <br>
-                                    Our team's exposure to the legal systems and qualifications has helped the firm find innovative and pragmatic solutions to client legal challenges.
-                                    <br> <br>
-                                    We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
-<!--                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.-->
+                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of service to our clients in the areas we practise including but not limited to:
+                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practise.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Environmental and Land law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Employment and Labor law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Constitution and Administrative law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Tort law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Immigration law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Family law.
+
+<!--                                    Conveyancing, Commercial and Corporate Law, Consultancy, Arbitration, Intellectual Property Law, Probate,-->
+                                    <br><br>
+<!--                                    <img src="Pics/Law_Icon.png" alt="" height="320">-->
                                 </p>
                             </div>
                         <div class="about-col">
                             <img src="Pics/Gavel.jpg" alt="">
-                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            <p>
+                                <i class="fa fa-hand-o-right"></i> Conveyancing <br>
+                                <i class="fa fa-check-square-o" aria-hidden="true"> </i> Drawing sale agreements <br>
+                                <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Drawing
+
+                                <br><br>
+                                We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
+                                <!--                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa debitis delectus deserunt eligendi est in quidem voluptas! Adipisci cumque facere libero nobis nulla quisquam. Aut dolorem officiis perspiciatis sit temporibus.-->
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
                                 voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
                                 odit reiciendis rem temporibus vero.
+                                <br><br>
+                                Our goal is to provide fair handling, keeping each and every case in line with the standards set by the firm.
+                                <!--                                    Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
+                                Our team's exposure to the legal systems and qualifications has helped the firm find innovative and pragmatic solutions to client legal challenges.
                                 <br><br>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                                 Architecto eius est eum excepturi explicabo in ipsam iste
                                 natus nihil odio perferendis perspiciatis praesentium quisquam,
                                 ratione rem saepe sequi unde, vitae!
+                                <br><br>
+                                Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
                             </p>
-                            <br>
-                            <img src="Pics/Law_Icon.png" alt="" height="320">
-
                         </div>
                     </div>
-
             </section>
 
 <!--                Journey / Timeline sections starts here-->

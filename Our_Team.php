@@ -98,7 +98,7 @@
                 She is highly motivated, competent and always up for a challenge.
                 libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
-                Prior to joining the firm, Audrey experience in the legal practise has been consistent.
+                Prior to joining the firm, Audrey's experience in the legal practise has been consistent.
                 She has defended state and private entities at all levels from arbitration to the
                 Appellate Court to expedite our clients practical solutions to bring their cases to an efficient and timely resolution.
 <!--                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam-->
