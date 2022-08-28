@@ -88,8 +88,8 @@
                 <h4 style="margin-left: 12px; text-align: left">Aug 18, 2022</h4>
                 <p> The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
                     President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
-                    Law firms and advocates can now file cases via the E-filing <a href="https://efiling.court.go.ke">link</a> and
-                        the guidelines can be downloaded <a href="https://t.co/Xt73KJhEdo">here</a>
+                    Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The Election Dispute Resolution (EDR)
+                    guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
 
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
@@ -98,7 +98,7 @@
             </div>
 
             <div class="nws-col">
-                <img src="Pics/Judges.jpg" alt="" width="150">
+                <img src="Pics/Judges.jpg" alt="" height="320" >
                 <h3 style="text-align: left"> New Court of Appeal Judges </h3>
                 <h4 style="margin-left: 12px; text-align: left"> July 20, 2022</h4>
                 <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
@@ -106,8 +106,6 @@
                    Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
                 <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
-
-
             </div>
         </div>
     </div>
