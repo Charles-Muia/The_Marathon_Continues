@@ -185,8 +185,9 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
-        commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
+    <p> We work as a team guided by our firm’s commitment towards developing and maintaining <br>long-lasting relationships with our clients
+        <br> working round the clock to ensure their best interests are represented.
+
     </p>
     <div class="Social2">
         <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>

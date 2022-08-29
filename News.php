@@ -88,7 +88,7 @@
                 <h4 style="margin-left: 12px; text-align: left">Aug 18, 2022</h4>
                 <p> The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
                     President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
-                    Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The Election Dispute Resolution (EDR)
+                    Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
 
                 </p>
