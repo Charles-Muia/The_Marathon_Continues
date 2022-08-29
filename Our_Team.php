@@ -60,20 +60,22 @@
             <h2>  </h2>
             <p class="Bio">
                 A seasoned advocate of the high court with over 15 years of working experience and in depth understanding of the law since being admitted to the Bar in 2004.
-                Muia Mwanzia founded Muia Mwanzia & Co. Advocates, a law firm in 2009 after nearly 3 years of practice in one of the
-                most respected law firms in Meru County as a legal associate.
+                Muia Mwanzia founded Muia Mwanzia & Co. Advocates in 2008 after nearly 5 years of practice in one of the
+                most respected law firms in Meru County firm
+                of KIAUTHA ARITHI & CO. ADVOCATES as a Senior Legal Associate.
                 <br> <br>
-                Building on that experience and extensive expertise in litigation including civil and criminal law, Muia Mwanzia's
+                Building on that experience and extensive expertise in litigation including civil and criminal law practise, Muia Mwanzia's
                 commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration makes him the best lawyer of his generation.
                 <br> <br>
                 Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam
-                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!</p>
+                Muia Mwanzia was appointed to the role of Commissioner for Oaths in May 2008. As an Advocate of the High Court of Kenya,
+                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firms core principles of Efficiency, commitment and integrity.
+            </p>
         </div>
         <div class="about-col">
-            <img class="Team_Pics" src="Pics/Muia_Mwanzia.png" alt="">
-            <h1> Muia Mwanzia </h1>
+            <img class="Team_Pics" id="MM" src="Pics/Muia_Mwanzia.png" alt="">
+            <h1 class="names"> Muia Mwanzia </h1>
             <h3>  LLB (Hons) [Moi], Dip [KSL] </h3>
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
         </div>
@@ -84,7 +86,7 @@
     <div class="row">
             <div class="about-col">
                 <img class="Team_Pics" src="Pics/Audrey_Mbijiwe.jpg" alt="">
-                <h1> Audrey Mbijiwe </h1>
+                <h1 class="names"> Audrey Mbijiwe </h1>
                 <h3>  LLB (Hons) [CUEA], Dip [KSL] </h3>
             </div>
         <div class="about-col">

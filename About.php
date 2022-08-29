@@ -85,29 +85,26 @@
                             <img src="Pics/Gavel.jpg" alt="">
                             <p>
                                 <i class="fa fa-hand-o-right"></i> Consultancy Services:
-                                <br><i class="fa fa-angle-right" aria-hidden="true"></i> We proffer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
+                                <br><i class="fa fa-angle-right" aria-hidden="true"></i> We offer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
 
                                 <br><br>
                                 We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
                                 In the conduct of our work we are constantly practising to ensure our clients get the best possible
                                 service by adhering to the firm's core principles of <u>Efficiency</u>, <u>Commitment</u> and <u> Integrity</u>.
                                 <br><br>
-                                In this respect, we take pride in offering personalised services to our adverse clientele both individual and corporate entities.
-                                Accusamus consequatur cum nemo non provident quia quos repellendus rerum similique,
-                                voluptatem. Asperiores blanditiis culpa laboriosam obcaecati
-                                odit reiciendis rem temporibus vero.
+                                In this respect, we take pride in offering personalised services to our adverse clientele both individuals and corporate entities.
+                                We aspire to offer efficient and cost-effective legal solutions to our clients.
+                                This forms the substratum of our legal practise where we ably represent the interests
+                                of clients in the legal and justice system.
                                 <br><br>
                                 Our goal is to provide fair handling, keeping each and every case in line with the standards set by the firm.
                                 <!--                                    Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
                                 Our team's exposure to the legal systems and qualifications has helped the firm find innovative and pragmatic solutions to client legal challenges.
                                 <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Architecto eius est eum excepturi explicabo in ipsam iste
-                                natus nihil odio perferendis perspiciatis praesentium quisquam,
-                                ratione rem saepe sequi unde, vitae!
-                                <br><br>
                                 Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
-                                <br>
+                                <br><br>
+                                The firm's geographical coverage is in the wider Mt. Kenya region and North Eastern part of the Country operating particularly in
+                                Meru, Isiolo, Nyeri, Nairobi and Embu Counties including Chuka, Nanyuki and Marsabit.
 <!--                                <img src="Pics/Law_Icon.png" alt="" height="320">-->
                             </p>
                         </div>
@@ -128,7 +125,7 @@
                         <div id="progress-bar-container">
                             <ul>
                                 <li class="step step01 active"><div class="step-inner"> 2007 </div></li>
-                                <li class="step step02"><div class="step-inner"> 2009 </div></li>
+                                <li class="step step02"><div class="step-inner"> 2008 </div></li>
                                 <li class="step step03"><div class="step-inner"> 2011 </div></li>
                                 <li class="step step04"><div class="step-inner"> 2015 </div></li>
                                 <li class="step step05"><div class="step-inner">2022</div></li>
@@ -142,12 +139,14 @@
                         <div id="progress-content-section">
                             <div class="section-content discovery active">
                                 <h2> ADMISSION TO THE BAR  </h2>
-                                <p> Muia Mwanzia was admitted to the bar in 2007. He holds a  & Co. Advocates was established in 2009. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+                                <p> Muia Mwanzia was admitted to the bar in 2007. He holds a  & Co. Advocates was established in 2009.
+                                    <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content strategy">
                                 <h2> FIRM ESTABLISHED </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+
                             </div>
 
                             <div class="section-content creative">
@@ -176,7 +175,7 @@
     </h4>
                             <p> We offer a high level of service to our clients from all walks of life. <br>
                                 Our competitive rates spurs efficiency in our practise as Advocates of the High Court of Kenya. <br>
-                                We put the interests of our clients first. <br> This is a proven fact throughout our 15 years of practise. <br>
+                                We put the interests of our clients first. <br> This is a proven fact throughout our 14 years of practise. <br>
 <!--                                commodi consequatur corporis exercitationem, -->
 <!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>

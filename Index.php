@@ -68,7 +68,6 @@
         <section class="Practise">
             <h1>  Practise Areas  </h1>
                     <p> We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
-                        <br>
                         <br> Our able team is competent and meticulous with a vast in-depth knowledge in the areas we practise.   <br>
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
                         </p>
@@ -123,20 +122,20 @@
                                     <img src="Pics/Professionalism2.jpg" alt="" width="">
                                     <div class="commitment-layer">
 <!--                                            <h3> - Professionalism - </h3>-->
-                                                <h3> - Commitment - </h3>
+                                                <h3> — Commitment — </h3>
 
                                     </div>
                                 </div>
                             <div class="commitment-col">
                                 <img src="Pics/p-5.jpg" alt="">
                                 <div class="commitment-layer">
-                                    <h3> - Efficiency - </h3>
+                                    <h3> — Efficiency — </h3>
                                 </div>
                             </div>
                                     <div class="commitment-col">
                                         <img src="Pics/p-4.jpg" alt="">
                                         <div class="commitment-layer">
-                                            <h3> - Integrity - </h3>
+                                            <h3> — Integrity — </h3>
                                         </div>
                                     </div>
                          </div>

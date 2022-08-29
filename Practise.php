@@ -54,7 +54,7 @@
 <!--                Practise sections starts here-->
 <section class="Practise">
     <h1>Lawfirm's Practise Areas</h1>
-    <p> Since 2009, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
+    <p> Since 2008, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
         <br> Over the years, we have gained experience and valuable lessons on our quest for justice on behalf of our clients. <br>
         To date, we continue to grow as a law firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
 <!--        <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
@@ -224,8 +224,10 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
-        commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
+    <p>  Our commitment is making your legal affairs aligned with your best interest.
+        <br> We offer legal representation and advice regarding procedures of the law in the areas we practise.
+        <br> We embrace a modern mindset throughout our practice with perspective and adaptability.
+        <br>
     </p>
     <div class="Social2">
         <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
