@@ -117,7 +117,8 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>
         commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur
     </p>
     <div class="Social2">
