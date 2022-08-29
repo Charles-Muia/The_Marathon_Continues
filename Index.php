@@ -57,7 +57,8 @@
 <!--                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>-->
 <!--                             <br> Our commitment is making your legal affairs aligned with your best interest.-->
                                   We take pride in offering personalised legal counsel to our adverse clientele. <br>
-                             <br> Our practise inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
+                    <br> Our practise inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
+
                 </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
@@ -108,14 +109,14 @@
 
 <!--                        Commitment section starts here-->
                         <section class="Commitment">
-                                <h1>  Our Commitment  </h1>
+                                <h1>  Our Principles  </h1>
                             <p>
 <!--                                Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.-->
 <!--                                <br><br> -->
-                                We embrace <u>professionalism</u> at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
-                                Our reputation and code of conduct has build <u>trust</u> enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their <u>best interests.</u>
-                                <br> <br> Our commitment to the afore mentioned is evident in our day to day professional responsibilities
-                                <br> — for our clients, our communities, the Firm and ourselves — <br> within
+                                We embrace professionalism at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
+                                Our reputation and code of conduct has build trust enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their best interests.
+                                <br> <br> We are guided and adhere to our core principles of Commitment, Efficiency and Integrity in our day to day professional responsibilities
+                                <br> — to our clients, for our communities, the Firm and ourselves — <br> within
                                 the law.</p>
                             <div class="row">
                                 <div class="commitment-col">

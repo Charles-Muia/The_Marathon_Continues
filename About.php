@@ -113,7 +113,10 @@
                         </div>
                     </div>
                 <hr>
-            </section><br>
+
+            </section>
+
+<br>
 
 
 <!--                Journey / Timeline sections starts here-->
