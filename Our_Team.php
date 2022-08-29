@@ -89,7 +89,7 @@
                 <h1 class="names"> Audrey Mbijiwe </h1>
                 <h3>  LLB (Hons) [CUEA], Dip [KSL] </h3>
             </div>
-        <div class="about-col">
+<!--        <div class="about-col">-->
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
             <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law (KSL).
@@ -111,7 +111,7 @@
                 while maintaining the highest possible level of integrity; dedicated to providing reliable results without compromising the reputation or competence of the firm.
             </p>
         </div>
-    </div>
+<!--    </div>-->
 </section>
 
 <section class="the-team">
