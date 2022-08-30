@@ -79,26 +79,28 @@
             <h3>  LLB (Hons) [Moi], Dip [KSL] </h3>
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
         </div>
+        <hr>
     </div>
 </section>
-
 <section class="About-Sec">
     <div class="row">
+        <hr>
             <div class="about-col">
                 <img class="Team_Pics" src="Pics/Audrey_Mbijiwe.jpg" alt="">
                 <h1 class="names"> Audrey Mbijiwe </h1>
                 <h3>  LLB (Hons) [CUEA], Dip [KSL] </h3>
             </div>
+
 <!--        <div class="about-col">-->
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
             <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law (KSL).
-                She is a member of the Law Society of Kenya. magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                She is a member of the Law Society of Kenya. Prior ........... magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Her practise takes a client-centered approach with an emphasis on professionalism, transparency and communication.
                 She always goes the extra mile to ensure our clients are informed, while fiercely litigating claims and representing them in Court.
                 She is highly motivated, competent and always up for a challenge.
-                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+<!--                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
                 <br><br>
                 Prior to joining the firm, Audrey's experience in the legal practise has been consistent.
                 She has defended state and private entities at all levels from arbitration to the
@@ -187,7 +189,8 @@
 
     </p>
     <div class="Social2">
-        <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
+        <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
+            <br> Legal Consultants  </p>
         <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
         <span class="dot2"> </span>
         <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

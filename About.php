@@ -55,8 +55,10 @@
             <section class="About-Sec">
                     <div class="row">
                             <div class="about-col">
-                                    <h1> We measure our firm's success <br> based on case closure rate, trial <br> and legal practise. </h1>
-                                <br> <p> Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
+                                    <h1> We measure our firm's success based <br> on case <br> closure rate, trial <br> and legal practise. </h1>
+                                    <br>
+
+                                    <p>Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
                                     The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of legal services to our clients in the areas we practise including but not limited to:
@@ -82,7 +84,7 @@
                                 </p>
                             </div>
                         <div class="about-col">
-                            <img src="Pics/Gavel.jpg" alt=""><br>
+<!--                            <img src="Pics/Gavel.jpg" alt="">-->
                             <p>
                                 <i class="fa fa-hand-o-right"></i> Consultancy Services:
                                 <br><i class="fa fa-angle-right" aria-hidden="true"></i> We offer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
@@ -106,16 +108,15 @@
                                 The firm's geographical coverage is in the wider Mt. Kenya region and North Eastern part of the Country operating particularly in
                                 Meru, Isiolo, Nyeri, Nairobi and Embu Counties including Chuka, Nanyuki and Marsabit.
 <!--                                <img src="Pics/Law_Icon.png" alt="" height="320">-->
+                                <br><br>
+                                <img src="Pics/Gavel.jpg" alt="">
+
                             </p>
                         </div>
                     </div>
                 <hr>
-
             </section>
-
-<br>
-
-
+            <br>
 <!--                Journey / Timeline sections starts here-->
 
                 <section>
@@ -180,7 +181,8 @@
 <!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>
     <div class="Social2">
-        <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
+        <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
+            <br> Legal Consultants  </p>
                             <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

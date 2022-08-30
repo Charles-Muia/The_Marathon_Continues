@@ -62,13 +62,13 @@
     <div class="row">
         <div class="practise-col">
             <img src="Pics/Commercial_Icon2.png" alt="" width="110">
-            <h2>Commercial Law</h2>
+            <h2> Conveyancing & Property Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
         <div class="practise-col">
             <img src="Pics/Civil_Icon2.png" alt="" width="110">
-            <h2>Civil & Criminal Litigation</h2>
+            <h2> Civil, Commercial & Criminal Litigation </h2>
             <p> Muia Mwanzia & Co. Advocates represents clients during all legal phases in civil disputes and criminal matters.
                 Our goal is to represent clients for any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
                 Our competitive rates makes us the firm of choice in case assessment and litigation strategies. We prosecute and defend complex cases to
@@ -79,7 +79,7 @@
         </div>
         <div class="practise-col">
             <img src="Pics/Abi_Icon.png" alt=""width="110">
-            <h2>Conveyancing & Arbitration</h2>
+            <h2> Arbitration Law </h2>
             <p> When it comes to settlement matters, our experience in defending both claimants and respondents in Arbitration
                 makes us the firm of choice and uniquely qualified to provide insightful representation on behalf of our clients.
                 <br> We believe in pursuing practical and cost effective solutions to disputes.
@@ -123,7 +123,7 @@
         </div>
         <div class="practise-col">
             <img src="Pics/Corporate_Law.png" alt="" width="110">
-            <h2> Intellectual Property Law </h2>
+            <h2> Labor & Employment Law </h2>
             <p> We secure and enforce legal rights to intellectual inventions, creations, designs and artistic works as provided by the law.
                 This includes any product of the human intellect that the law protects from unauthorized use by others
 <!--                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
@@ -230,7 +230,8 @@
         <br>
     </p>
     <div class="Social2">
-        <p class="Footer-Con"> — Advocates of The High Court of Kenya  <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>  Legal Consultants — </p>
+        <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
+            <br> Legal Consultants  </p>
         <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
         <span class="dot2"> </span>
         <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>

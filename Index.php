@@ -62,13 +62,15 @@
                 </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
             </div>
+
 </section>
+<hr>
 
 <!--                    Practise section starts here-->
         <section class="Practise">
             <h1>  Practise Areas  </h1>
                     <p> We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
-                        <br> Our able team is competent and meticulous with a vast in-depth knowledge in the areas we practise.   <br>
+                        <br> Our able team is competent and meticulous with in-depth knowledge in the areas we practise.   <br>
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
                         </p>
                                         <div class="row">
@@ -84,8 +86,9 @@
                                             </div>
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
-                                            <h2> Civil Litigation & Criminal Law </h2>
-                                            <p> Our goal in civil litigation is to represent clients for any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
+                                            <h2> Civil, Commercial & Criminal Litigation </h2>
+                                            <p>
+                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
                                                 Our competitive rates makes us the firm of choice in case assessment and litigation strategies.
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
@@ -94,10 +97,14 @@
                                         </div>
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
-                                                <h2>Conveyancing & Arbitration</h2>
-                                                <p> Our firm believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core
-                                                    of ADR (Altenative Dispute Resolution) mechanisms that we employ.
-                                                    Our team facilitates out-of-court settlements by means of Negotiation, Conciliation and Mediation.
+                                                <h2> Conveyancing & Property Law </h2>
+                                                <p>
+                                                    Our firm's vast experience and industry knowledge gives us an edge in advising on all aspects of conveyancing and property law.
+<!--                                                    believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core-->
+<!--                                                    of ADR (Alternative Dispute Resolution) mechanisms that we employ.-->
+                                                    Our team facilitates drawing of general lease, sales and tenancy agreements, creation of legal charges,
+                                                    transfer and transmission of property.
+<!--                                                    out-of-court settlements by means of Negotiation, Conciliation and Mediation.-->
 <!--                                                    fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
                                                     </p>
@@ -114,26 +121,27 @@
 <!--                                <br><br> -->
                                 We embrace professionalism at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build trust enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their best interests.
-                                <br> <br> We are guided and adhere to our core principles of Commitment, Efficiency and Integrity in our day to day professional responsibilities
+                                <br> <br> We are guided and adhere to our core principles of Efficiency, Commitment and Integrity in our day to day professional responsibilities
                                 <br> — to our clients, for our communities, the Firm and ourselves — <br> within
                                 the law.</p>
                             <div class="row">
                                 <div class="commitment-col">
-                                    <img src="Pics/Professionalism2.jpg" alt="" width="">
+                                    <img src="Pics/p-3.jpg" alt="">
                                     <div class="commitment-layer">
 <!--                                            <h3> - Professionalism - </h3>-->
-                                                <h3> — Commitment — </h3>
+                                                <h3> — Efficiency — </h3>
 
                                     </div>
                                 </div>
                             <div class="commitment-col">
-                                <img src="Pics/p-5.jpg" alt="">
+                                <img src="Pics/Commitment.jpg" alt="" width="">
+<!--                                <img src="Pics/Professionalism2.jpg" alt="" width="">-->
                                 <div class="commitment-layer">
-                                    <h3> — Efficiency — </h3>
+                                    <h3> — Commitment — </h3>
                                 </div>
                             </div>
                                     <div class="commitment-col">
-                                        <img src="Pics/p-4.jpg" alt="">
+                                        <img src="Pics/Professionalism2.jpg" alt="">
                                         <div class="commitment-layer">
                                             <h3> — Integrity — </h3>
                                         </div>
@@ -150,7 +158,7 @@
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <img src="Pics/Koome_SCOK.png" alt="" height="320">
+                                        <img src="Pics/Koome_SCOK.png" alt="" height="330">
                                         <h3> Corridors of Justice </h3>
                                         <p>The Supreme Court of Kenya (SCOK) ready to hear Presidential Election Petition.
                                             This is after the release of the Supreme Court Presidential Election Petitions timelines to guide the process as provided by the Constitution of Kenya, 2010.</p>
@@ -158,23 +166,21 @@
                                     </div>
 
                                     <div class="nws-col">
-                                        <img src="Pics/Advocate_Sec.jpg" alt="" height="320">
+                                        <img src="Pics/Advocate_Sec.jpg" alt="" height="330">
                                         <h3> Advocates Section </h3>
                                         <p>The Chief Justice of the Republic of Kenya Hon. Justice Martha Koome launched the Judicial E-filing system
                                             for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link.
                                             <br>
-<!--                                            Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis.--></p>
+                                        </p>
                                         <a class="Learn-News" href="News.php"> read more </a>
 
                                     </div>
-
                                     <div class="nws-col">
-                                        <img src="Pics/US-Supreme.jpg" alt="" width="">
+                                        <img src="Pics/US-Supreme.jpg" alt="" height="330">
                                         <h3> International Courts </h3>
                                         <p> History made as Hon. Ketanji Onyika Brown Jackson became the first Black
                                             woman and the first former federal public defender
                                             to serve on the Supreme Court of the United States after being sworn in on June 30th, 2022.
-<!--                                            <br>Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?-->
                                         </p>
                                         <a class="Learn-News" href="News.php"> read more </a>
 

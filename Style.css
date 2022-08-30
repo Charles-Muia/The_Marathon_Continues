@@ -148,6 +148,7 @@
             font-size: 24px;
             color: ghostwhite;
             padding-top: 30px;
+            box-sizing: border-box;
         }
 
         @media (max-width: 800px) {
@@ -326,7 +327,7 @@
             box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
             transform: scale(1.1);
             z-index: 0.5;
-            border: 1px solid #aaaaaa;
+            /*border: solid #aaaaaa;*/
             color: ghostwhite;
         }
 
@@ -746,7 +747,7 @@
                 }
 
                 .About-Sec{
-                    width: 80%;
+                    width: 90%;
                     margin: auto;
                     padding-top: 20px;
                     padding-bottom: 0;
