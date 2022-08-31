@@ -121,8 +121,11 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p> Get in touch with us. <br> Our firm takes paride in offering personalised legal services to our adverse clientele. <br>
-        Efficiency . Commitment . Integrity
+    <p> Efficiency . Commitment . Integrity
+        <br> We take pride in offering personalised legal services to our adverse clientele. <br>
+        Get in touch with us.
+
+
     </p>
     <div class="Social2">
         <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>

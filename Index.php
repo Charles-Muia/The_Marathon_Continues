@@ -276,6 +276,15 @@
                         <div class="Social2">
                             <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
                                 <br> Legal Consultants  </p>
+
+<!--                            <section>-->
+<!--                            <div>-->
+<!--                                <a href="">About Us</a>-->
+<!---->
+<!--                            </div>-->
+<!--                            </section>-->
+<!--                            -->
+
                             <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
