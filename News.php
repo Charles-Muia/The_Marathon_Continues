@@ -90,7 +90,6 @@
                     President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
                     Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
-
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
                 <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>

@@ -98,14 +98,14 @@
             text-transform: uppercase;
             position: relative;
             display: inline-block;
-            padding: 5px 31px;
+            padding: 5px 30px;
             /*background-color: darkblue;*/
         }
 
         .nav-links ul li a {
             text-decoration: none;
             color: whitesmoke;
-            font-size: 15px;
+            font-size: 14px;
             /*font-family:'Catamaran', sans-serif;*/
         }
 

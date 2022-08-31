@@ -76,20 +76,27 @@
                                         <div class="row">
                                             <div class="practise-col">
                                                 <i class="fa fa-handshake-o" id="pc"></i>
-                                                <h2> Commercial & Corporate Law </h2>
-                                                <p> Our legal expertise in both of these practise areas
-                                                    governs formation of companies, shareholder rights, mergers, and acquisitions.
-                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.
+                                                <h2> Litigation & Arbitration </h2>
+<!--                                                <h2> Commercial & Corporate Law </h2>-->
+                                                <p> Our legal expertise in both of these practise areas makes us the firm of choice in case assessment and litigation strategies.
+                                                    Our firm's practise and competitive rates enables us to represent the interests of both
+                                                    individual and corporate clients in Land & Environmental Law, Civil litigation and Criminal law, Insurance law, Family law ........
+<!--                                                    governs formation of companies, shareholder rights, mergers, and acquisitions.-->
+<!--                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.-->
                                                     </p>
                                                 <a class="Learn-News" href="Practise.php"> read more </a>
 
                                             </div>
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
-                                            <h2> Civil, Commercial & Criminal Litigation </h2>
+<!--                                            <h2> Civil, Commercial & Criminal Litigation </h2>-->
+                                            <h2> Legal Consultancy </h2>
                                             <p>
-                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
-                                                Our competitive rates makes us the firm of choice in case assessment and litigation strategies.
+                                                    We offer best practise legal advice and consultation to both individual and corporate
+                                                    entities in a timely and competent manner. Our firm's wide sphere of practise
+                                                allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
+                                                    Our goal is to secure your best interests at all times.
+<!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
                                             </p>
@@ -97,9 +104,12 @@
                                         </div>
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
-                                                <h2> Conveyancing & Property Law </h2>
+<!--                                                <h2> Conveyancing & Property Law </h2>-->
+                                                <h2> Conveyancing & Registration </h2>
+
                                                 <p>
-                                                    Our firm's vast experience and industry knowledge gives us an edge in advising on all aspects of conveyancing and property law.
+                                                    Our firm's vast experience and industry knowledge gives us an edge in advising on all aspects of conveyancing and registration of instruments
+                                                    including trademarks, copyrights & intellectual property.
 <!--                                                    believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core-->
 <!--                                                    of ADR (Alternative Dispute Resolution) mechanisms that we employ.-->
                                                     Our team facilitates drawing of general lease, sales and tenancy agreements, creation of legal charges,
@@ -158,7 +168,7 @@
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <img src="Pics/Koome_SCOK.png" alt="" height="330">
+                                        <img src="Pics/SCOK_1.png" alt="" height="330">
                                         <h3> Corridors of Justice </h3>
                                         <p>The Supreme Court of Kenya (SCOK) ready to hear Presidential Election Petition.
                                             This is after the release of the Supreme Court Presidential Election Petitions timelines to guide the process as provided by the Constitution of Kenya, 2010.</p>

@@ -69,8 +69,8 @@
                 <br> <br>
                 Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
                 <br><br>
-                Muia Mwanzia was appointed to the role of Commissioner for Oaths in May 2008. As an Advocate of the High Court of Kenya,
-                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firms core principles of Efficiency, commitment and integrity.
+                Muia Mwanzia was appointed to the role of Commissioner for Oaths on 27th May 2008. As an Advocate of the High Court of Kenya,
+                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firms core principles of Efficiency, Commitment and Integrity.
             </p>
         </div>
         <div class="about-col">

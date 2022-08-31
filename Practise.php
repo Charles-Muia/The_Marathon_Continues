@@ -69,8 +69,7 @@
         <div class="practise-col">
             <img src="Pics/Civil_Icon2.png" alt="" width="110">
             <h2> Civil, Commercial & Criminal Litigation </h2>
-            <p> Muia Mwanzia & Co. Advocates represents clients during all legal phases in civil disputes and criminal matters.
-                Our goal is to represent clients for any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.
+            <p> Muia Mwanzia & Co. Advocates represents clients during all legal phases in civil litigation and criminal matters in the Lower Courts, High Court and Court of Appeal.
                 Our competitive rates makes us the firm of choice in case assessment and litigation strategies. We prosecute and defend complex cases to
                 protect our clients’ rights and best interests.
 <!--                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
