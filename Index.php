@@ -80,7 +80,8 @@
 <!--                                                <h2> Commercial & Corporate Law </h2>-->
                                                 <p> Our legal expertise in both of these practise areas makes us the firm of choice in case assessment and litigation strategies.
                                                     Our firm's practise and competitive rates enables us to represent the interests of both
-                                                    individual and corporate clients in Land & Environmental Law, Civil litigation and Criminal law, Insurance law, Family law ........
+                                                    individual and corporate clients in areas including but not limited to Land & Environmental Law, Civil litigation and Criminal law, Insurance law &
+                                                    Family law.
 <!--                                                    governs formation of companies, shareholder rights, mergers, and acquisitions.-->
 <!--                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.-->
                                                     </p>
@@ -109,7 +110,7 @@
 
                                                 <p>
                                                     Our firm's vast experience and industry knowledge gives us an edge in advising on all aspects of conveyancing and registration of instruments
-                                                    including trademarks, copyrights & intellectual property.
+                                                    including but not limited to trademarks, copyrights & intellectual property.
 <!--                                                    believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core-->
 <!--                                                    of ADR (Alternative Dispute Resolution) mechanisms that we employ.-->
                                                     Our team facilitates drawing of general lease, sales and tenancy agreements, creation of legal charges,
@@ -131,8 +132,8 @@
 <!--                                <br><br> -->
                                 We embrace professionalism at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build trust enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their best interests.
-                                <br> <br> We are guided and adhere to our core principles of Efficiency, Commitment and Integrity in our day to day professional responsibilities
-                                <br> — to our clients, for our communities, the Firm and ourselves — <br> within
+                                <br> <br> We are guided and adhere to our core principles of <b>EFFICIENCY</b>, <b>COMMITMENT</b> and <b>INTEGRITY</b> in our day to day professional responsibilities
+                                <br> — to our clients, for our communities and the Firm — <br> within
                                 the law.</p>
                             <div class="row">
                                 <div class="commitment-col">
@@ -207,12 +208,13 @@
                             <br> Our ability to provide unparalleled service to our clients facilitates growth in our legal knowledge and practise skills. </p>
                                     <div class="row">
                                         <div class="test-col">
-                                            <img src="Pics/DOG.jpg" alt="">
+                                            <img src="Pics/John_M.jpg" alt="">
                                             <div>
                                                 <i class="bi bi-quote"></i>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,
+                                            <p> The team is outstanding and professional. I highly recommend Muia Mwanzia & Co. Advocates for any legal services.
+<!--                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,-->
                                                 </p>
-                                                    <h3>DOG</h3>
+                                                    <h3> John Musila </h3>
                                                  <i class="fa fa-star"></i>
                                                  <i class="fa fa-star"></i>
                                                  <i class="fa fa-star"></i>

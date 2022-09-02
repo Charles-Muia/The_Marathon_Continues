@@ -663,7 +663,7 @@
             .Credits {
                 font-size: 15px;
                 margin: 0;
-                padding: 15px;
+                /*padding: 15px;*/
                 letter-spacing: 0;
                 vertical-align: baseline;
             }
@@ -696,8 +696,8 @@
         }
 
             .closure {
-                border: 1px solid blue;
-                line-height: 50px;
+                border: 3px solid blue;
+                line-height: 5px;
             }
 
         .dot {
