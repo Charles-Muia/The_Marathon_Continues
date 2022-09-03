@@ -62,7 +62,7 @@
     <div class="row">
         <div class="practise-col">
             <img src="Pics/Commercial_Icon2.png" alt="" width="110">
-            <h2> Conveyancing & Property Law </h2>
+            <h2> Land & Environmental Law </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
                 <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
         </div>
@@ -78,11 +78,13 @@
         </div>
         <div class="practise-col">
             <img src="Pics/Abi_Icon.png" alt=""width="110">
-            <h2> Arbitration Law </h2>
-            <p> When it comes to settlement matters, our experience in defending both claimants and respondents in Arbitration
-                makes us the firm of choice and uniquely qualified to provide insightful representation on behalf of our clients.
-                <br> We believe in pursuing practical and cost effective solutions to disputes.
-                Our experience in this areas of practise is guided by the ADR (Alternative Dispute Resolution) mechanisms principles.
+            <h2> Arbitration </h2>
+            <p> We believe in pursuing practical and cost effective solutions to disputes.
+                Our experience in this areas of practise is guided by the
+                ADR (Alternative Dispute Resolution) mechanisms principles.
+                Our legal expertise in Arbitration makes us the firm of choice and uniquely
+                qualified to provide insightful representation on behalf of our clients.
+
 <!--                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
             </p>
         </div>
@@ -102,7 +104,7 @@
     <div class="row">
         <div class="practise-col">
             <img src="Pics/Family_Law3.png" alt="" width="110">
-            <h2> Family Law & Succession </h2>
+            <h2> Family Law </h2>
             <p>The family is the natural and fundamental unit of society, the necessary basis of social order.
 <!--                In line with the Constitution of Kenya (2010),-->
                 We represent clients on matters involving family relationships

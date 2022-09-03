@@ -105,7 +105,7 @@
         .nav-links ul li a {
             text-decoration: none;
             color: whitesmoke;
-            font-size: 14px;
+            font-size: 15px;
             /*font-family:'Catamaran', sans-serif;*/
         }
 
@@ -585,6 +585,8 @@
             .Footer p {
                 margin-top: 10px;
                 margin-bottom: 35px;
+                margin-right: 5px;
+                margin-left: 5px;
                 /*font-weight: 0;*/
             }
 

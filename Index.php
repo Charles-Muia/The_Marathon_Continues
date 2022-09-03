@@ -91,7 +91,7 @@
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
 <!--                                            <h2> Civil, Commercial & Criminal Litigation </h2>-->
-                                            <h2> Legal Consultancy </h2>
+                                            <h2> Legal Advisory & Consultancy </h2>
                                             <p>
                                                     We offer best practise legal advice and consultation to both individual and corporate
                                                     entities in a timely and competent manner. Our firm's wide sphere of practise

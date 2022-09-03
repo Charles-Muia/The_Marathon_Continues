@@ -67,7 +67,7 @@
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Environmental and Land law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Employment and Labor law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Constitution and Administrative law.
+                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Constitutional and Administrative law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Tort law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Immigration law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Family law.
@@ -106,7 +106,7 @@
                                 Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
                                 <br><br>
                                 The firm's geographical coverage is in the wider Mt. Kenya region and North Eastern part of the Country operating particularly in
-                                Meru, Isiolo, Nyeri, Nairobi and Embu Counties including Chuka, Nanyuki and Marsabit.
+                                Meru, Isiolo, Nyeri, Nairobi and Embu Counties including Chuka, Nanyuki and Marsabit town.
 <!--                                <img src="Pics/Law_Icon.png" alt="" height="320">-->
                                 <br><br>
                                 <img src="Pics/Gavel.jpg" alt="">
@@ -171,19 +171,35 @@
                                     <br>
                                     The Firm's core principles are <br>
                                     <b> EFFICIENCY . COMMITMENT . INTEGRITY </b>
-
                                 </p>
-
                             </div>
 
                             <div class="section-content creative">
                                 <h2> Elected Secretary General </h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+                                <p>Lorem ipsum dolor sit amet,
+                                    consectetur adipiscing elit.
+                                    Donec neque justo, consequat non fermentum ac, tempor eu turpis.
+                                    Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex.
+                                    Nulla in dapibus lorem.
+                                    Suspendisse vitae velit ac ante consequat placerat ut sed eros.
+                                    Nullam porttitor mattis mi, id fringilla ex consequat eu.
+                                    Praesent pulvinar tincidunt leo et condimentum.
+                                    Maecenas volutpat turpis at felis egestas malesuada.
+                                    Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content production">
                                 <h2> TESTIMONIALS NOW </h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+                                <p>Lorem ipsum dolor sit amet,
+                                    consectetur adipiscing elit.
+                                    Donec neque justo, consequat non fermentum ac, tempor eu turpis.
+                                    Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex.
+                                    Nulla in dapibus lorem.
+                                    Suspendisse vitae velit ac ante consequat placerat ut sed eros.
+                                    Nullam porttitor mattis mi, id fringilla ex consequat eu.
+                                    Praesent pulvinar tincidunt leo et condimentum.
+                                    Maecenas volutpat turpis at felis egestas malesuada.
+                                    Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
                             <div class="section-content analysis">
@@ -210,8 +226,10 @@
 <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
                             <p> We offer a high level of service to our clients from all walks of life. <br>
-                                Our competitive rates spurs efficiency in our practise as Advocates of the High Court of Kenya. <br>
-                                We put the interests of our clients first. <br> This is a proven fact throughout our 14 years of practise. <br>
+                                Our competitive rates spurs efficiency in our practise as
+                                Advocates of the High Court of Kenya. <br>
+                                We put the interests of our clients first. <br>
+                                This is a proven fact throughout our 14 years of practise. <br>
 <!--                                commodi consequatur corporis exercitationem, -->
 <!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>
