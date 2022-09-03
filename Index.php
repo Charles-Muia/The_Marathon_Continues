@@ -130,7 +130,7 @@
                             <p>
 <!--                                Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.-->
 <!--                                <br><br> -->
-                                We embrace professionalism at the core of our practise on our part as Advocates of the High Court of Kenya.  <br>
+                                We embrace professionalism at the core of our practise as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build trust enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their best interests.
                                 <br> <br> We are guided and adhere to our core principles of <b>EFFICIENCY</b>, <b>COMMITMENT</b> and <b>INTEGRITY</b> in our day to day professional responsibilities
                                 <br> — to our clients, for our communities and the Firm — <br> within

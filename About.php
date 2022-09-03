@@ -90,7 +90,7 @@
                                 <br><i class="fa fa-angle-right" aria-hidden="true"></i> We offer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
 
                                 <br><br>
-                                We've been consistent with this one simple, yet very important part of our legal practise: to put the interests of our clients first.
+                                At Muia Mwanzia & Co. Advocates, we put the interests of our clients first.
                                 In the conduct of our work we are constantly practising to ensure our clients get the best possible
                                 service by adhering to the firm's core principles of <u>Efficiency</u>, <u>Commitment</u> and <u> Integrity</u>.
                                 <br><br>
@@ -141,8 +141,11 @@
                             <div class="section-content discovery active">
                                 <h2> ADMISSION TO THE BAR  </h2>
                                 <p> Muia Mwanzia was admitted to the bar in 2007.
-                                    He holds a  & Co. Advocates was established in 2009.
-                                    <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                    <br>
+                                    He holds a Bachelors of Law degree (LLB) from Moi University and
+                                    Diploma in Law from the Kenya School of Law.
+                                    <br>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                     Donec neque justo, consequat non fermentum ac, tempor eu turpis.
                                     Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex.
                                     Nulla in dapibus lorem.
@@ -174,7 +177,7 @@
                             </div>
 
                             <div class="section-content creative">
-                                <h2> Creative CREATIONS </h2>
+                                <h2> Elected Secretary General </h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
 
@@ -185,7 +188,16 @@
 
                             <div class="section-content analysis">
                                 <h2> 15 YEARS OF SERVICE </h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque justo, consequat non fermentum ac, tempor eu turpis. Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex. Nulla in dapibus lorem. Suspendisse vitae velit ac ante consequat placerat ut sed eros. Nullam porttitor mattis mi, id fringilla ex consequat eu. Praesent pulvinar tincidunt leo et condimentum. Maecenas volutpat turpis at felis egestas malesuada. Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
+                                <p> The firm has grown over the years,
+                                    consectetur adipiscing elit.
+                                    Donec neque justo, consequat non fermentum ac, tempor eu turpis.
+                                    Proin nulla eros, placerat non ipsum ut, dapibus ullamcorper ex.
+                                    Nulla in dapibus lorem.
+                                    Suspendisse vitae velit ac ante consequat placerat ut sed eros.
+                                    Nullam porttitor mattis mi, id fringilla ex consequat eu.
+                                    Praesent pulvinar tincidunt leo et condimentum.
+                                    Maecenas volutpat turpis at felis egestas malesuada.
+                                    Phasellus sem odio, venenatis at ex a, lacinia suscipit orci.</p>
                             </div>
                         </div>
                     </div>
