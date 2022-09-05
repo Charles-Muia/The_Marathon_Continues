@@ -95,7 +95,7 @@
                                             <p>
                                                     We offer best practise legal advice and consultation to both individual and corporate
                                                     entities in a timely and competent manner. Our firm's wide sphere of practise
-                                                allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
+                                                    allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
                                                     Our goal is to secure your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
