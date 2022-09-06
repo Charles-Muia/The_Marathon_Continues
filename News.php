@@ -76,7 +76,7 @@
                     Commission (IEBC) on 15th Aug 2022 after the 9th Aug 2022 general elections.
 <!--                    declaring William Ruto as president-elect and his running mate Rigathi Gachagua as the deputy president-elect, respectively.-->
                     The unanimous supreme court ruling was read out by
-                    the Chief Justice and President of the Supreme Court of Kenya Martha Koome.
+                    the Chief Justice and President of the Supreme Court of Kenya Hon Justice Martha Koome.
 
 <!--                    The Supreme Court receives 9 Presidential Election Petitions from the following:-->
 <!--                    1. Raila Odinga & Martha Karua 2. David Ngari-->
