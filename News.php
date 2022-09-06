@@ -69,7 +69,7 @@
             <div class="nws-col">
                 <img src="Pics/SCOK_.png" alt="" height="320">
                 <h3 style="text-align: left"> Corridors of Justice </h3>
-                <h4 style="margin-left: 12px; text-align: left">Aug 22, 2022</h4>
+                <h4 style="margin-left: 12px; text-align: left">Sep 5th, 2022</h4>
                 <p>The Supreme Court receives 9 Presidential Election Petitions from the following:
                     1. Raila Odinga & Martha Karua 2. David Ngari
                     3. John Kamau 4. Khelef Khalifa
@@ -85,7 +85,7 @@
             <div class="nws-col">
                 <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
                 <h3 style="text-align: left"> Advocates Section </h3>
-                <h4 style="margin-left: 12px; text-align: left">Aug 18, 2022</h4>
+                <h4 style="margin-left: 12px; text-align: left">Aug 18th, 2022</h4>
                 <p> The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
                     President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
                     Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The
@@ -99,7 +99,7 @@
             <div class="nws-col">
                 <img src="Pics/Judges.jpg" alt="" height="320" >
                 <h3 style="text-align: left"> New Court of Appeal Judges </h3>
-                <h4 style="margin-left: 12px; text-align: left"> July 20, 2022</h4>
+                <h4 style="margin-left: 12px; text-align: left"> July 20th, 2022</h4>
                 <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
                     <br>
                    Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
