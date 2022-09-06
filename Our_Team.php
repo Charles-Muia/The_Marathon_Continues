@@ -95,7 +95,7 @@
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
             <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law (KSL).
-                She is a member of the Law Society of Kenya. Prior ........... magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                She is a member of the Law Society of Kenya. Prior to joining the firm, She was a senior  ........... magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Her practise takes a client-centered approach with an emphasis on professionalism, transparency and communication.
                 She always goes the extra mile to ensure our clients are informed, while fiercely litigating claims and representing them in Court.

@@ -130,8 +130,11 @@
         <div class="practise-col">
             <img src="Pics/Labor_law.png" alt="" width="105">
             <h2> Labor & Employment Law </h2>
-            <p> We secure and enforce legal rights to intellectual inventions, creations, designs and artistic works as provided by the law.
-                This includes any product of the human intellect that the law protects from unauthorized use by others
+            <p> We secure and enforce legal rights of workers in the labor and employment sector.
+                This is based on our firm's reputation of forming sound and winning strategies,
+                carefully analysing such matters while representing clients as provided by the law.
+                As a firm, we protect the rights of workers by providing legal representation to help them navigate the field.
+
 <!--                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
             </p>

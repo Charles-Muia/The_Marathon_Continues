@@ -169,7 +169,7 @@
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <img src="Pics/SCOK_1.png" alt="" height="330">
+                                        <img src="Pics/C_J2.jpg" alt="" height="330">
                                         <h3> Corridors of Justice </h3>
                                         <p>The Supreme Court of Kenya (SCOK) ready to hear Presidential Election Petition.
                                             This is after the release of the Supreme Court Presidential Election Petitions timelines to guide the process as provided by the Constitution of Kenya, 2010.</p>
