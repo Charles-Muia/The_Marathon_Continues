@@ -61,10 +61,13 @@
 <!--        <br>non quas quisquam recusandae saepe! Animi cum ea explicabo impedit magni ratione sunt. </p>-->
     <div class="row">
         <div class="practise-col">
-            <img src="Pics/Commercial_Icon2.png" alt="" width="110">
+            <img src="Pics/Environmental.png" alt="" width="110">
             <h2> Land & Environmental Law </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, <br> cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.
-                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.</p>
+            <p> We have extensive legal expertise and experience navigating environmental and land matters
+                including but not limited to litigation, government enforcement action, regulatory
+                interpretations and administrative proceedings.
+                We facilitate broad understanding of such processes to inform businesses, corporates and individuals of any
+                non-compliance. </p>
         </div>
         <div class="practise-col">
             <img src="Pics/Civil_Icon2.png" alt="" width="110">
@@ -108,13 +111,15 @@
             <p>The family is the natural and fundamental unit of society, the necessary basis of social order.
 <!--                In line with the Constitution of Kenya (2010),-->
                 We represent clients on matters involving family relationships
-                including child adoption, divorce, succession and child custody.</p>
+                including but not limited to creation of trusts, advice on estate administration of the deceased,
+                child matters including adoption, custody or maintenance, divorce and succession matters.</p>
         </div>
         <div class="practise-col">
             <img src="Pics/Commercial_Icon.png" alt="" width="110">
             <h2> Commercial & Corporate Law </h2>
             <p> Our legal expertise in both of these practise areas
-                governs formation of companies, shareholder rights, mergers, and acquisitions.
+                governs formation or incorporation of companies, drafting contracts for commercial transactions,
+                advising on shareholder rights, mergers, and acquisitions.
                 We help our clients and business owners to operate businesses, corporates and organisations with in the law.
             </p>
 
@@ -123,7 +128,7 @@
 
         </div>
         <div class="practise-col">
-            <img src="Pics/Corporate_Law.png" alt="" width="110">
+            <img src="Pics/Labor_law.png" alt="" width="105">
             <h2> Labor & Employment Law </h2>
             <p> We secure and enforce legal rights to intellectual inventions, creations, designs and artistic works as provided by the law.
                 This includes any product of the human intellect that the law protects from unauthorized use by others
