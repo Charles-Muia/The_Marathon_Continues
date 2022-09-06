@@ -70,16 +70,24 @@
                 <img src="Pics/SCOK_.png" alt="" height="320">
                 <h3 style="text-align: left"> Corridors of Justice </h3>
                 <h4 style="margin-left: 12px; text-align: left">Sep 5th, 2022</h4>
-                <p>The Supreme Court receives 9 Presidential Election Petitions from the following:
-                    1. Raila Odinga & Martha Karua 2. David Ngari
-                    3. John Kamau 4. Khelef Khalifa
-                    5. Moses Kuria 6. Okiya Omtatah 7. Reuben Kigame 8. Youth Advocacy Africa 9. Juliah Chege. <br>
+                <p>
+                    The Supreme Court of Kenya upholds the Presidential Elections results
+                    as announced by Wafula Chebukati, chairman of the Independent Elections and Boundaries
+                    Commission (IEBC) on 15th Aug 2022 after the 9th Aug 2022 general elections.
+<!--                    declaring William Ruto as president-elect and his running mate Rigathi Gachagua as the deputy president-elect, respectively.-->
+                    The unanimous supreme court ruling was read out by
+                    the Chief Justice and President of the Supreme Court of Kenya Martha Koome.
+
+<!--                    The Supreme Court receives 9 Presidential Election Petitions from the following:-->
+<!--                    1. Raila Odinga & Martha Karua 2. David Ngari-->
+<!--                    3. John Kamau 4. Khelef Khalifa-->
+<!--                    5. Moses Kuria 6. Okiya Omtatah 7. Reuben Kigame 8. Youth Advocacy Africa 9. Juliah Chege. <br>-->
 <!--                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem beatae cupiditate debitis, doloribus ipsa iste laudantium reprehenderit soluta voluptate?-->
 <!--                    <br>Accusantium aspernatur culpa dicta doloremque eum minima optio quam ratione reiciendis-->
-                    This is after the Court released the Presidential Election Petitions
-                    timelines to guide the process as provided by the Constitution of Kenya, 2010.
+<!--                    This is after the Court released the Presidential Election Petitions-->
+<!--                    timelines to guide the process as provided by the Constitution of Kenya, 2010.-->
                 </p>
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="https://nation.africa/kenya/news/politics/supreme-court-admits-raila-odinga-s-petition-challenging-william-ruto-s-win-3922428"> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href=#"> read more </a>
             </div>
 
             <div class="nws-col">
