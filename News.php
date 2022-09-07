@@ -87,7 +87,7 @@
 <!--                    This is after the Court released the Presidential Election Petitions-->
 <!--                    timelines to guide the process as provided by the Constitution of Kenya, 2010.-->
                 </p>
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href=#"> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href=#"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
             </div>
 
             <div class="nws-col">
@@ -101,7 +101,7 @@
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
 
             </div>
 
@@ -114,7 +114,7 @@
                     <br>
                    Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
             </div>
         </div>
     </div>
