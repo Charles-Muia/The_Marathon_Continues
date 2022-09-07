@@ -240,7 +240,7 @@
                             <span class="dot2"> </span>
                             <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
                             <span class="dot2"> </span>
-                            <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House 2nd Floor </span>  </i>
+                            <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House, 2nd Floor </span>  </i>
                             <span class="dot2"> </span>
                             <i class= "fa fa-street-view"> <br> <span class="Soc"> Ghana Street </span> </i>
                             <span class="dot2"> </span>
