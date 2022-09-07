@@ -171,8 +171,8 @@
                                     <div class="nws-col">
                                         <img src="Pics/C_J2.jpg" alt="" height="330">
                                         <h3> Corridors of Justice </h3>
-                                        <p>The Supreme Court of Kenya (SCOK) ready to hear Presidential Election Petition.
-                                            This is after the release of the Supreme Court Presidential Election Petitions timelines to guide the process as provided by the Constitution of Kenya, 2010.</p>
+                                        <p> The Supreme Court of Kenya (SCOK) renders a judgment for the Presidential Election Petition No.
+                                            E005 of 2022 pursuant to Rule 23 (1) of the Supreme Count (Presidential Election Petition) Rules, 2017</p>
                                         <a class="Learn-News" href="News.php"> read more </a>
                                     </div>
 

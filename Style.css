@@ -440,7 +440,12 @@
 
         .nws-col p {
         padding: 10px;
-        text-align: left;
+        text-align: -webkit-center;
+        }
+
+        #nws-col-p2 {
+            padding: 10px;
+            text-align: left;
         }
 
 

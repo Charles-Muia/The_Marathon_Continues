@@ -68,9 +68,9 @@
         <div class="row">
             <div class="nws-col">
                 <img src="Pics/SCOK_.png" alt="" height="320">
-                <h3 style="text-align: left"> Corridors of Justice </h3>
+                <h3 style="text-align: left"> Corridors of Justice - Presidential Election Petition No. E005 of 2022  </h3>
                 <h4 style="margin-left: 12px; text-align: left">Sep 5th, 2022</h4>
-                <p>
+                <p id="nws-col-p2">
                     The Supreme Court of Kenya upholds the Presidential Elections results
                     as announced by Wafula Chebukati, chairman of the Independent Elections and Boundaries
                     Commission (IEBC) on 15th Aug 2022 after the 9th Aug 2022 general elections.
@@ -92,9 +92,10 @@
 
             <div class="nws-col">
                 <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
-                <h3 style="text-align: left"> Advocates Section </h3>
+                <h3 style="text-align: left"> Advocates Section - Filing of Presidential Election Petition </h3>
                 <h4 style="margin-left: 12px; text-align: left">Aug 18th, 2022</h4>
-                <p> The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
+                <p id="nws-col-p2">
+                    The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
                     President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
                     Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
@@ -106,9 +107,10 @@
 
             <div class="nws-col">
                 <img src="Pics/Judges.jpg" alt="" height="320" >
-                <h3 style="text-align: left"> New Court of Appeal Judges </h3>
+                <h3 style="text-align: left"> New Court of Appeal Judges - Swearing-in ceremony of 7 appellate Judges </h3>
                 <h4 style="margin-left: 12px; text-align: left"> July 20th, 2022</h4>
-                <p>Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
+                <p id="nws-col-p2">
+                    Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
                     <br>
                    Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
