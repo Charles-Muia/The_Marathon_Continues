@@ -40,7 +40,7 @@
             <ul>
                 <li><a href="Index.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
-                <li><a href="Practise.php">Practice Areas</a></li>
+                <li><a href="Practice.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
                 <li><a href="Our_Team.php">Our Team</a></li>
                 <li><a href="Contact.php">Contact Us</a></li>
@@ -48,13 +48,13 @@
         </div>
         <i class="fa fa-bars" onclick="displayMenu()"></i>
     </nav>
-    <h1> Practise Areas </h1>
+    <h1> Practice Areas </h1>
 </section>
 
-<!--                Practise sections starts here-->
+<!--                Practice sections starts here-->
 <section class="Practise">
-    <h1>Lawfirm's Practise Areas</h1>
-    <p> Since 2008, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practise.
+    <h1>Lawfirm's Practice Areas</h1>
+    <p> Since 2008, Muia Mwanzia & Co. Advocates has continued to offer legal counsel and client representation with unmatched legal experience in these areas of practice.
         <br> Over the years, we have gained experience and valuable lessons on our quest for justice on behalf of our clients. <br>
         To date, we continue to grow as a law firm while executing our legal responsibilities to our clients with accordance to the laws of the land in all fairness.
 <!--        <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
@@ -83,7 +83,7 @@
             <img src="Pics/Abi_Icon.png" alt=""width="110">
             <h2> Arbitration </h2>
             <p> We believe in pursuing practical and cost effective solutions to disputes.
-                Our experience in this areas of practise is guided by the
+                Our experience in this areas of practice is guided by the
                 ADR (Alternative Dispute Resolution) mechanisms principles.
                 Our legal expertise in Arbitration makes us the firm of choice and uniquely
                 qualified to provide insightful representation on behalf of our clients.
@@ -94,11 +94,11 @@
     </div>
 </section>
 
-<!--                Practise sections 2 starts here-->
+<!--                Practice sections 2 starts here-->
 
 <section class="Practise-2">
-<!--    <h1>Lawfirm's Practise Areas</h1>-->
-    <p>Our expertise and thorough knowledge in these legal practise areas has made us the law firm of choice in representing clients. <br>
+<!--    <h1>Lawfirm's Practice Areas</h1>-->
+    <p>Our expertise and thorough knowledge in these legal practice areas has made us the law firm of choice in representing clients. <br>
         The firm's able team is always dedicated to ensure that justice is delivered in accordance with the laws of Kenya under the Constitution.
         <br>
         It is the commitment to the rule of law that guarantees a fair and equitable world.
@@ -117,7 +117,7 @@
         <div class="practise-col">
             <img src="Pics/Commercial_Icon.png" alt="" width="110">
             <h2> Commercial & Corporate Law </h2>
-            <p> Our legal expertise in both of these practise areas
+            <p> Our legal expertise in both of these practice areas
                 governs formation or incorporation of companies, drafting contracts for commercial transactions,
                 advising on shareholder rights, mergers, and acquisitions.
                 We help our clients and business owners to operate businesses, corporates and organisations with in the law.
@@ -142,7 +142,7 @@
     </div>
 </section>
 
-<!--                Practise Numbers sections starts here-->
+<!--                Practice Numbers sections starts here-->
 
 <section class="p-n-section">
         <div class="row-3">
@@ -234,7 +234,7 @@
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
     <p>  Our commitment is making your legal affairs aligned with your best interest.
-        <br> We offer legal representation and advice regarding procedures of the law in the areas we practise.
+        <br> We offer legal representation and advice regarding procedures of the law in the areas we practice.
         <br> We embrace a modern mindset throughout our practice with perspective and adaptability.
         <br>
     </p>

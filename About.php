@@ -40,7 +40,7 @@
             <ul>
                 <li><a href="Index.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
-                <li><a href="Practise.php">Practice Areas</a></li>
+                <li><a href="Practice.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
                 <li><a href="Our_Team.php">Our Team</a></li>
                 <li><a href="Contact.php">Contact Us</a></li>
@@ -55,14 +55,14 @@
             <section class="About-Sec">
                     <div class="row">
                             <div class="about-col">
-                                    <h1> We measure our firm's success based <br> on case <br> closure rate, trial <br> and legal practise. </h1>
+                                    <h1> We measure our firm's success based <br> on case <br> closure rate, trial <br> and legal practice. </h1>
                                     <br>
 
                                     <p>Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
-                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of legal services to our clients in the areas we practise including but not limited to:
-                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practise.
+                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of legal services to our clients in the areas we practice including but not limited to:
+                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practice.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Environmental and Land law.
@@ -96,7 +96,7 @@
                                 <br><br>
                                 In this respect, we take pride in offering personalised services to our adverse clientele both individuals and corporate entities.
                                 We aspire to offer efficient and cost-effective legal solutions to our clients.
-                                This forms the substratum of our legal practise where we ably represent the interests
+                                This forms the substratum of our legal practice where we ably represent the interests
                                 of clients in the legal and justice system.
                                 <br><br>
                                 Our goal is to provide fair handling, keeping each and every case in line with the standards set by the firm.
@@ -166,7 +166,7 @@
                                     Firm was founded by Muia Mwanzia upon his departure from the firm of
                                     M/S KIAUTHA ARITHI & CO. ADVOCATES
                                     <br>
-                                    based in Meru County where he had practised for 5 years as
+                                    based in Meru County where he had practiced for 5 years as
                                     a Senior Associate.
                                     <br>
                                     The Firm's core principles are <br>
@@ -226,10 +226,10 @@
 <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
                             <p> We offer a high level of service to our clients from all walks of life. <br>
-                                Our competitive rates spurs efficiency in our practise as
+                                Our competitive rates spurs efficiency in our practice as
                                 Advocates of the High Court of Kenya. <br>
                                 We put the interests of our clients first. <br>
-                                This is a proven fact throughout our 14 years of practise. <br>
+                                This is a proven fact throughout our 14 years of practice. <br>
 <!--                                commodi consequatur corporis exercitationem, -->
 <!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>

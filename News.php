@@ -42,7 +42,7 @@
             <ul>
                 <li><a href="Index.php">Home</a></li>
                 <li><a href="About.php">About US</a></li>
-                <li><a href="Practise.php">Practice Areas</a></li>
+                <li><a href="Practice.php">Practice Areas</a></li>
                 <li><a href="News.php">News</a></li>
                 <li><a href="Our_Team.php">Our Team</a></li>
                 <li><a href="Contact.php">Contact Us</a></li>

@@ -40,7 +40,7 @@
                     <ul>
                         <li><a href="Index.php">Home</a></li>
                         <li><a href="About.php">About US</a></li>
-                        <li><a href="Practise.php">Practice Areas</a></li>
+                        <li><a href="Practice.php">Practice Areas</a></li>
                         <li><a href="News.php">News</a></li>
                         <li><a href="Our_Team.php">Our Team</a></li>
                         <li><a href="Contact.php">Contact Us</a></li>
@@ -51,13 +51,13 @@
             <div class="text">
                 <h1> Advocates of the High Court of Kenya </h1>
                 <p>
-<!--                             We offer legal representation and advice regarding procedures of the law in the areas we practise. -->
+<!--                             We offer legal representation and advice regarding procedures of the law in the areas we practice. -->
 <!--                             <br>-->
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque excepturi facere hic inventore nihil perferendis quas tempora voluptas voluptate.-->
 <!--                     <br>   We embrace a modern mindset throughout our practice with perspective and adaptability. <br>-->
 <!--                             <br> Our commitment is making your legal affairs aligned with your best interest.-->
                                   We take pride in offering personalised legal counsel to our adverse clientele. <br>
-                    <br> Our practise inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
+                    <br> Our practice inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
 
                 </p>
                 <a class="Learn" href="About.php"> — Learn More — </a>
@@ -66,11 +66,11 @@
 </section>
 <hr>
 
-<!--                    Practise section starts here-->
+<!--                    Practice section starts here-->
         <section class="Practise">
-            <h1>  Practise Areas  </h1>
+            <h1>  Practice Areas  </h1>
                     <p> We've exceeded expectations throughout the decades of service to our clients and community in the corridors of justice.
-                        <br> Our able team is competent and meticulous with in-depth knowledge in the areas we practise.   <br>
+                        <br> Our able team is competent and meticulous with in-depth knowledge in the areas we practice.   <br>
 <!--                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda autem culpa, dolore eaque in inventore ipsa ipsam-->
                         </p>
                                         <div class="row">
@@ -78,31 +78,34 @@
                                                 <i class="fa fa-handshake-o" id="pc"></i>
                                                 <h2> Litigation & Arbitration </h2>
 <!--                                                <h2> Commercial & Corporate Law </h2>-->
-                                                <p> Our legal expertise in both of these practise areas makes us the firm of choice in case assessment and litigation strategies.
-                                                    Our firm's practise and competitive rates enables us to represent the interests of both
+                                                <p> Our legal expertise in both of these practice areas makes us the firm of choice in case assessment and litigation strategies.
+                                                    Our firm's practice and competitive rates enables us to represent the interests of both
                                                     individual and corporate clients in areas including but not limited to Land & Environmental Law, Civil litigation and Criminal law, Insurance law &
                                                     Family law.
 <!--                                                    governs formation of companies, shareholder rights, mergers, and acquisitions.-->
 <!--                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.-->
                                                     </p>
-                                                <a class="Learn-News" href="Practise.php"> read more </a>
-
+                                                <br>
+                                                <a class="Learn-News" href="Practice.php"> read more </a>
                                             </div>
+
                                         <div class="practise-col">
                                             <i class="fa fa-gavel" id="pc"></i>
 <!--                                            <h2> Civil, Commercial & Criminal Litigation </h2>-->
                                             <h2> Legal Advisory & Consultancy </h2>
                                             <p>
-                                                    We offer best practise legal advice and consultation to both individual and corporate
-                                                    entities in a timely and competent manner. Our firm's wide sphere of practise
+                                                    We offer best practice legal advice and consultation to both individual and corporate
+                                                    entities in a timely and competent manner. Our firm's wide sphere of practice
                                                     allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
                                                     Our goal is to secure your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
                                             </p>
-                                            <a class="Learn-News" href="Practise.php"> read more </a>
+                                            <br>
+                                            <a class="Learn-News" href="Practice.php"> read more </a>
                                         </div>
+
                                             <div class="practise-col">
                                                 <i class="fa fa-users" id="pc"></i>
 <!--                                                <h2> Conveyancing & Property Law </h2>-->
@@ -119,7 +122,8 @@
 <!--                                                    fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
                                                     </p>
-                                                <a class="Learn-News" href="Practise.php"> read more </a>
+                                                <br>
+                                                <a class="Learn-News" href="Practice.php"> read more </a>
                                             </div>
                                     </div>
         </section>
@@ -130,7 +134,7 @@
                             <p>
 <!--                                Our firm’s guiding principle is to develop and maintain long-lasting relationships with our clients by working round the clock to ensure their best interests are represented.-->
 <!--                                <br><br> -->
-                                We embrace professionalism at the core of our practise as Advocates of the High Court of Kenya.  <br>
+                                We embrace professionalism at the core of our practice as Advocates of the High Court of Kenya.  <br>
                                 Our reputation and code of conduct has build trust enabling our clients to make Muia Mwanzia & Co. Advocates the law firm of choice to represent their best interests.
                                 <br> <br> We are guided and adhere to our core principles of <b>EFFICIENCY</b>, <b>COMMITMENT</b> and <b>INTEGRITY</b> in our day to day professional responsibilities
                                 <br> — to our clients, for our communities and the Firm — <br> within
@@ -169,15 +173,16 @@
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <img src="Pics/C_J2.jpg" alt="" height="330">
+                                        <a href="News.php"><img src="Pics/C_J2.jpg" alt="" height="330"></a>
                                         <h3> Corridors of Justice </h3>
-                                        <p> The Supreme Court of Kenya (SCOK) renders a judgment for the Presidential Election Petition No.
-                                            E005 of 2022 pursuant to Rule 23 (1) of the Supreme Count (Presidential Election Petition) Rules, 2017</p>
+                                        <p> The Supreme Court of Kenya (SCOK) renders a unanimous judgment for the Presidential Election Petition No.
+                                            E005 of 2022 pursuant to Rule 23 (1) of the Supreme Count (Presidential Election Petition) Rules, 2017.
+                                        </p>
                                         <a class="Learn-News" href="News.php"> read more </a>
                                     </div>
 
                                     <div class="nws-col">
-                                        <img src="Pics/Advocate_Sec.jpg" alt="" height="330">
+                                        <a href="News.php"><img src="Pics/Advocate_Sec.jpg" alt="" height="330"></a>
                                         <h3> Advocates Section </h3>
                                         <p>The Chief Justice of the Republic of Kenya Hon. Justice Martha Koome launched the Judicial E-filing system
                                             for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link.
@@ -187,7 +192,7 @@
 
                                     </div>
                                     <div class="nws-col">
-                                        <img src="Pics/US-Supreme.jpg" alt="" height="330">
+                                        <a href="News.php"><img src="Pics/US-Supreme.jpg" alt="" height="330"></a>
                                         <h3> International Courts </h3>
                                         <p> History made as Hon. Ketanji Onyika Brown Jackson became the first Black
                                             woman and the first former federal public defender
@@ -205,7 +210,7 @@
                                 <h1>  What Our Clients Say  </h1>
                         <p> We advance our client's overall personal, organizational, business and corporate goals by representing their interests in Court.
                             <br> As a firm, we listen and value their feedback.
-                            <br> Our ability to provide unparalleled service to our clients facilitates growth in our legal knowledge and practise skills. </p>
+                            <br> Our ability to provide unparalleled service to our clients facilitates growth in our legal knowledge and practice skills. </p>
                                     <div class="row">
                                         <div class="test-col">
                                             <img src="Pics/John_M.jpg" alt="">

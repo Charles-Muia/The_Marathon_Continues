@@ -184,7 +184,7 @@
             position: relative;
             line-height: 50px;
             border-radius: 5px;
-            border: 0 solid blue;
+            border: 1px solid white;
             background-color: navajowhite;
             padding: 5px 15px 5px;
             margin: auto;
@@ -311,6 +311,7 @@
             box-sizing: border-box;
             background-color: antiquewhite;
             border-radius: 5px;
+            border: 1px solid white;
             margin-bottom: 4%;
             padding: 22px 11px;
             transition: 0.5s;
