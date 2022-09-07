@@ -59,18 +59,18 @@
             <h1>  </h1>
             <h2>  </h2>
             <p class="Bio">
-                A seasoned advocate of the high court with over 15 years of working experience and in depth understanding of the law since being admitted to the Bar in 2004.
-                Muia Mwanzia founded Muia Mwanzia & Co. Advocates in 2008 after nearly 5 years of practice in one of the
+                Muia Mwanzia is a seasoned Advocate of the High Court of Kenya with over 15 years of legal practice and in depth understanding of the law since being admitted to the Roll of Advocate in 2004.
+                He founded Muia Mwanzia & Co. Advocates in 2008 after nearly 5 years of practice in one of the
                 most respected law firms in Meru County firm
                 of KIAUTHA ARITHI & CO. ADVOCATES as a Senior Legal Associate.
                 <br> <br>
-                Building on that experience and extensive expertise in litigation including civil and criminal law practise, Muia Mwanzia's
+                Building on that experience and extensive expertise in conveyancing, legal advisory and consultancy, litigation and arbitration, Muia Mwanzia's
                 commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration makes him the best lawyer of his generation.
                 <br> <br>
-                Muia Mwanzia holds an LLB from Moi University and Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
+                Muia Mwanzia holds a Bachelors of Law (LLB) from Moi University and a Post Graduate Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
                 <br><br>
-                Muia Mwanzia was appointed to the role of Commissioner for Oaths on 27th May 2008. As an Advocate of the High Court of Kenya,
-                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firms core principles of Efficiency, Commitment and Integrity.
+                Muia Mwanzia was admitted to the roll of Commissioner for Oaths on 27th May 2008. As an Advocate of the High Court of Kenya,
+                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firm's core principles of Efficiency, Commitment and Integrity.
             </p>
         </div>
         <div class="about-col">
@@ -94,7 +94,7 @@
 <!--        <div class="about-col">-->
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
-            <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and Diploma in law from the Kenya School of Law (KSL).
+            <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and a Post Graduate Diploma in law from the Kenya School of Law (KSL).
                 She is a member of the Law Society of Kenya. Prior to joining the firm, She was a senior  ........... magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Her practise takes a client-centered approach with an emphasis on professionalism, transparency and communication.
