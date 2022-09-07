@@ -27,7 +27,7 @@
 <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo2.jpg" alt="" height="70"></a>
+        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
                 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
@@ -61,7 +61,7 @@
                                     <p>Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
-                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the highest level of legal services to our clients in the areas we practice including but not limited to:
+                                    The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the best legal services to our clients in the areas we practice including but not limited to:
                                     <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practice.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
                                     <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.

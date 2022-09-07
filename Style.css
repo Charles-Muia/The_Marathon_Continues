@@ -45,6 +45,7 @@
             /*background: rgba(0,0,0,0.0);*/
             /*width: 85%;*/
             right: 0;
+            left: 0;
             /*top: 50%;*/
             /*margin-top: 0.1em;*/
         }
@@ -70,6 +71,8 @@
             text-align: right;
             padding-left: 0;
             padding-right: 0;
+            border-radius: 50%;
+            border: 3px solid white;
         }
 
         .logo ul li {

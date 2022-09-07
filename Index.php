@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" type="" href="Pics/Logo2.jpg">
+    <link rel="icon" type="" href="Pics/Logo1.jpg">
     <link rel="stylesheet" href="Style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +27,7 @@
 <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo2.jpg" alt="" height="70"></a>
+        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
@@ -87,6 +87,8 @@
                                                     </p>
                                                 <br>
                                                 <a class="Learn-News" href="Practice.php"> read more </a>
+                                                <br><br>
+                                                <hr>
                                             </div>
 
                                         <div class="practise-col">
@@ -104,6 +106,8 @@
                                             </p>
                                             <br>
                                             <a class="Learn-News" href="Practice.php"> read more </a>
+                                            <br><br>
+                                            <hr>
                                         </div>
 
                                             <div class="practise-col">
@@ -113,19 +117,23 @@
 
                                                 <p>
                                                     Our firm's vast experience and industry knowledge gives us an edge in advising on all aspects of conveyancing and registration of instruments
-                                                    including but not limited to trademarks, copyrights & intellectual property.
+                                                    including but not limited to trade-marks, copyrights & intellectual property.
 <!--                                                    believe in finding cost-effective and pragmatic approaches to resolve disputes is at the core-->
 <!--                                                    of ADR (Alternative Dispute Resolution) mechanisms that we employ.-->
-                                                    Our team facilitates drawing of general lease, sales and tenancy agreements, creation of legal charges,
+                                                    Our team facilitates drawing of lease, sales and tenancy agreements, creation of legal charges,
                                                     transfer and transmission of property.
 <!--                                                    out-of-court settlements by means of Negotiation, Conciliation and Mediation.-->
 <!--                                                    fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                    Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates-->
+
                                                     </p>
                                                 <br>
                                                 <a class="Learn-News" href="Practice.php"> read more </a>
+                                                <br><br>
+                                                <hr>
                                             </div>
-                                    </div>
+                                        </div>
+
         </section>
 
 <!--                        Commitment section starts here-->

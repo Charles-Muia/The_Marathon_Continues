@@ -184,7 +184,7 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p> We work as a team guided by our firm’s commitment towards developing and maintaining <br>long-lasting relationships with our clients
+    <p> We work as a team guided by our firm’s principles towards developing and maintaining <br>long-lasting relationships with our clients,
         <br> working round the clock to ensure their best interests are represented.
 
     </p>
