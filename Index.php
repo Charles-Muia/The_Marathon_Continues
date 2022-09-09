@@ -324,6 +324,91 @@
                         <hr class="closure">
                     </section>
 
+                    <section class="Footer_Test">
+                       <div class="roww">
+                           <div class="coll">
+<!--                               <img src="Pics/Logo1.jpg" alt=""class="roww2">-->
+                               <h3> About <div class="under"> <span></span> </div> </h3>
+                               <p>
+                                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                   Accusantium alias dolor dolore doloremque doloribus id ipsa
+                                   <br>
+                                   magnam necessitatibus nemo qui quibusdam, quod, recusandae
+                                   veritatis. Autem dolores doloribus quidem similique. Officiis!
+                                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+                               </p>
+                               <br>
+                               <div class="social_items">
+
+                                   <p>
+                                   <i class= "fa fa-facebook"></i>
+                                   <i class= "fa fa-twitter"></i>
+                                   <i class= "fa fa-linkedin"></i>
+                                   <i class= "fa fa-youtube"></i>
+                                   <i class= "fa fa-instagram"></i>
+                                   <i class= "fa fa-whatsapp"></i>
+
+                                   </p>
+
+                               </div>
+
+                           </div>
+
+                           <div class="coll">
+                               <h3> Office <div class="under"> <span></span> </div></h3>
+                               <p> <i class= "fa fa-building"> </i> Edfri Green House, 2nd Floor (Opposite Magunas Downtown) </p>
+                               <p> <i class= "fa fa-street-view"> </i> Ghana Street </p>
+                               <p> <i class= "fa fa-map-marker"> </i>  Meru County </p>
+                               <p class="email_id"> <i class= "fa fa-envelope"> </i> muiamwanzia@yahoo.com </p>
+                               <p> <i class= "fa fa-phone"> </i> 0733 333 333 </p>
+
+                               <br>
+                           </div>
+
+                           <div class="coll">
+                               <h3> Quick Links <div class="under"> <span></span> </div> </h3>
+                               <p>
+                               <ul>
+                                   <li><a href=""> Home </a></li>
+                                   <li><a href=""> About Us </a></li>
+                                   <li><a href=""> Practice </a></li>
+                                   <li><a href=""> News </a></li>
+                                   <li><a href=""> Our Team </a></li>
+                                   <li><a href=""> Contact Us </a></li>
+                               </ul>
+                               </p>
+                           </div>
+
+<!--                           <div class="coll">-->
+<!--                             <h3> Our Principles </h3>-->
+<!--                               <div class="social_items">-->
+<!--                                   <p>  EFFICIENCY  </p>-->
+<!--                                   <p>  COMMITMENT  </p>-->
+<!--                                   <p>  INTEGRITY  </p>-->
+
+
+                                   <!--                                       <img src="Pics/Logo2.jpg" alt="" width="70">-->
+<!--                                       <i class= "fa fa-facebook"></i> <br>-->
+<!--                                       <i class= "fa fa-twitter"></i> <br>-->
+<!--                                       <i class= "fa fa-linkedin"></i> <br>-->
+<!--                                       <i class= "fa fa-youtube"></i> <br>-->
+<!--                                       <i class= "fa fa-instagram"></i> <br>-->
+<!--                                       <i class= "fa fa-whatsapp"></i>-->
+
+                                   </p>
+
+                               </div>
+                           </div>
+                       </div>
+                        <hr class="line">
+                        <p class="close">
+                            &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+                        </p>
+                    </section>
+
+
+
 <!--------------JS for Toggle Menu for small screens----------------->
                 <script>
                     var navlink = document.getElementById("navlink");

@@ -121,7 +121,7 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p> Efficiency . Commitment . Integrity
+    <p> EFFICIENCY . COMMITMENT . INTEGRITY
         <br> We take pride in offering personalised legal services to our adverse clientele. <br>
         Get in touch with us.
 

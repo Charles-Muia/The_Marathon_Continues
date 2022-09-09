@@ -62,24 +62,24 @@
                                     The firm was founded and established by Muia Mwanzia on 28th August 2008 thereby issued with a Certificate of Registration No. 525476.
                                     <br><br>
                                     The firm's sphere of practice is wide covering conceivably almost all fields of the law. We deliver the best legal services to our clients in the areas we practice including but not limited to:
-                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br> <i class="fa fa-angle-right" aria-hidden="true"></i> Civil litigation and Criminal practice.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Commercial and Corporate law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Insurance law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Environmental and Land law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Employment and Labor law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Constitutional and Administrative law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Tort law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Immigration law.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Family law.
+                                    <br><br><i class="fa fa-hand-o-right"></i> Litigation and Arbitration:  <br><i class="fa fa-angle-double-right" aria-hidden="true"></i></i> Civil litigation and Criminal practice.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Commercial and Corporate law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Insurance law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Environmental and Land law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Employment and Labor law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Constitutional and Administrative law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Tort law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Immigration law.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Family law.
                                     <br><br>
 
                                     <i class="fa fa-hand-o-right"></i> Conveyancing:
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Drawing sale agreements for movable and immovable properties and assets.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Transfer and transmission of property.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Drawing general lease and tenancy agreements.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Registration of trademarks, patents, copyrights to protect intellectual property.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Incorporation and registration of entities <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Companies, Trusts, SACCO, NGO Society, Partnership, Business Names and Firms.
-                                    <br><i class="fa fa-angle-right" aria-hidden="true"></i> Creation of legal charge and further charge <i class="fa fa-long-arrow-right" aria-hidden="true"></i> mortgages, debentures, guarantees, indemnities including all other legal documents required to secure credit facilities by any financial institutions.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Drawing sale agreements for movable and immovable properties and assets.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Transfer and transmission of property.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Drawing general lease and tenancy agreements.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Registration of trademarks, patents, copyrights to protect intellectual property.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Incorporation and registration of entities <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Companies, Trusts, SACCO, NGO Society, Partnership, Business Names and Firms.
+                                    <br><i class="fa fa-angle-double-right" aria-hidden="true"></i> Creation of legal charge and further charge <i class="fa fa-long-arrow-right" aria-hidden="true"></i> mortgages, debentures, guarantees, indemnities including all other legal documents required to secure credit facilities by any financial institutions.
                                     <br><br>
                                 </p>
                             </div>
@@ -87,7 +87,9 @@
 <!--                            <img src="Pics/Gavel.jpg" alt="">-->
                             <p>
                                 <i class="fa fa-hand-o-right"></i> Consultancy Services:
-                                <br><i class="fa fa-angle-right" aria-hidden="true"></i> We offer legal advice to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures while keeping their best interests first.
+                                <br>
+                                <i class="fa fa-angle-double-right" aria-hidden="true"></i></i>
+                                We offer legal advisory and consultation to both individual and corporate entities on all aspects of the law to allow them make informed decisions and undertake appropriate ventures within the law.
 
                                 <br><br>
                                 At Muia Mwanzia & Co. Advocates, we put the interests of our clients first.
@@ -103,7 +105,8 @@
                                 <!--                                    Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
                                 Our team's exposure to the legal systems and qualifications has helped the firm find innovative and pragmatic solutions to client legal challenges.
                                 <br><br>
-                                Since establishment, the internal culture has always been to treat each and every client with the same respect with a commitment to do our best in each and every case, no matter the complexity.
+                                Since establishment, the internal culture has always been to treat each and every
+                                client with respect and a commitment to do our best in each and every case, no matter the complexity.
                                 <br><br>
                                 The firm's geographical coverage is in the wider Mt. Kenya region and North Eastern part of the Country operating particularly in
                                 Meru, Isiolo, Nyeri, Nairobi and Embu Counties including Chuka, Nanyuki and Marsabit town.
