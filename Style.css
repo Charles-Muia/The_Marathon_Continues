@@ -1435,11 +1435,13 @@
                 width: 100%;
                 position: absolute;
                 padding: 20px 0 40px;
-                background: linear-gradient( to right, #f8f8ff, #0000ff, #add8ef);
+                background: linear-gradient( to right, #0000ff, #0000cd);
+                /*background: linear-gradient( to right, #f8f8ff, #0000ff, #add8ef);*/
                 border-top-left-radius: 0;
                 font-size: 15px;
                 font-weight: 1000;
                 text-align: left;
+                color: white;
                 line-height: 20px;
             }
 
@@ -1477,27 +1479,46 @@
                 padding: 0 10px;
             }
 
+            .coll .fa {
+                color: darkblue;
+                padding: 5px;
+                font-size: 20px;
+                text-align: center;
+                border: 1px solid darkblue;
+                border-radius: 50%;
+                height: 20px;
+                width: 20px;
+                background-color: navajowhite;
+            }
+
+            .coll p {
+                font-size: 17px;
+            }
+
             .email_id {
                 width: fit-content;
                 border-bottom: 1px solid white;
-                margin: 25px 0;
+                padding-bottom: 5px;
+                margin: 20px 0;
         }
 
             .coll ul li {
                 list-style: none;
                 margin-bottom: 25px;
                 border: 1px solid navajowhite;
+                background: darkblue;
                 border-radius: 50px;
                 text-align: -webkit-left;
                 padding: 0 20px;
-                width: max-content;
+                width: 80px;
             }
 
             .coll ul li a  {
                 text-decoration: none;
-                color: black;
-                font-size: 15px;
+                color: white;
+                font-size: 14px;
                 text-transform: uppercase;
+                padding: 5px;
             }
 
             .social_items .fa {
@@ -1505,9 +1526,10 @@
                 margin-bottom: 20px;
                 height: 20px;
                 font-size: 20px;
+                color: darkblue;
                 text-align: center;
                 border-radius: 50%;
-                background-color: white;
+                border: 1px solid darkblue;
                 padding: 15px;
                 cursor: pointer;
                 background-color: navajowhite;
@@ -1524,16 +1546,17 @@
             vertical-align: auto;
             padding: 10px 0;
             position: relative;
-            font-size: 15px;
+            font-size: 14px;
         }
 
         .close a {
             text-decoration: none;
-            color: black;
+            color: whitesmoke;
+            font-family: "Century Gothic";
         }
 
         .line {
-            width: 95%;
+            width: 85%;
             border: 0;
             border-bottom: 1px solid white;
             margin: 10px auto;
@@ -1543,7 +1566,7 @@
             position: absolute;
             border-radius: 2px;
             width: 80px;
-            height: 1px;
+            height: 2px;
             top: 30px;
             left: 0;
             background: white;

@@ -300,27 +300,27 @@
 <!--                            </section>-->
 <!--                            -->
 
-                            <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
-                            <span class="dot2"> </span>
-                            <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
-                            <span class="dot2"> </span>
-                            <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House, 2nd Floor </span>  </i>
-                            <span class="dot2"> </span>
-                            <i class= "fa fa-street-view"> <br> <span class="Soc"> Ghana Street </span> </i>
-                            <span class="dot2"> </span>
-                            <i class= "fa fa-map-marker"> <br> <span class="Soc"> Meru County </span>  </i>
+<!--                            <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>-->
+<!--                            <span class="dot2"> </span>-->
+<!--                            <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>-->
+<!--                            <span class="dot2"> </span>-->
+<!--                            <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House, 2nd Floor </span>  </i>-->
+<!--                            <span class="dot2"> </span>-->
+<!--                            <i class= "fa fa-street-view"> <br> <span class="Soc"> Ghana Street </span> </i>-->
+<!--                            <span class="dot2"> </span>-->
+<!--                            <i class= "fa fa-map-marker"> <br> <span class="Soc"> Meru County </span>  </i>-->
                         </div>
-                                <div class="Social">
-                                    <a href="https://www.facebook.com/MuiaMwanziaAndCo.Advocates"><i class= "fa fa-facebook"></i></a>
-                                        <i class= "fa fa-twitter"></i>
-                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>
-                                        <i class= "fa fa-youtube"></i>
-                                        <i class= "fa fa-instagram"></i>
-                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>
-                                </div>
+<!--                                <div class="Social">-->
+<!--                                    <a href="https://www.facebook.com/MuiaMwanziaAndCo.Advocates"><i class= "fa fa-facebook"></i></a>-->
+<!--                                        <i class= "fa fa-twitter"></i>-->
+<!--                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>-->
+<!--                                        <i class= "fa fa-youtube"></i>-->
+<!--                                        <i class= "fa fa-instagram"></i>-->
+<!--                                    <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>-->
+<!--                                </div>-->
 
-                        <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
-                        </p>
+<!--                        <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>-->
+<!--                        </p>-->
                         <hr class="closure">
                     </section>
 
@@ -361,7 +361,7 @@
                                <p> <i class= "fa fa-street-view"> </i> Ghana Street </p>
                                <p> <i class= "fa fa-map-marker"> </i>  Meru County </p>
                                <p class="email_id"> <i class= "fa fa-envelope"> </i> muiamwanzia@yahoo.com </p>
-                               <p> <i class= "fa fa-phone"> </i> 0733 333 333 </p>
+                               <p> <i class= "fa fa-phone"> </i> +254 733 678 889 </p>
 
                                <br>
                            </div>
@@ -370,12 +370,12 @@
                                <h3> Quick Links <div class="under"> <span></span> </div> </h3>
                                <p>
                                <ul>
-                                   <li><a href=""> Home </a></li>
-                                   <li><a href=""> About Us </a></li>
-                                   <li><a href=""> Practice </a></li>
-                                   <li><a href=""> News </a></li>
-                                   <li><a href=""> Our Team </a></li>
-                                   <li><a href=""> Contact Us </a></li>
+                                   <li><a href="Index.php"> Home </a></li>
+                                   <li><a href="About.php"> About Us </a></li>
+                                   <li><a href="Practice.php"> Practice </a></li>
+                                   <li><a href="News.php"> News </a></li>
+                                   <li><a href="Our_Team.php"> Our Team </a></li>
+                                   <li><a href="Contact.php"> Contact Us </a></li>
                                </ul>
                                </p>
                            </div>
@@ -403,7 +403,7 @@
                        </div>
                         <hr class="line">
                         <p class="close">
-                            &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
+                            &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
                         </p>
                     </section>
 

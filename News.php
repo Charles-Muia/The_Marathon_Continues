@@ -95,9 +95,9 @@
                 <h3 style="text-align: left"> Advocates Section - Filing of Presidential Election Petition </h3>
                 <h4 style="margin-left: 12px; text-align: left">Aug 18th, 2022</h4>
                 <p id="nws-col-p2">
-                    The Judiciary E-filing system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
-                    President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective and efficient process of filing related cases.
-                    Law firms and advocates can now file cases online via the E-filing <a href="https://efiling.court.go.ke">link</a>. The
+                    The Judiciary efiling system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
+                    President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective, seemless and efficient process of filing related cases.
+                    All law firms and advocates can now file cases online via the efiling <a href="https://efiling.court.go.ke">link</a>. The
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
@@ -133,30 +133,115 @@
     <div class="Social2">
         <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
             <br> Legal Consultants  </p>
-        <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>
-        <span class="dot2"> </span>
-        <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>
-        <span class="dot2"> </span>
-        <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House, 2nd Floor </span>  </i>
-        <span class="dot2"> </span>
-        <i class= "fa fa-street-view"> <br> <span class="Soc"> Ghana Street </span> </i>
-        <span class="dot2"> </span>
-        <i class= "fa fa-map-marker"> <br> <span class="Soc"> Meru County </span>  </i>
+<!--        <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>-->
+<!--        <span class="dot2"> </span>-->
+<!--        <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>-->
+<!--        <span class="dot2"> </span>-->
+<!--        <i class= "fa fa-building"> <br>  <span class="Soc"> Edfri Green House, 2nd Floor </span>  </i>-->
+<!--        <span class="dot2"> </span>-->
+<!--        <i class= "fa fa-street-view"> <br> <span class="Soc"> Ghana Street </span> </i>-->
+<!--        <span class="dot2"> </span>-->
+<!--        <i class= "fa fa-map-marker"> <br> <span class="Soc"> Meru County </span>  </i>-->
     </div>
     </div>
-    <div class="Social">
-        <a href="https://www.facebook.com/MuiaMwanziaAndCo.Advocates"><i class= "fa fa-facebook"></i></a>
-        <i class= "fa fa-twitter"></i>
-        <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>
-        <i class= "fa fa-youtube"></i>
-        <i class= "fa fa-instagram"></i>
-        <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>
-
-    </div>
-    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>
-    </p>
+<!--    <div class="Social">-->
+<!--        <a href="https://www.facebook.com/MuiaMwanziaAndCo.Advocates"><i class= "fa fa-facebook"></i></a>-->
+<!--        <i class= "fa fa-twitter"></i>-->
+<!--        <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-linkedin"></i></a>-->
+<!--        <i class= "fa fa-youtube"></i>-->
+<!--        <i class= "fa fa-instagram"></i>-->
+<!--        <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>-->
+<!---->
+<!--    </div>-->
+<!--    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>-->
+<!--    </p>-->
     <hr class="closure">
 </section>
+
+<section class="Footer_Test">
+    <div class="roww">
+        <div class="coll">
+            <!--                               <img src="Pics/Logo1.jpg" alt=""class="roww2">-->
+            <h3> About <div class="under"> <span></span> </div> </h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Accusantium alias dolor dolore doloremque doloribus id ipsa
+                <br>
+                magnam necessitatibus nemo qui quibusdam, quod, recusandae
+                veritatis. Autem dolores doloribus quidem similique. Officiis!
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+            </p>
+            <br>
+            <div class="social_items">
+
+                <p>
+                    <i class= "fa fa-facebook"></i>
+                    <i class= "fa fa-twitter"></i>
+                    <i class= "fa fa-linkedin"></i>
+                    <i class= "fa fa-youtube"></i>
+                    <i class= "fa fa-instagram"></i>
+                    <i class= "fa fa-whatsapp"></i>
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="coll">
+            <h3> Office <div class="under"> <span></span> </div></h3>
+            <p> <i class= "fa fa-building"> </i> Edfri Green House, 2nd Floor (Opposite Magunas Downtown) </p>
+            <p> <i class= "fa fa-street-view"> </i> Ghana Street </p>
+            <p> <i class= "fa fa-map-marker"> </i>  Meru County </p>
+            <p class="email_id"> <i class= "fa fa-envelope"> </i> muiamwanzia@yahoo.com </p>
+            <p> <i class= "fa fa-phone"> </i> +254 733 678 889 </p>
+
+            <br>
+        </div>
+
+        <div class="coll">
+            <h3> Quick Links <div class="under"> <span></span> </div> </h3>
+            <p>
+            <ul>
+                <li><a href="Index.php"> Home </a></li>
+                <li><a href="About.php"> About Us </a></li>
+                <li><a href="Practice.php"> Practice </a></li>
+                <li><a href="News.php"> News </a></li>
+                <li><a href="Our_Team.php"> Our Team </a></li>
+                <li><a href="Contact.php"> Contact Us </a></li>
+            </ul>
+            </p>
+        </div>
+
+        <!--                           <div class="coll">-->
+        <!--                             <h3> Our Principles </h3>-->
+        <!--                               <div class="social_items">-->
+        <!--                                   <p>  EFFICIENCY  </p>-->
+        <!--                                   <p>  COMMITMENT  </p>-->
+        <!--                                   <p>  INTEGRITY  </p>-->
+
+
+        <!--                                       <img src="Pics/Logo2.jpg" alt="" width="70">-->
+        <!--                                       <i class= "fa fa-facebook"></i> <br>-->
+        <!--                                       <i class= "fa fa-twitter"></i> <br>-->
+        <!--                                       <i class= "fa fa-linkedin"></i> <br>-->
+        <!--                                       <i class= "fa fa-youtube"></i> <br>-->
+        <!--                                       <i class= "fa fa-instagram"></i> <br>-->
+        <!--                                       <i class= "fa fa-whatsapp"></i>-->
+
+        </p>
+
+    </div>
+    </div>
+    </div>
+    <hr class="line">
+    <p class="close">
+        &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
+    </p>
+</section>
+
+
 
 <!--------------JS for Toggle Menu for small screens----------------->
 <script>
