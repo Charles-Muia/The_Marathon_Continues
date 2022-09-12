@@ -1465,6 +1465,18 @@
                 flex-basis: 20%;
             }
 
+             @media screen and (max-width: 800px) {
+                 .coll:nth-child(2), .coll:nth-child(3) {
+                    flex-basis: 80%;
+                 }
+                 .roww {
+                     width: 100% ;
+            }
+                 .coll {
+                     flex-basis: 80%;
+                 }
+        }
+
             .roww2 {
                 width: 70px;
                 margin-bottom: 15px;
@@ -1519,6 +1531,14 @@
                 font-size: 15px;
                 text-transform: uppercase;
                 padding: 5px;
+            }
+
+            .coll ul li a:hover {
+                color: darkblue;
+            }
+
+            .coll ul li:hover {
+                background: navajowhite;
             }
 
             .social_items .fa {
