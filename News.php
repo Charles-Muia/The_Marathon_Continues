@@ -164,12 +164,12 @@
             <!--                               <img src="Pics/Logo1.jpg" alt=""class="roww2">-->
             <h3> About <div class="under"> <span></span> </div> </h3>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Accusantium alias dolor dolore doloremque doloribus id ipsa
+                Muia Mwanzia & Co. Advocates is a law firm based in Meru County.
+                The Firm was founded by Muia Mwanzia on 28th August 2008.
+                We take pride in offering personalised legal counsel and representation to our adverse clientele.
                 <br>
-                magnam necessitatibus nemo qui quibusdam, quod, recusandae
-                veritatis. Autem dolores doloribus quidem similique. Officiis!
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Our ability to provide unparalleled legal services to our clients
+                inspires us to offer efficient and cost-effective legal solutions in the areas we practice.
 
             </p>
             <br>

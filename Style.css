@@ -1503,6 +1503,10 @@
                 background-color: navajowhite;
             }
 
+            .coll .fa:hover {
+                background-color: white;
+            }
+
             .coll p {
                 font-size: 17px;
             }
@@ -1554,6 +1558,10 @@
                 padding: 15px;
                 cursor: pointer;
                 background-color: navajowhite;
+            }
+
+            .social_items .fa:hover {
+                background-color: white;
             }
 
             /*.social_items img {*/
