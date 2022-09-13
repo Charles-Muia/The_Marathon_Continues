@@ -82,8 +82,8 @@
         <div class="practise-col">
             <img src="Pics/Abi_Icon.png" alt=""width="110">
             <h2> Arbitration </h2>
-            <p> We believe in pursuing practical and cost effective solutions to disputes.
-                Our experience in this areas of practice is guided by the
+            <p> We believe in pursuing practical and cost-effective solutions to disputes.
+                Our experience in these areas of practice is guided by the
                 ADR (Alternative Dispute Resolution) mechanisms principles.
                 Our legal expertise in Arbitration makes us the firm of choice and uniquely
                 qualified to provide insightful representation on behalf of our clients.
@@ -111,8 +111,8 @@
             <p>The family is the natural and fundamental unit of society, the necessary basis of social order.
 <!--                In line with the Constitution of Kenya (2010),-->
                 We represent clients on matters involving family relationships
-                including but not limited to creation of trusts, advice on estate administration of the deceased,
-                child matters including adoption, custody or maintenance, divorce and succession matters.</p>
+                including but not limited to creation of trusts, advice on estate administration of the deceased, divorce and succession matters;
+                Child best interest including adoption, custody or maintenance. </p>
         </div>
         <div class="practise-col">
             <img src="Pics/Commercial_Icon.png" alt="" width="110">
@@ -167,7 +167,7 @@
                 <div class="card">
                     <p><i class="fa fa-handshake-o"></i></p>
                     <h5>150+</h5>
-                    <p>Case Closed</p>
+                    <p>Cases Closed</p>
                 </div>
             </div>
 
@@ -200,18 +200,20 @@
                         </div>
 
                         <div class="panel">
-                            <p> A judgment is the decision of the Court in a particular case usually read by a Judge. It includes a statement of the facts, an analysis of the relevant law and the application of the law to the facts. </p>
+                            <p> A judgment is the decision of the Court in a particular case usually read by a Judge.
+                                It includes a statement of the facts, an analysis of the relevant law and the application of the law to the facts. </p>
                         </div>
 
                         <div class="accordion">
                             <div class="icons"></div>
-                            <h3> What is a judgment?  </h3>
+                            <h3> What is the Small Claims Court?  </h3>
                         </div>
 
                         <div class="panel">
-                            <p> The plaintiff is the person or party bringing a lawsuit to court.  <br>
-                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
-                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                            <p>
+                                This a subordinate court in the structure of the court system in Kenya under Article 169 (1)
+                                of the Constitution with a monetary jurisdiction of matters not exceeding Ksh 1 million.
+                            </p>
                         </div>
 
                         <div class="accordion">
@@ -220,9 +222,8 @@
                         </div>
 
                         <div class="panel">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                                Asperiores consectetur consequatur corporis culpa cumque deserunt doloribus eius in ipsam itaque minima,
-                                <br>molestias nostrum odio omnis, placeat quibusdam repellat sapiente, vero!</p>
+                            <p>A petition is a written request made in the form of an appeal, generally before a court.
+                            An appeal is the legal process to ask a higher court to review a decision by a judge in a lower court. </p>
                         </div>
                     </div>
 

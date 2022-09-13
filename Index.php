@@ -99,7 +99,7 @@
                                                     We offer best practice legal advice and consultation to both individual and corporate
                                                     entities in a timely and competent manner. Our firm's wide sphere of practice
                                                     allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
-                                                    Our goal is to secure your best interests at all times.
+                                                    Our goal is to represent your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
 <!--                                                <br>cumque eius exercitationem expedita fugit id nemo numquam odit perspiciatis quaerat.-->
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->

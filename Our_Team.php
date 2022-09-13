@@ -95,18 +95,17 @@
 <!--            <h1> Audrey Mbijiwe </h1>-->
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
             <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and a Post Graduate Diploma in law from the Kenya School of Law (KSL).
-                She is a member of the Law Society of Kenya. Prior to joining the firm, She was a senior  ........... magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
+                She is a member of the Law Society of Kenya. Prior to joining the firm,
+                She was a senior  ........... magni mollitia quod reiciendis repudiandae saepe
+                tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Her practice takes a client-centered approach with an emphasis on professionalism, transparency and communication.
                 She always goes the extra mile to ensure our clients are informed, while fiercely litigating claims and representing them in Court.
                 She is highly motivated, competent and always up for a challenge.
-<!--                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!-->
                 <br><br>
                 Prior to joining the firm, Audrey's experience in the legal practice has been consistent.
                 She has defended state and private entities at all levels from arbitration to the
                 Appellate Court to expedite our clients practical solutions to bring their cases to an efficient and timely resolution.
-<!--                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae, commodi deleniti dolor earum eligendi error fuga laboriosam-->
-                libero magni mollitia quod reiciendis repudiandae saepe tempore temporibus vero voluptatem voluptates!
                 <br><br>
                 Through out her career, Audrey has on various occasions developed creative dispute resolution winning strategies.
                 As an Advocate of the High Court of Kenya, She delivers outstanding legal practice
