@@ -247,7 +247,8 @@
                                             <img src="Pics/Prince-C.jpg" alt="">
                                             <div>
                                                 <i class="bi bi-quote"></i>
-                                                <p>Brilliant minds, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,</p>
+                                                <p>Brilliant legal minds, with in depth knowledge of the fields of practice.
+                                                    Aut autem consequuntur, corporis delectus ducimus enim id,</p>
                                                 <h3>King Charles III</h3>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>

@@ -347,7 +347,7 @@
     </div>
     <hr class="line">
     <p class="close">
-        &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
+        Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
     </p>
 </section>
 
