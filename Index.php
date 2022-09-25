@@ -247,8 +247,8 @@
                                             <img src="Pics/Prince-C.jpg" alt="">
                                             <div>
                                                 <i class="bi bi-quote"></i>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,</p>
-                                                <h3>Prince Charles</h3>
+                                                <p>Brilliant minds, consectetur adipisicing elit. Aut autem consequuntur, corporis delectus ducimus enim id,</p>
+                                                <h3>King Charles III</h3>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -402,7 +402,7 @@
                        </div>
                         <hr class="line">
                         <p class="close">
-                            &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
+                            Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions</a>
                         </p>
                     </section>
 

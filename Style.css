@@ -1500,11 +1500,11 @@
                 border-radius: 50%;
                 height: 20px;
                 width: 20px;
-                background-color: navajowhite;
+                background-color: white;
             }
 
             .coll .fa:hover {
-                background-color: white;
+                background-color: navajowhite;
             }
 
             .coll p {
@@ -1557,11 +1557,11 @@
                 border: 1px solid darkblue;
                 padding: 15px;
                 cursor: pointer;
-                background-color: navajowhite;
+                background-color: white;
             }
 
             .social_items .fa:hover {
-                background-color: white;
+                background-color: navajowhite;
             }
 
             /*.social_items img {*/
