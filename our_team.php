@@ -22,97 +22,159 @@
 <body>
 <button onclick="topFunction()" id="Scroll-button" title="Go to top">Top</button>
 
-
 <!--                Header sections starts here-->
-<section class="Contact-Header1">
+<section class="Our-Header">
     <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
                 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
-                <li><a href="Index.php"> Muia Mwanzia & Co. Advocates <br>
+                <li><a href="index.php"> Muia Mwanzia & Co. Advocates <br>
                         <span> - justice be our shield and defender - </span> </a></li>
             </ul>
         </div>
         <div class="nav-links" id="navlink">
             <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="Index.php">Home</a></li>
-                <li><a href="About.php">About US</a></li>
-                <li><a href="Practice.php">Practice Areas</a></li>
-                <li><a href="News.php">News</a></li>
-                <li><a href="Our_Team.php">Our Team</a></li>
-                <li><a href="Contact.php">Contact Us</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About US</a></li>
+                <li><a href="practice.php">Practice Areas</a></li>
+                <li><a href="news.php">News</a></li>
+                <li><a href="our_team.php">Our Team</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
             </ul>
         </div>
         <i class="fa fa-bars" onclick="displayMenu()"></i>
     </nav>
-    <h1> Contact Us </h1>
+    <h1> Our Team </h1>
 </section>
 
-<!--                Contact Us sections starts here-->
+<!--                Our Team sections starts here-->
 
-        <section class="find-us">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8170172650057!2d37.65097611404908!3d0.0463069643908277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x178821e9062a5bed%3A0x63990a4615bd7da!2sGhana%20St%2C%20Meru!5e0!3m2!1sen!2ske!4v1658064641770!5m2!1sen!2ske"
-                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </section>
+<section class="About-Sec">
+    <div class="row">
+        <div class="about-col">
+            <h1>  </h1>
+            <h2>  </h2>
+            <p class="Bio">
+                Muia Mwanzia is a seasoned Advocate of the High Court of Kenya with over 15 years of legal practice and in depth understanding of the law since being admitted to the Roll of Advocate in 2004.
+                He founded Muia Mwanzia & Co. Advocates in 2008 after nearly 5 years of practice in one of the
+                most respected law firms in Meru County firm
+                of KIAUTHA ARITHI & CO. ADVOCATES as a Senior Legal Associate.
+                <br> <br>
+                Building on that experience and extensive expertise in conveyancing, legal advisory and consultancy, litigation and arbitration, Muia Mwanzia's
+                commitment to represent clients in a variety of matters from pre-suit disputes, throughout all phases of trial proceedings and arbitration makes him the best lawyer of his generation.
+                <br> <br>
+                Muia Mwanzia holds a Bachelors of Law (LLB) from Moi University and a Post Graduate Diploma in law from the Kenya School of Law. He is a member of the Law Society of Kenya and the immediate former Secretary General, Meru Bar Association.
+                <br><br>
+                Muia Mwanzia was admitted to the roll of Commissioner for Oaths on 27th May 2008. As an Advocate of the High Court of Kenya,
+                his competence has laid a framework in offering personalised legal services and consultancy adhering to the firm's core principles of Efficiency, Commitment and Integrity.
+            </p>
+        </div>
+        <div class="about-col">
+            <img class="Team_Pics" id="MM" src="Pics/Muia_Mwanzia.png" alt="">
+            <h1 class="names"> Muia Mwanzia </h1>
+            <h3>  LLB (Hons) [Moi], Dip [KSL] </h3>
+<!--            <h2> Advocate of the High Court of Kenya </h2>-->
+        </div>
+        <hr>
+    </div>
+</section>
+<section class="About-Sec">
+    <div class="row">
+        <hr>
+            <div class="about-col">
+                <img class="Team_Pics" src="Pics/Audrey_Mbijiwe.jpg" alt="">
+                <h1 class="names"> Audrey Mbijiwe </h1>
+                <h3>  LLB (Hons) [CUEA], Dip [KSL] </h3>
+            </div>
 
-<section class="contact-us">
-                <div class="row">
-                    <div class="contact-col">
-                        <div>
-                            <i class="bi bi-building"></i>
-                            <span>
-                                <h3> Edfri Green House, 2nd floor </h3>
-<!--                                <p> Meru County </p>-->
-                            </span>
-                        </div>
-                        <div>
-                            <i class="bi bi-geo-alt-fill"></i>
-                            <span>
-                                <h3> Ghana Street, Meru County </h3>
-<!--                                <p> Meru County </p>-->
-                            </span>
-                        </div>
-                        <div>
-                            <i class="bi bi-envelope"></i>
-                            <span>
-                                <h3> muiamwanzia@yahoo.com </h3>
-<!--                                <p> Meru County </p>-->
-                            </span>
-                        </div>
-                        <div>
-                            <i class="bi bi-telephone-fill"></i>
-                            <span>
-                                <h3> +254 733 678 889 </h3>
-<!--                                <p> Meru  County </p>-->
-                            </span>
-                        </div>
-                        <div>
-                            <i class="bi bi-calendar-check-fill"></i>
-                            <span>
-                                <h3>Mon - Fri  08:00AM - 05:00PM <br> Closed Sun & Public Holidays </h3>
-<!--                                <p> Meru County </p>-->
-                            </span>
-                        </div>
-                    </div>
-                    <div class="contact-col">
+<!--        <div class="about-col">-->
+<!--            <h1> Audrey Mbijiwe </h1>-->
+<!--            <h2> Advocate of the High Court of Kenya </h2>-->
+            <p class="Bio"> Audrey Mbijiwe holds an LLB from Catholic University of East Africa and a Post Graduate Diploma in law from the Kenya School of Law (KSL).
+                She is a member of the Law Society of Kenya. Prior to joining the firm,
+                She was a senior  ........... magni mollitia quod reiciendis repudiandae saepe
+                tempore temporibus vero voluptatem voluptates!
+                <br><br>
+                Her practice takes a client-centered approach with an emphasis on professionalism, transparency and communication.
+                She always goes the extra mile to ensure our clients are informed, while fiercely litigating claims and representing them in Court.
+                She is highly motivated, competent and always up for a challenge.
+                <br><br>
+                Prior to joining the firm, Audrey's experience in the legal practice has been consistent.
+                She has defended state and private entities at all levels from arbitration to the
+                Appellate Court to expedite our clients practical solutions to bring their cases to an efficient and timely resolution.
+                <br><br>
+                Through out her career, Audrey has on various occasions developed creative dispute resolution winning strategies.
+                As an Advocate of the High Court of Kenya, She delivers outstanding legal practice
+                while maintaining the highest possible level of integrity; dedicated to providing reliable results without compromising the reputation or competence of the firm.
+            </p>
+        </div>
+<!--    </div>-->
+</section>
 
-<!--                        Contact form-->
-                        <form action="Form.php" method="post">
-                            <input type="text" name="name" placeholder="Enter Your Name:" required>
-                            <input type="email" name="email" placeholder="Enter Your Email Address:" required>
-                            <input type="text" name="subject" placeholder="Subject / Title:" required>
-                            <textarea rows="10" name="message" placeholder="Type Your Message Here:" required></textarea>
-                            <button type="submit" class="Learn-btn"> Send Message </button>
-<!--                            <button type="reset" class="Learn-btn"> Clear Form </button>-->
-                        </form>
-
-                    </div>
+<section class="the-team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_2.jpg" alt="" height="350">
+                    <ul>
+                            <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                            <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                            <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
                 </div>
+                            <h3> Maureen Kinya </h3>
+                            <h4> Personal Assistant </h4>
+<!--                            <p> Personal Assistant </p>-->
+            </div>
+            <div class="col-md-3 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/Team_1.jpg" alt="" height="350">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+                <!--                            <h3> Employee 1 </h3>-->
+                <!--                            <h3> XYZ </h3>-->
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+            <div class="col-md-3 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="250">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+                                            <h3> Tom Mweuh </h3>
+                                            <h4> Registry </h4>
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+            <div class="col-md-3 prof">
+                <div class="img-box">
+                    <img class="img-pic" src="Pics/julian-wan-WNoLnJo7tS8-unsplash.jpg" alt="" width="250">
+                    <ul>
+                        <a href="#"><li><i class="bi bi-facebook"></i></li></a>
+                        <a href="#"><li><i class="bi bi-twitter"></i></li></a>
+                        <a href="#"><li><i class="bi bi-linkedin"></i></li></a>
+                    </ul>
+                </div>
+<!--                                            <h3> Charles Muia </h3>-->
+<!--                                            <h4> ICT & Digital </h4>-->
+                <!--                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>-->
+            </div>
+        </div>
+    </div>
 </section>
+
+
 
 
 <!--                Footer starts here-->
@@ -121,16 +183,14 @@
         — Justice Be Our Shield & Defender — <br>
         <!--        <i class= "fa fa-gavel">  </i> -->
     </h4>
-    <p> EFFICIENCY . COMMITMENT . INTEGRITY
-        <br> We take pride in offering personalised legal services to our adverse clientele. <br>
-        Get in touch with us.
-
+    <p> We work as a team guided by our firm’s principles towards developing and maintaining <br>long-lasting relationships with our clients,
+        <br> working round the clock to ensure their best interests are represented.
 
     </p>
     <div class="Social2">
         <p class="Footer-Con">  Advocates of The High Court of Kenya <br> <span class="dot"> </span>  Commissioner for Oaths  <span class="dot"> </span>
             <br> Legal Consultants  </p>
-<!--        <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 333 333 </span> </i>-->
+<!--        <i class= "fa fa-phone"> <br> <span class="Soc"> +254 733 678 889 </span> </i>-->
 <!--        <span class="dot2"> </span>-->
 <!--        <i class= "fa fa-envelope"> <br> <span class="Soc"> muiamwanzia@yahoo.com </span>  </i>-->
 <!--        <span class="dot2"> </span>-->
@@ -150,10 +210,8 @@
 <!--        <a href="https://www.linkedin.com/company/muia-mwanzia-co-advocates/"><i class= "fa fa-whatsapp"></i></a>-->
 <!---->
 <!--    </div>-->
-
 <!--    <p class="Credits"> &copy Copyright 2022 . Muia Mwanzia & Co. Advocates . All Rights Reserved <br> Website by <a class="Cre" href="https://www.linkedin.com/company/techware-scope-solutions/">Techware Scope Solutions.</a>-->
-<!--        </p>-->
-
+<!--    </p>-->
     <hr class="closure">
 </section>
 
@@ -203,12 +261,12 @@
             <h3> Quick Links <div class="under"> <span></span> </div> </h3>
             <p>
             <ul>
-                <li><a href="Index.php"> Home </a></li>
-                <li><a href="About.php"> About Us </a></li>
-                <li><a href="Practice.php"> Practice </a></li>
-                <li><a href="News.php"> News </a></li>
-                <li><a href="Our_Team.php"> Our Team </a></li>
-                <li><a href="Contact.php"> Contact Us </a></li>
+                <li><a href="index.php"> Home </a></li>
+                <li><a href="about.php"> About Us </a></li>
+                <li><a href="practice.php"> Practice </a></li>
+                <li><a href="news.php"> News </a></li>
+                <li><a href="our_team.php"> Our Team </a></li>
+                <li><a href="contact.php"> Contact Us </a></li>
             </ul>
             </p>
         </div>

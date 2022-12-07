@@ -27,23 +27,23 @@
 <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
-                                <li><a href="Index.php"> Muia Mwanzia & Co. Advocates <br>
+                                <li><a href="index.php"> Muia Mwanzia & Co. Advocates <br>
                                         <span> - justice be our shield and defender - </span></a></li>
             </ul>
         </div>
                 <div class="nav-links" id="navlink">
                     <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
                     <ul>
-                        <li><a href="Index.php">Home</a></li>
-                        <li><a href="About.php">About US</a></li>
-                        <li><a href="Practice.php">Practice Areas</a></li>
-                        <li><a href="News.php">News</a></li>
-                        <li><a href="Our_Team.php">Our Team</a></li>
-                        <li><a href="Contact.php">Contact Us</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About US</a></li>
+                        <li><a href="practice.php">Practice Areas</a></li>
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="our_team.php">Our Team</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                             <i class="fa fa-bars" onclick="displayMenu()"></i>
@@ -60,7 +60,7 @@
                     <br> Our practice inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
 
                 </p>
-                <a class="Learn" href="About.php"> — Learn More — </a>
+                <a class="Learn" href="about.php"> — Learn More — </a>
             </div>
 
 </section>
@@ -86,7 +86,7 @@
 <!--                                                    We help our clients and business owners to operate businesses, corporates and organisations with in the law.-->
                                                     </p>
                                                 <br>
-                                                <a class="Learn-News" href="Practice.php"> read more </a>
+                                                <a class="Learn-News" href="practice.php"> read more </a>
                                                 <br><br>
                                                 <hr>
                                             </div>
@@ -105,7 +105,7 @@
 <!--                                                <br>Alias cumque debitis distinctio magni maxime quaerat ut vel voluptates.-->
                                             </p>
                                             <br>
-                                            <a class="Learn-News" href="Practice.php"> read more </a>
+                                            <a class="Learn-News" href="practice.php"> read more </a>
                                             <br><br>
                                             <hr>
                                         </div>
@@ -128,7 +128,7 @@
 
                                                     </p>
                                                 <br>
-                                                <a class="Learn-News" href="Practice.php"> read more </a>
+                                                <a class="Learn-News" href="practice.php"> read more </a>
                                                 <br><br>
                                                 <hr>
                                             </div>
@@ -181,32 +181,32 @@
 
                                 <div class="row">
                                     <div class="nws-col">
-                                        <a href="News.php"><img src="Pics/C_J2.jpg" alt="" height="330"></a>
+                                        <a href="news.php"><img src="Pics/C_J2.jpg" alt="" height="330"></a>
                                         <h3> Corridors of Justice </h3>
                                         <p> The Supreme Court of Kenya (SCOK) renders a unanimous judgment for the Presidential Election Petition No.
                                             E005 of 2022 pursuant to Rule 23 (1) of the Supreme Count (Presidential Election Petition) Rules, 2017.
                                         </p>
-                                        <a class="Learn-News" href="News.php"> read more </a>
+                                        <a class="Learn-News" href="news.php"> read more </a>
                                     </div>
 
                                     <div class="nws-col">
-                                        <a href="News.php"><img src="Pics/Advocate_Sec.jpg" alt="" height="330"></a>
+                                        <a href="news.php"><img src="Pics/Advocate_Sec.jpg" alt="" height="330"></a>
                                         <h3> Advocates Section </h3>
                                         <p>The Chief Justice of the Republic of Kenya Hon. Justice Martha Koome launched the Judicial E-filing system
                                             for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link.
                                             <br>
                                         </p>
-                                        <a class="Learn-News" href="News.php"> read more </a>
+                                        <a class="Learn-News" href="news.php"> read more </a>
 
                                     </div>
                                     <div class="nws-col">
-                                        <a href="News.php"><img src="Pics/US-Supreme.jpg" alt="" height="330"></a>
+                                        <a href="news.php"><img src="Pics/US-Supreme.jpg" alt="" height="330"></a>
                                         <h3> International Courts </h3>
                                         <p> History made as Hon. Ketanji Onyika Brown Jackson became the first Black
                                             woman and the first former federal public defender
                                             to serve on the Supreme Court of the United States after being sworn in on June 30th, 2022.
                                         </p>
-                                        <a class="Learn-News" href="News.php"> read more </a>
+                                        <a class="Learn-News" href="news.php"> read more </a>
 
                                     </div>
                                 </div>
@@ -247,8 +247,9 @@
                                             <img src="Pics/Prince-C.jpg" alt="">
                                             <div>
                                                 <i class="bi bi-quote"></i>
-                                                <p>Brilliant legal minds, with in depth knowledge of the fields of practice.
-                                                    Aut autem consequuntur, corporis delectus ducimus enim id,</p>
+                                                <p> Brilliant legal minds, with an in depth understanding and
+                                                    knowledge of the fields of practice.
+                                                    </p>
                                                 <h3>King Charles III</h3>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -265,7 +266,7 @@
                         <h1> If you need Legal counsel, <br> advice or representation, look no further.</h1>
                         <hr>
                         <br>
-                        <a class="Learn" href="Contact.php"> — contact us — </a>
+                        <a class="Learn" href="contact.php"> — contact us — </a>
                     </section>
 
 <!--                Footer starts here-->
@@ -370,12 +371,12 @@
                                <h3> Quick Links <div class="under"> <span></span> </div> </h3>
                                <p>
                                <ul>
-                                   <li><a href="Index.php"> Home </a></li>
-                                   <li><a href="About.php"> About Us </a></li>
-                                   <li><a href="Practice.php"> Practice </a></li>
-                                   <li><a href="News.php"> News </a></li>
-                                   <li><a href="Our_Team.php"> Our Team </a></li>
-                                   <li><a href="Contact.php"> Contact Us </a></li>
+                                   <li><a href="index.php"> Home </a></li>
+                                   <li><a href="about.php"> About Us </a></li>
+                                   <li><a href="practice.php"> Practice </a></li>
+                                   <li><a href="news.php"> News </a></li>
+                                   <li><a href="our_team.php"> Our Team </a></li>
+                                   <li><a href="contact.php"> Contact Us </a></li>
                                </ul>
                                </p>
                            </div>

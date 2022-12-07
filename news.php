@@ -29,23 +29,23 @@
     <!--    <hr class="closure">-->
 
     <nav>
-        <a href="Index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
+        <a href="index.php"><img src="Pics/Logo1.jpg" alt="" height="70"></a>
         <div class="logo">
             <ul>
                 <!--                <li><a href="">Muia Mwanzia <br> <span> & </span>  <br> Co. Advocates</a></li>-->
-                <li><a href="Index.php"> Muia Mwanzia & Co. Advocates <br>
+                <li><a href="index.php"> Muia Mwanzia & Co. Advocates <br>
                         <span> - justice be our shield and defender - </span> </a></li>
             </ul>
         </div>
         <div class="nav-links" id="navlink">
             <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="Index.php">Home</a></li>
-                <li><a href="About.php">About US</a></li>
-                <li><a href="Practice.php">Practice Areas</a></li>
-                <li><a href="News.php">News</a></li>
-                <li><a href="Our_Team.php">Our Team</a></li>
-                <li><a href="Contact.php">Contact Us</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About US</a></li>
+                <li><a href="practice.php">Practice Areas</a></li>
+                <li><a href="news.php">News</a></li>
+                <li><a href="our_team.php">Our Team</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
             </ul>
         </div>
         <i class="fa fa-bars" onclick="displayMenu()"></i>
@@ -101,7 +101,7 @@
                     guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="news.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
 
             </div>
 
@@ -114,7 +114,7 @@
                     <br>
                    Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
-                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="News.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
+                <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="news.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
             </div>
         </div>
     </div>
@@ -204,12 +204,12 @@
             <h3> Quick Links <div class="under"> <span></span> </div> </h3>
             <p>
             <ul>
-                <li><a href="Index.php"> Home </a></li>
-                <li><a href="About.php"> About Us </a></li>
-                <li><a href="Practice.php"> Practice </a></li>
-                <li><a href="News.php"> News </a></li>
-                <li><a href="Our_Team.php"> Our Team </a></li>
-                <li><a href="Contact.php"> Contact Us </a></li>
+                <li><a href="index.php"> Home </a></li>
+                <li><a href="about.php"> About Us </a></li>
+                <li><a href="practice.php"> Practice </a></li>
+                <li><a href="news.php"> News </a></li>
+                <li><a href="our_team.php"> Our Team </a></li>
+                <li><a href="contact.php"> Contact Us </a></li>
             </ul>
             </p>
         </div>
