@@ -232,7 +232,7 @@
                                 Our competitive rates spurs efficiency in our practice as
                                 Advocates of the High Court of Kenya. <br>
                                 We put the interests of our clients first. <br>
-                                This is a proven fact throughout our firm's 14 years of legal practice. <br>
+                                This is a proven fact throughout our firm's 14 years experience of legal practice. <br>
 <!--                                commodi consequatur corporis exercitationem, -->
 <!--                                <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
                             </p>

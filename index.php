@@ -78,7 +78,7 @@
                                                 <i class="fa fa-handshake-o" id="pc"></i>
                                                 <h2> Litigation & Arbitration </h2>
 <!--                                                <h2> Commercial & Corporate Law </h2>-->
-                                                <p> Our legal expertise in both of these practice areas makes us the firm of choice in case assessment and litigation strategies.
+                                                <p> Our legal expertise in these practice areas makes us the firm of choice in case assessment and litigation strategies.
                                                     Our firm's practice and competitive rates enables us to represent the interests of both
                                                     individual and corporate clients in areas including but not limited to Land & Environmental Law, Civil litigation and Criminal law, Insurance law &
                                                     Family law.
