@@ -97,7 +97,7 @@
                                             <h2> Legal Advisory & Consultancy </h2>
                                             <p>
                                                     We offer best practice legal advice and consultation to both individual and corporate
-                                                    entities in a timely and competent manner. Our firm's wide sphere of practice
+                                                    entities in a timely and competent manner. <br> Our firm's wide sphere of practice
                                                     allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
                                                     Our goal is to represent your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
@@ -192,8 +192,9 @@
                                     <div class="nws-col">
                                         <a href="news.php"><img src="Pics/Advocate_Sec.jpg" alt="" height="330"></a>
                                         <h3> Advocates Section </h3>
-                                        <p>The Chief Justice of the Republic of Kenya Hon. Justice Martha Koome launched the Judicial E-filing system
-                                            for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link.
+                                        <p>The Chief Justice Hon. Justice Martha Koome launched the Judicial E-filing system
+                                            for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing the efiling link
+                                            online.
                                             <br>
                                         </p>
                                         <a class="Learn-News" href="news.php"> read more </a>
