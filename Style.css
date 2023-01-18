@@ -183,21 +183,23 @@
             text-decoration: none;
             text-transform: uppercase;
             text-shadow: antiquewhite;
-            font-weight: 700;
+            font-size: 15px;
+            font-weight: bold;
             position: relative;
             line-height: 50px;
-            border-radius: 5px;
-            border: 1px solid white;
+            border-radius: 50px;
+            border: 1px solid transparent;
             background-color: navajowhite;
             padding: 5px 15px 5px;
             margin: auto;
+            width: 100px;
         }
 
         .Learn-News:hover {
             box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
-            border: 0 solid transparent;
-            color: black;
-
+            border: 1px solid black;
+            color: darkblue;
+            background: white;
         }
 
         .Learn:hover {
