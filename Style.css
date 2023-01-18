@@ -197,7 +197,7 @@
 
         .Learn-News:hover {
             box-shadow: 0 0 20px 0 rgba(0,0,0,0.7);
-            border: 1px solid black;
+            border: 1px solid transparent;
             color: darkblue;
             background: white;
         }
