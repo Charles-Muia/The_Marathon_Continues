@@ -1505,6 +1505,7 @@
 
             .coll .fa:hover {
                 background-color: navajowhite;
+                border: 1px solid lightblue;
             }
 
             .coll p {
@@ -1521,7 +1522,7 @@
             .coll ul li {
                 list-style: none;
                 margin-bottom: 25px;
-                border: 1px solid navajowhite;
+                border: 1px solid lightblue;
                 background: darkblue;
                 border-radius: 50px;
                 text-align: -webkit-left;
@@ -1533,17 +1534,19 @@
                 text-decoration: none;
                 color: white;
                 font-size: 15px;
-                font-weight: 650;
+                font-weight: 550;
                 text-transform: uppercase;
                 padding: 5px;
             }
 
             .coll ul li a:hover {
-                color: black;
+                color: darkblue;
             }
 
             .coll ul li:hover {
                 background: navajowhite;
+                color: darkblue;
+                border: 1px solid lightblue;
             }
 
             .social_items .fa {
@@ -1562,6 +1565,9 @@
 
             .social_items .fa:hover {
                 background-color: navajowhite;
+                border: 1px solid lightblue;
+                border-radius: 50%;
+
             }
 
             /*.social_items img {*/
