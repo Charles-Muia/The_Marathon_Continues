@@ -68,7 +68,7 @@
         <div class="row">
             <div class="nws-col">
                 <img src="Pics/SCOK_.png" alt="" height="320">
-                <h3 style="text-align: left"> Corridors of Justice - Presidential Election Petition No. E005 of 2022  </h3>
+                <h3 style="text-align: left"> Corridors of Justice <i class="bi bi-dash-lg"></i> Presidential Election Petition No. E005 of 2022  </h3>
                 <h4 style="margin-left: 12px; text-align: left">Sep 5th, 2022</h4>
                 <p id="nws-col-p2">
                     The Supreme Court of Kenya upholds the Presidential Elections results
@@ -92,7 +92,7 @@
 
             <div class="nws-col">
                 <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
-                <h3 style="text-align: left"> Advocates Section - Filing of Presidential Election Petition </h3>
+                <h3 style="text-align: left"> Advocates Section <i class="bi bi-dash-lg"></i> Filing of Presidential Election Petition </h3>
                 <h4 style="margin-left: 12px; text-align: left">Aug 18th, 2022</h4>
                 <p id="nws-col-p2">
                     The Judiciary efiling system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
@@ -107,7 +107,7 @@
 
             <div class="nws-col">
                 <img src="Pics/Judges.jpg" alt="" height="320" >
-                <h3 style="text-align: left"> New Court of Appeal Judges - Swearing-in ceremony of 7 appellate Judges </h3>
+                <h3 style="text-align: left"> New Court of Appeal Judges <i class="bi bi-dash-lg"></i> Swearing-in ceremony of 7 appellate Judges </h3>
                 <h4 style="margin-left: 12px; text-align: left"> July 20th, 2022</h4>
                 <p id="nws-col-p2">
                     Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;

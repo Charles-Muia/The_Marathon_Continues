@@ -60,7 +60,7 @@
                     <br> Our practice inspires us to offer efficient and cost-effective legal solutions that meet our clients needs in a timely and competent manner.
 
                 </p>
-                <a class="Learn" href="about.php"> — Learn More — </a>
+                <a class="Learn" href="about.php"> <i class="bi bi-dash-lg"></i> Learn More <i class="bi bi-dash-lg"></i> </a>
             </div>
 
 </section>
