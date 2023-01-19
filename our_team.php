@@ -76,7 +76,7 @@
         <div class="about-col">
             <img class="Team_Pics" id="MM" src="Pics/Muia_Mwanzia.png" alt="">
             <h1 class="names"> Muia Mwanzia </h1>
-            <h3>  LLB (Hons) [Moi], Dip [KSL] </h3>
+            <h3>  LLB (Hons) [Moi], Dip [KSL] | Commissioner for Oaths </h3>
 <!--            <h2> Advocate of the High Court of Kenya </h2>-->
         </div>
         <hr>

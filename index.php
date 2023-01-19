@@ -78,7 +78,7 @@
                                                 <i class="fa fa-handshake-o" id="pc"></i>
                                                 <h2> Litigation & Arbitration </h2>
 <!--                                                <h2> Commercial & Corporate Law </h2>-->
-                                                <p> Our legal expertise in these practice areas makes us the firm of choice in case assessment and litigation strategies.
+                                                <p> Our legal expertise makes us the firm of choice in case arbitration and litigation strategies outside of court.
                                                     Our firm's practice and competitive rates enables us to represent the interests of both
                                                     individual and corporate clients in areas including but not limited to Land & Environmental Law, Civil litigation and Criminal law, Insurance law &
                                                     Family law.
@@ -97,7 +97,7 @@
                                             <h2> Legal Advisory & Consultancy </h2>
                                             <p>
                                                     We offer best practice legal advice and consultation to both individual and corporate
-                                                    entities in a timely and competent manner. <br> Our firm's wide sphere of practice
+                                                    entities in a timely and competent manner. Our firm's wide sphere of practice
                                                     allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
                                                     Our goal is to represent your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->
