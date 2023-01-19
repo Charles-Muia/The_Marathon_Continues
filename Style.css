@@ -1495,7 +1495,7 @@
 
             .coll .fa {
                 color: darkblue;
-                padding: 5px;
+                padding: 7px;
                 font-size: 20px;
                 text-align: center;
                 border: 1px solid darkblue;
@@ -1524,12 +1524,19 @@
             .coll ul li {
                 list-style: none;
                 margin-bottom: 25px;
-                border: 1px solid lightblue;
-                background: darkblue;
-                border-radius: 50px;
+                /*border: 1px solid lightblue;*/
+                /*background: darkblue;*/
+                /*border-radius: 50px;*/
                 text-align: -webkit-left;
                 padding: 0 20px;
                 width: 80px;
+                font-size: 20px;
+            }
+
+            .coll ul li:hover {
+                /*background: navajowhite;*/
+                /*color: darkblue;*/
+                /*border: 1px solid lightblue;*/
             }
 
             .coll ul li a  {
@@ -1542,13 +1549,8 @@
             }
 
             .coll ul li a:hover {
-                color: darkblue;
-            }
-
-            .coll ul li:hover {
-                background: navajowhite;
-                color: darkblue;
-                border: 1px solid lightblue;
+                color: navajowhite;
+                font-weight: 600;
             }
 
             .social_items .fa {
