@@ -68,14 +68,14 @@
         <div class="row">
             <div class="nws-col">
                 <img src="Pics/SCOK_.png" alt="" height="320">
-                <h3 style="text-align: left"> Corridors of Justice <i class="bi bi-dash-lg"></i> Presidential Election Petition No. E005 of 2022  </h3>
+                <h3 style="text-align: left"> Corridors of Justice <i class="bi bi-dash-lg"></i> Presidential Election Petition No. E005 of 2022.  </h3>
                 <h4 style="margin-left: 12px; text-align: left">Sep 5th, 2022</h4>
                 <p id="nws-col-p2">
                     The Supreme Court of Kenya upholds the Presidential Elections results
                     as announced by Wafula Chebukati, chairman of the Independent Elections and Boundaries
-                    Commission (IEBC) on 15th Aug 2022 after the 9th Aug 2022 general elections.
+                    Commission on 15th Aug 2022 after the 9th Aug 2022 general elections.
 <!--                    declaring William Ruto as president-elect and his running mate Rigathi Gachagua as the deputy president-elect, respectively.-->
-                    The unanimous supreme court ruling was read out by
+                    The unanimous ruling was read out by
                     the Chief Justice and President of the Supreme Court of Kenya Hon Justice Martha Koome.
 
 <!--                    The Supreme Court receives 9 Presidential Election Petitions from the following:-->
@@ -91,14 +91,20 @@
             </div>
 
             <div class="nws-col">
-                <img src="Pics/Advocate_Sec.jpg" alt=""height="320">
-                <h3 style="text-align: left"> Advocates Section <i class="bi bi-dash-lg"></i> Filing of Presidential Election Petition </h3>
-                <h4 style="margin-left: 12px; text-align: left">Aug 18th, 2022</h4>
+                <img src="Pics/Frequently_Asked_Question.jpg" alt=""height="320">
+                <h3 style="text-align: left"> Advocates Section <i class="bi bi-dash-lg"></i> FAQ's on the Filing of Petitions for Admission to the Bar. </h3>
+                <h4 style="margin-left: 12px; text-align: left">Jan 11th, 2023</h4>
                 <p id="nws-col-p2">
-                    The Judiciary efiling system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome
-                    President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective, seemless and efficient process of filing related cases.
-                    All law firms and advocates can now file cases online via the efiling <a href="https://efiling.court.go.ke">link</a>. The
-                    guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>
+                    The Chief Justice and President of the Supreme Court of Kenya
+                    Hon Justice Martha Koome launched the Judiciary Advocates Management System.
+                    Qualified candidates can submit petitions for admission to the bar
+                    <a href="https://jams.court.go.ke.">online</a>. Click
+                    <a href="Pics/Frequently_Asked_Questions.jpg" target="_blank">here</a> to open
+                    the Frequently Asked Questions on the Filing of Petitions for Admission as Advocates of the High Court of Kenya.
+<!--                    The Judiciary efiling system for Election Dispute Resolution (EDR) launched by the Hon. Martha Koome-->
+<!--                    President of the Supreme Court and the Chief Justice of the Republic of Kenya offers an effective, seemless and efficient process of filing related cases.-->
+<!--                    All law firms and advocates can now file cases online via the efiling <a href="https://efiling.court.go.ke">link</a>. The-->
+<!--                    guidelines can be downloaded via this <a href="https://t.co/Xt73KJhEdo">link</a>-->
                 </p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
                 <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="news.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
@@ -107,12 +113,12 @@
 
             <div class="nws-col">
                 <img src="Pics/Judges.jpg" alt="" height="320" >
-                <h3 style="text-align: left"> New Court of Appeal Judges <i class="bi bi-dash-lg"></i> Swearing-in ceremony of 7 appellate Judges </h3>
+                <h3 style="text-align: left"> New Court of Appeal Judges <i class="bi bi-dash-lg"></i> Swearing-in ceremony of 7 appellate Judges. </h3>
                 <h4 style="margin-left: 12px; text-align: left"> July 20th, 2022</h4>
                 <p id="nws-col-p2">
-                    Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges namely;
+                    Judiciary Chief Registrar Anne Amadi conducted the swearing-in ceremony of the 7 appellate judges at State  House, Nairobi.
                     <br>
-                   Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali  at State  House, Nairobi.</p>
+                   Lawyer<i class="bi bi-dot"></i>Gachoka Paul Mwaniki and High Court Judges<i class="bi bi-dot"></i>Achode Lydia Awino<i class="bi bi-dot"></i>Ochieng Frederick Andago<i class="bi bi-dot"></i>Mativo John Mutinga<i class="bi bi-dot"></i>Ngenye Grace Wangui<i class="bi bi-dot"></i>Kimaru Luka Kiprotich &<i class="bi bi-dot"></i>Aroni Abida Ali.</p>
 <!--                <a class="Learn-News" href="News.php"> read more </a>-->
                 <a class="Learn-News" style= "font-size:12px; line-height: 15px; margin-left: 12px; float: left" href="news.php"> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> read more </a>
             </div>
