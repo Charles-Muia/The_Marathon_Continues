@@ -193,8 +193,8 @@
                                         <a href="news.php"><img src="Pics/Frequently_Asked_Question.jpg" alt="" height="330"></a>
                                         <h3> Advocates Section </h3>
                                         <p>
-                                            Frequently Asked Questions regarding the online Filing of Petitions for Admission as Advocates of the High Court of Kenya
-                                            through the Judiciary Advocates Management System (JAMS).
+                                            Here are sampled Frequently Asked Questions regarding the online Filing of Petitions for Admission as Advocates of the High Court of Kenya
+                                            through the recently launched Judiciary Advocates Management System (JAMS).
 <!--                                            The Chief Justice Hon. Justice Martha Koome launched the Judicial E-filing system-->
 <!--                                            for Election Dispute Resolution (EDR). Law firms and Advocates can now interact with the system by accessing -->
 <!--                                            the efiling link online.-->
