@@ -137,6 +137,7 @@
         </section>
 
 <!--                        Commitment section starts here-->
+
                         <section class="Commitment">
                                 <h1>  Our Principles  </h1>
                             <p>
@@ -173,6 +174,7 @@
                      </section>
 
 <!--                        News sections starts here-->
+
             <section>
                             <div class="nws">
                                 <h1>  News </h1>
@@ -216,6 +218,7 @@
                                 </div>
                             </div>
             </section>
+
 <!--                Client Testimonials starts here-->
 
                     <section class="Client-testimonials">
