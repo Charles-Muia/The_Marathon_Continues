@@ -598,7 +598,10 @@
                 /*letter-spacing: 1px;*/
                 padding: 10px;
                 /*font-variant: all-petite-caps;*/
+            }
 
+            .Footer #left {
+                color: blue;
             }
 
             .Footer h4 .fa {

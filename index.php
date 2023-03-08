@@ -284,7 +284,7 @@
                         </h4>
 
                                                 <p class="quote">
-                                                    <i class="fa fa-quote-left"></i>
+                                                    <i class="fa fa-quote-left" id="left"></i>
                                                     <br>
                                                     The clearest way to show what the rule of law means to us in everyday life
                                                     <br> is to recall what has happened when there is no rule of law.
