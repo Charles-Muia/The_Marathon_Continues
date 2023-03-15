@@ -1503,7 +1503,7 @@
 
             .roww2 {
                 width: 70px;
-                margin-bottom: 15px;
+                margin-bottom: 150px;
                 border-radius: 50%;
                 border: 1px solid white;
             }
@@ -1511,13 +1511,13 @@
             .coll h3 {
                 width: fit-content;
                 position: relative;
-                margin-bottom: 30px;
+                margin-bottom: 40px;
                 padding: 0 10px;
             }
 
             .coll .fa {
                 color: darkblue;
-                padding: 7px;
+                padding: 10px;
                 font-size: 20px;
                 text-align: center;
                 border: 1px solid darkblue;
@@ -1525,6 +1525,8 @@
                 height: 20px;
                 width: 20px;
                 background-color: white;
+                margin-right: 5px;
+                cursor: pointer;
             }
 
             .coll .fa:hover {
@@ -1538,10 +1540,11 @@
 
             .email_id {
                 width: fit-content;
-                border-bottom: 1px solid white;
-                padding-bottom: 5px;
-                margin: 20px 0;
+                /*border-bottom: 1px solid white;*/
+                /*padding-bottom: 5px;*/
+                /*margin: 20px 0;*/
         }
+
 
             .coll ul li {
                 list-style: none;
@@ -1577,6 +1580,8 @@
             .social_items .fa {
                 width: 20px;
                 margin-bottom: 20px;
+                margin-right: 5px;
+                margin-left: 5px;
                 height: 20px;
                 font-size: 20px;
                 color: darkblue;
@@ -1624,10 +1629,10 @@
         .under {
             position: absolute;
             border-radius: 2px;
-            width: 80px;
+            width: 40px;
             height: 2px;
             top: 30px;
-            left: 0;
+            left: 5px;
             background: white;
             margin: 0 15px;
         }
