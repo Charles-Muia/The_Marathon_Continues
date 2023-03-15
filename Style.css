@@ -521,6 +521,10 @@
             /*border-radius: 20px;*/
         }
 
+        .test-col p:hover {
+            color: #ffffff;
+        }
+
         .test-col h3 {
             margin-top: 10px;
             text-align: left;
@@ -601,7 +605,7 @@
             }
 
             .Footer #left {
-                color: blue;
+                color: darkblue;
             }
 
             .Footer h4 .fa {

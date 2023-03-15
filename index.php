@@ -289,9 +289,9 @@
                                                     The clearest way to show what the rule of law means to us in everyday life
                                                     <br> is to recall what has happened when there is no rule of law.
                                                     <br>
-                                                    <i class="fa fa-quote-right" aria-hidden="true"></i> </p>
+                                                    <i class="fa fa-quote-right" id="left" aria-hidden="true"></i> </p>
 
-                                                    <h3> Dwight D. Eisenhower.  <br> — </h3>
+                                                    <h3> Dwight D. Eisenhower.  <br> <i class="bi bi-dash-lg" id="left"></i> </h3>
 
 <!--                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut, <br>-->
 <!--                            commodi consequatur corporis exercitationem, <br> ipsam iste maiores modi mollitia nostrum omnis pariatur-->
