@@ -278,8 +278,8 @@
 
 <!--                Footer starts here-->
                     <section class="Footer">
-                        <h4> Muia Mwanzia & Co. Advocates <br>
-                            — Justice Be Our Shield & Defender — <br>
+<!--                        <h4> Muia Mwanzia & Co. Advocates <br>-->
+<!--                            — Justice Be Our Shield & Defender — <br>-->
 <!--                            <i class= "fa fa-gavel">  </i>-->
                         </h4>
 
