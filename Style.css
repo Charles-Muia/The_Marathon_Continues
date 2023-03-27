@@ -94,12 +94,11 @@
             font-size: 20px;
             display: inline-block;
             width: auto;
-
         }
 
         .nav-links ul li {
             list-style: none;
-            /*font-family: "Microsoft JhengHei UI Light";*/
+            /*font-family: 'roboto condensed', sans-serif;*/
             font-weight: 800;
             font-size: 17px;
             text-transform: uppercase;
