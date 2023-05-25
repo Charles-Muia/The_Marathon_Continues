@@ -97,7 +97,7 @@
                                             <h2> Legal Advisory & Consultancy </h2>
                                             <p>
                                                     We offer best practice legal advice and consultation to both individual and corporate
-                                                    entities in a timely and competent manner. Our firm's wide sphere of practice
+                                                    entities in a timely and competent manner. Our firm's experience and professionalism
                                                     allows us to advice our adverse clientele in making informed decisions and undertake appropriate ventures with in law.
                                                     Our goal is to represent your best interests at all times.
 <!--                                                Our goal in civil litigation is to represent clients in any compensatory or punitive damages in the Lower Courts, High Court and Court of Appeal.-->

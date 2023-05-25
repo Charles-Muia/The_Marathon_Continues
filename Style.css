@@ -186,13 +186,14 @@
             text-decoration: none;
             text-transform: uppercase;
             text-shadow: antiquewhite;
+            color: #ffffff;
             font-size: 15px;
             font-weight: bold;
             position: relative;
             line-height: 50px;
-            border-radius: 50px;
+            /*border-radius: 50px;*/
             border: 1px solid transparent;
-            background-color: navajowhite;
+            background-color: royalblue;
             padding: 5px 15px 5px;
             margin: auto;
             width: 100px;
@@ -1126,10 +1127,12 @@
             padding: 3px;
             margin-bottom: 30px;
         }
+
         .container-fluid {
             width: 50%;
             margin: 40px auto;
         }
+
         .container-fluid h1 {
             color: darkblue;
             position: relative;

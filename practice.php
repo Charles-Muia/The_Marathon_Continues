@@ -185,7 +185,7 @@
 
 <section class="faqs">
                     <div class="container-fluid">
-                        <h1> FAQs </h1>
+                        <h1> FAQs </h1> <br>
                              <div class="accordion">
                                      <div class="icons"></div>
                                   <h3> What is efiling? </h3>
