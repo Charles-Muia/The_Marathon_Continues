@@ -1555,7 +1555,7 @@
                 /*border-radius: 50px;*/
                 text-align: -webkit-left;
                 padding: 0 20px;
-                width: 80px;
+                width: max-content;
                 font-size: 20px;
             }
 

@@ -205,7 +205,7 @@
             <ul>
                 <li><a href="index.php"> Home </a></li>
                 <li><a href="about.php"> About Us </a></li>
-                <li><a href="practice.php"> Practice </a></li>
+                <li><a href="practice.php"> Practice Areas </a></li>
                 <li><a href="news.php"> News </a></li>
                 <li><a href="our_team.php"> Our Team </a></li>
                 <li><a href="contact.php"> Contact Us </a></li>
